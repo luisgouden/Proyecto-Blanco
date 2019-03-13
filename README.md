@@ -1,3 +1,1 @@
 # Proyecto Blanco
-
-## Holi  
