@@ -1,7 +1,11 @@
-- Prota
+
+- Protagonista
 - Maga
 - Siervo
-- LADRONES
-    - Jefa
-    - Semi mago
-    - Seguridad x 2
+
+LADRONES
+
+- Jefa
+- Semi mago
+- Espia 1
+- Espia 2
