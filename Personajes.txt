@@ -1,11 +1,12 @@
 
 - Protagonista
 - Maga
+ - Sin un brazo. (desde un primer momento quería hacer que el personaje mago no tuviese un brazo para plasmas los verdaderos problemas que puede causar no usar bien la magia. Durante un tiempo me olvidé de eso pero después de ver que Nero de DMC5 no tiene brazo lo volví a añadir.)
 - Siervo
 
 LADRONES
 
 - Jefa
 - Semi mago
-- Espia 1
-- Espia 2
+- Espía 1
+- Espía 2
