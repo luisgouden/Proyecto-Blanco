@@ -1,14 +1,41 @@
-- prologo: maga
-- primero: impostor
-- segundo: ayudante (chica)
-- tercero: maga
-- cuarto: prota disfrazada
-- quinto: ladrones
-- sexto: prota en palacio
-- septimo: impostor en palacio
-- octavo: diafrazada
-- noveno: maga? / Extra?
-- decimo: reunion
-- decimo primero: sirviente del impostor
-- décimo segundo: maga / maga en Atlantis / Atlantis?
+- prologo
+· protagonista: maga
+
+- primero
+· protagonista: impostor
+
+- segundo
+· protagonista: ayudante (chica)
+
+- tercero
+· protagonista: maga
+
+- cuarto
+· protagonista: elle disfrazada
+
+- quinto:
+· protagonista: ladrones
+
+- sexto:
+· protagonista: elle en palacio
+
+- septimo:
+· protagonista: impostor en palacio
+
+- octavo:
+· protagonista: elle diafrazada
+
+- noveno:
+· protagonista: maga? / Extra?
+
+- decimo:
+· protagonista: reunion
+
+- decimo primero:
+· protagonista: sirviente del impostor
+
+- décimo segundo:
+· protagonista: maga / maga en Atlantis / Atlantis?
+
 - decimo tercero:
+· protagonista:
