@@ -16,4 +16,7 @@ PALACIO
 
 - Papa
 - Mama
-- Sustituto
+- Impostor
+-
+
+ATLANTIS

@@ -1,0 +1,14 @@
+- prologo: maga
+- primero: impostor
+- segundo: ayudante (chica)
+- tercero: maga
+- cuarto: prota disfrazada
+- quinto: grupo
+- sexto: prota en palacio
+- septimo: impostor en palacio
+- octavo:  diafrazada
+- noveno: maga? / Extra?
+- decimo: reunion
+- decimo primero: sirviente del impostor
+- décimo segundo: maga / maga en Atlantis / Atlantis?
+- decimo tercero:
