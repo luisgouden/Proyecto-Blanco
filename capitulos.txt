@@ -3,10 +3,10 @@
 - segundo: ayudante (chica)
 - tercero: maga
 - cuarto: prota disfrazada
-- quinto: grupo
+- quinto: ladrones
 - sexto: prota en palacio
 - septimo: impostor en palacio
-- octavo:  diafrazada
+- octavo: diafrazada
 - noveno: maga? / Extra?
 - decimo: reunion
 - decimo primero: sirviente del impostor
