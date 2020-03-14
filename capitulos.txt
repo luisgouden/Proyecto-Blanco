@@ -1,35 +1,46 @@
 - prologo
 · protagonista: maga
+· que pasa: Resumen de todas las cosas raras de la historia y declaración de intenciones.
 
 - primero
 · protagonista: impostor
+· que pasa: Explicación básica de los "Solari" y la vida en palacio.
 
 - segundo
 · protagonista: ayudante (chica)
+· que pasa: Explicación básica de los "Lunari" y la vida de los sirvientes.
 
 - tercero
 · protagonista: maga
+· que pasa: Explicación básica de la "magia" y costumbres básicas de la "raza" del conocimiento.
 
 - cuarto
 · protagonista: elle disfrazada
+· que pasa: Explicación básica de la ciudad.
 
 - quinto:
-· protagonista: ladrones
+· protagonista: ladrones.
+· que pasa: Explicación básica de los bajos fondos.
 
 - sexto:
 · protagonista: elle en palacio
+· que pasa: Vida de elle en palacio, haciendo comparación para que no se sepa que es ella la que esta fuera, aquí se verá que tiene una forma curiosa de hablar.
 
-- septimo:
+- séptimo:
 · protagonista: impostor en palacio
+· que pasa: Se hace oficial el compromiso entre elle y X, el impostor se pone nervioso y dice que es urgente matar a elle
 
 - octavo:
-· protagonista: elle diafrazada
+· protagonista: elle disfrazada
+· que pasa: Con el compromiso oficial, tiene mas prisa por huir, aquí hay que confundir... pensando que elle es un espía de el impostor.
 
 - noveno:
 · protagonista: maga? / Extra?
+· que pasa: Primer "encuentro" de elle y la maga en realidad no llegan a interactuar. Este capitulo ocurre paralelamente al anterior. La maga afecta indirectamente en los acontecimientos y consigue que elle conozca a los ladrones.
 
 - decimo:
-· protagonista: reunion
+· protagonista: ladrones.
+· que pasa: planteamiento del verdadero argumento de la historia y punto de inflexión.
 
 - decimo primero:
 · protagonista: sirviente del impostor

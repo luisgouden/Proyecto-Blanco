@@ -12,6 +12,7 @@
 
 1.6 Prota género neuro o femenina.
 
+
 ## 2 Meh
 
 2.1 Personajes principalmente femeninos o andróginos (religión que potencie eso).
@@ -26,6 +27,7 @@
 
 2.6 Mundo blanco esta poblado por criaturas gigantescas.
 
+
 ## 3 Perfilado
 
 3.1 Magia "más" frecuente.
@@ -35,6 +37,7 @@
 3.3 Sin control suficiente la magia te disuelve. Necesitas autoconocimiento para poderla ejecutar y mantener (Oráculo de Delfos)
 
 3.4 Como protección, los magos "sellan" sus conciencias con tatuajes en su cuerpo. A partir de cierto numero de sellos la mente no funciona correctamente y produce Dislalias. Afasia.
+
 
 ## 4 Mapa
 #### Considero la creación del mapa algo relevante porque me ayudó a dar coherencia a la historia y marcó un importante antes y después.
@@ -47,9 +50,10 @@
 
 4.4 En la historia la magia no esta bien vista porque ha sido la causante de la fracturación del país.
 
+
 ## 5 DESPUES DE UN PARÓN LARGO
 
-5.1 Generar confusión con los generos.
+5.1 Generar confusión con los géneros.
 
 5.2 Hacer creer al lector que el protagonista es el impostor. Siendo "doblemente impostor"
 
