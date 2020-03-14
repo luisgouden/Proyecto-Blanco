@@ -6,6 +6,7 @@
  (desde un primer momento quería hacer que el personaje mago no tuviese un brazo para plasmas los verdaderos problemas que puede causar no usar bien la magia. Durante un tiempo me olvidé de eso pero después de ver que Nero de DMC5 no tiene brazo lo volví a añadir)
 
 LADRONES
+(dos de los ladrones son hermanes)
 
 - Jefa
 - Semi mago
