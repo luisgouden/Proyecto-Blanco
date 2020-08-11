@@ -1,104 +1,119 @@
-- prologo
+- 0:
 · protagonista: maga
 · donde: blanco
 · que pasa: Resumen de todas las cosas raras de la historia y declaración de intenciones.
 · extendido:
 
-- primero
+- 1:
 · protagonista: impostor
 · donde: palacio
 · que pasa: Explicación básica de los "Solari" y la vida en palacio.
 · extendido: Pequeño paseo por el palacio, tiene clase de magia(control de la reliquia que va a heredar). Aun no la maneja bien pero si mejor que Elle(burlas). Cuando termina habla con varios trabajores de palacio (uno de ellos convertido(con el sufijo recién puesto en el nombre))
 
-- segundo
+- 2:
 · protagonista: ayudante del impostor (chica)
 · donde: ciudad y palacio
 · que pasa: Explicación básica de los "Lunari" y la vida de los sirvientes.
 · extendido: Esta comprando algo que sabe que le gusta mucho al impostor. A la vuelta al castillo pasa por la zona de servicio. Al final del capitulo se cruza con el impostor y plantea el argumento falso. Ella no está del todo de acuerdo pero acata las ordenes.
 
-- tercero
+- 3:
 · protagonista: maga
 · donde: ciudad/mercado
 · que pasa: Explicación básica de la "magia" y costumbres básicas de la "raza" del conocimiento.
 · extendido: Zeliie preparando su puesto y una pequeña interactuación con la gente de la ciudad. Conversaciones entre Zeliie y Shire sobre como la gente es tan supersticiosa e ignorante con respecto a la "magia" y a la gente del conocimiento.
 
-- cuarto
+- 4:
 · protagonista: elle disfrazada
 · donde: ciudad y afueras
 · que pasa: Explicación básica de la ciudad.
 · extendido: Elle en estado puro, una vez sale del nucleo conocido de la ciudad Elle se comporta más o menos como es, la gente la conoce como otra persona no como la futura heredera y aunque se extrañan por lo que pregunta no preguntan más. Hay que dar a entender que es la ayudante del impostor o dar pie a la equivocación al menos.
 
-- quinto:
+- 5:
 · protagonista: ladrones.
 · donde: afueras de la ciudad
 · que pasa: Explicación básica de los bajos fondos.
 · extendido:
 
-- sexto:
+- 6:
 · protagonista: elle
 · donde: palacio
 · que pasa: Vida de elle en palacio, haciendo comparación para que no se sepa que es ella la que esta fuera, aquí se verá que tiene una forma curiosa de hablar.
-· extendido: Elle empieza en el cuarto, luego habla con su sirviente (chico/lunari) tiene una clase y despues da una pequeña vuelta.
+· extendido: Elle empieza en el cuarto, luego habla con su sirviente (chico/lunari) tiene una clase y después da una pequeña vuelta.
 
-- sexto:
+- 7:
 · protagonista: zeliie de joven
 · donde: atlantis
 · que pasa: Explicación básica de la situación geo-politica de antes del cataclismo.
 · extendido:
 
-- séptimo:
+- 8:
 · protagonista: impostor
 · donde: palacio
 · que pasa: Se hace oficial el compromiso entre elle y X, el impostor se pone nervioso y dice que es urgente matar a elle.
-· extendido: Reunion de altos cargos con un emisario de la otra parte de la isla, el impostor está presente como futuro heredero (elle tambien pero apartade), hablam un poco de la situacion de la isla y de los beneficios y luego, el impostor sale corriendo muy enfadado.
+· extendido: Reunion de altos cargos con un emisario de la otra parte de la isla, el impostor está presente como futuro heredero (elle tambien pero apartade), hablan un poco de la situación de la isla y de los beneficios y luego, el impostor sale corriendo muy enfadado.
 
-- octavo:
+- 9:
 · protagonista: elle disfrazada
 · donde: bajos fondos
 · que pasa: Con el compromiso oficial, tiene mas prisa por huir, aquí hay que confundir... pensando que elle es un espía de el impostor.
 · extendido: Empieza por el mercado y pasa por la tienda de Zeliie y se dirige a los bajos fondos, habla siempre del compromiso, que hay que hacer algo y "solucionar" las cosas. Shire empieza a perseguirle y a molestarle para volver a guiarle a la tienda de Zeliie donde se encuentra con el ladron/mago
 
-- noveno:
+- 10:
 · protagonista: maga
 · donde: mercado
 · que pasa: Primer "encuentro" de elle y la maga en realidad no llegan a interactuar. Este capitulo ocurre paralelamente al anterior. La maga afecta indirectamente en los acontecimientos y consigue que elle conozca a los ladrones.
+· extendido: Zeliie está tranquilamente en su tienda atendiendo a gente random, aparece la ladrona maga para reparar una cosa, en verdad es una prueba para saber si es suficientemente buena. Ella lo sabe pero le sigue el juego, hasta que los clientes se van. Mientras en segundo plano está habla con Shire para guiarla mientras está con Ginn
+
+- 11:
+· protagonista:
+· que pasa:
 · extendido:
 
-- decimo:
+- 12:
 · protagonista: ladrones.
 · donde: mercado
 · que pasa: planteamiento del verdadero argumento de la historia y punto de inflexión. Mencionan la magia de refilón.
-· extendido:
+· extendido: Se reunen todos en la guarida de los ladrones, se presenta brevemente al equipo. Los ladrones quieren robar una de las reliquias de la fu  tura reina, discuten sobre como entrar y el papel que tendrá Zeliie (teoricamente secundario) será solo el "apoyo" del mago ladrón. Hablan de posibles aliados o alguien que podrian persuadir y mencionan de pasada a Ginn.
 
-- decimo primero:
+- 13:
 · protagonista: sirviente del impostor
 · donde: palacio
 · que pasa: avanzan los preparativos (para el asesinato), va a celebrarse una fiesta en honor al compromiso.
-· extendido:
+· extendido: La sirvienta del impostor está por los bajos fondos, entra en un local y se reune con un asesino, le da un lugar y una hora (es el banquete) y una invitación para poder acceder. Está un poco arrepentida, pero sabe las represalias que sufrirá si el impostor no tiene lo que quiere.
 
-- décimo segundo:
+- 14:
 · protagonista: maga / maga en Atlantis / Atlantis?
 · que pasa:
 · extendido:
 
-- decimo tercero:
+- 14:
 · protagonista: elle
 · donde: palacio
 · que pasa: Intentos de magia, introspección y preparando todo para el robo.
 · extendido:
 
-- decimo cuarto:
+- 14 bis:
+· protagonista:
+· que pasa:
+· extendido:
+
+- 15:
 · protagonista: Ladrones
 · donde: palacio
 · que pasa: EL GRAN ROBO / ASESINATO.
 · extendido:
 
-- decimo quinto:
+- 16:
 · protagonista: el
 · que pasa: El impostor se convierte finalmente en heredero peeeeeeero le han robado la reliquia.
 · extendido:
 
-- decimo sexto:
+- 17:
 · protagonista: Maga
 · que pasa: EXPLOSION?
+· extendido:
+
+- 18/ epílogo:
+· protagonista:
+· que pasa:
 · extendido:
