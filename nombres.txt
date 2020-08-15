@@ -6,7 +6,15 @@ Maga: X / Zeliie
 
 Lugares
 
-Sol: Kel
-Ciudad: Suuri
-Capital-Solari: Kel
-Capital-Conocimiento: 
+Ciudad: Suuri (grande en fines)
+Capital-Solari: Kel (ni idea :D)
+Capital-Conocimiento:
+
+Sistema:
+
+1 Kel (ni idea :D)
+2 Veli (hermano en fines)
+3 Heim (hogar islandes)
+4  -
+5 Alka (inicio en fines / se supone que es el primer planeta creado del sistema)
+6 Kage (sombra en japones)
