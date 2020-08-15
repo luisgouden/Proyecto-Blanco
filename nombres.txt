@@ -9,4 +9,4 @@ Lugares
 Sol: Kel
 Ciudad: Suuri
 Capital-Solari: Kel
-Capital-Conocimiento:
+Capital-Conocimiento: 
