@@ -1,18 +1,10 @@
 - 0:
-· protagonista: Zeliie
-· donde: blanco
-· que pasa: Resumen de todas las cosas raras de la historia y declaración de intenciones.
-· extendido:
+·
 
 - 1:
-· protagonista: impostor
-· donde: palacio (Masia imaginaria)
 · Suuri camina tranquilamente por los jardines, su ayudante sale a buscarlo y le recuerda que tenia una reunión hace unos minutos y que le están esperando. El echa una última ojeada a un punto y vuelve tranquilamente. Entra a la casa por el pasillo y entra en la habitación. En ella ya están sus "espias", hablando de la inminente llegada de "la prometida" y de si los preparativos están listo. Insinuan algo de la misión, pero en ese momento se da cuenta de que Ginn está en la habitación leyendo. Instintivamente toca su anillo. Después de unos cuantos apuntes y de despreciar los libros, la reunión termina y Suuri se va con prisa.
 
 - 2:
-· protagonista: ayudante del impostor (chica)
-· donde: ciudad y palacio
-· que pasa: Explicación básica de los "Lunari" y la vida de los sirvientes.
 · extendido: Esta comprando algo que sabe que le gusta mucho al impostor. A la vuelta al castillo pasa por la zona de servicio. Al final del capitulo se cruza con el impostor y plantea el argumento falso. Ella no está del todo de acuerdo pero acata las ordenes.
 
 - 3:
