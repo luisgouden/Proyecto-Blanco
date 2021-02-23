@@ -51,9 +51,8 @@
 
 - 10:
 · protagonista: prometida
-· donde:
-· que pasa:
-· extendido:
+· donde: jardines alrededor de la embajada.
+· que pasa: Primer encuentro entre la prometida y Ginn, Ella piensa que es una criada pero Ginn al verla sale corriendo.
 
 - 11:
 · protagonista: Ginn disfrazada
@@ -77,11 +76,13 @@
 
 - 15:
 · protagonista: Zeliie / Zeliie en Atlantis / Atlantis?
+· donde:
 · que pasa:
 
 - 16:
 · protagonista: prometida
-· que pasa:
+· donde: En el mercado
+· que pasa: Esta paseando tranquilamente por el centro para familiarizarse con su nueva ciudad. Al pasar por la tienda de Zeliie ella se queda pasmada. Se parece mucho a la verdadera Zeliie, esta apunto de hablar con ella pero
 
 - 17:
 · protagonista: Ginn
@@ -90,17 +91,25 @@
 
 - 18:
 · protagonista: Ladrones
-· donde: palacio
-· que pasa: EL GRAN ROBO / ASESINATO.
+· donde: mundo blanco
+· que pasa: entrada al palacio
 
 - 19:
-· protagonista: el
-· que pasa: El impostor se convierte finalmente en heredero peeeeeeero le han robado la reliquia.
+· protagonista: Asesino
+· donde: palacio
+· que pasa: asesinato
 
 - 20:
+· protagonista: Suuri
+· donde:
+· que pasa: El impostor se convierte finalmente en heredero peeeeeeero le han robado la reliquia.
+
+- 21:
 · protagonista: Zeliie
+· donde:
 · que pasa: EXPLOSION?
 
-- 21 / epílogo:
+- 22 / epílogo:
 · protagonista:
+· donde:
 · que pasa:
