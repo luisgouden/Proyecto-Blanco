@@ -15,7 +15,7 @@
 · que pasa: Explicación básica de los "Lunari" y la vida de los sirvientes.
 
 - 3:
-· protagonista: prometida
+· protagonista: Maara
 · donde: La otra Capital
 · que pasa: Introducción a la otra isla y los portales (economia) de la isla, preparación del viaje. Raza del conocimiento.
 
@@ -50,9 +50,9 @@
 · que pasa: Se hace oficial el compromiso entre Ginn y X, el impostor se pone nervioso y dice que es urgente matar a Ginn.
 
 - 10:
-· protagonista: prometida
+· protagonista: Maara
 · donde: jardines alrededor de la embajada.
-· que pasa: Primer encuentro entre la prometida y Ginn, Ella piensa que es una criada pero Ginn al verla sale corriendo.
+· que pasa: Primer encuentro entre Maara y Ginn, Ella piensa que es una criada pero Ginn al verla sale corriendo.
 
 - 11:
 · protagonista: Ginn disfrazada
@@ -80,7 +80,7 @@
 · que pasa:
 
 - 16:
-· protagonista: prometida
+· protagonista: Maara
 · donde: En el mercado
 · que pasa: Esta paseando tranquilamente por el centro para familiarizarse con su nueva ciudad. Al pasar por la tienda de Zeliie ella se queda pasmada. Se parece mucho a la verdadera Zeliie, esta apunto de hablar con ella pero
 
