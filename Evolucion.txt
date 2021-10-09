@@ -1,4 +1,4 @@
-## 1 Idea inicial
+##   1 Idea inicial
 
 1.1 Quería "spren" para conversaciones divertidas.
 
@@ -19,7 +19,7 @@
 
 2.2 Que se puedan crear portales mediante magia.
 
-2.3 Que el lenguaje/pensamiento/conocimiento estén estrechamente vinculados a la magia.
+2.3 Que el lenguaje/pensamiento/conocimiento estén *estrechamente* vinculados a la magia.
 
 2.4 Que la magia sea más teórica que práctica.
 
@@ -63,7 +63,7 @@
 
 5.5 Estelar terminado. Tiene grandes similitudes. Zapadores, portales, gente que puede pasar de un sitio a otro y transportarse desde un mundo "atemporal" y mineria de un material imprescindible. Cuanto menos curioso.
 
-## 6 NUEVO MAPA Y SISTEMA Planetario
+## 6 NUEVO MAPA Y SISTEMA PLANETARIO
 
 6.1 La isla 3 tiene un material que venden carisimo (cristal de swaroski) es como en mundo disco la isla que es de oro.
 6.2 Las reliquias/objetos magicos de antes de la Colision son muy dificiles de encontrar porque como los magos no estan muy bien visto pues no pueden fabricar más. En el mercado se venden muy caras y suelen ser una herencia muy importante.
