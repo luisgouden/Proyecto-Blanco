@@ -69,8 +69,10 @@
 6.2 Las reliquias/objetos magicos de antes de la Colision son muy dificiles de encontrar porque como los magos no estan muy bien visto pues no pueden fabricar más. En el mercado se venden muy caras y suelen ser una herencia muy importante.
 6.3 Elle le quita la reliquia (que teoricamente deberia ser suya) al impostor.
 
+## 7 EXPANSION DE CAPITULOS ANTES DE ESCRIBIR
 
-# Trama
+
+## Trama
 
 - Ocean's Eleven
 

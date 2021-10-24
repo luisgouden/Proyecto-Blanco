@@ -7,12 +7,12 @@ Es una lider nata y se desenvuelve muy bien en publico. Es organizada y tiende a
 PALACIO
 
 - Papa **1**
-- Mama **2**
+- Mama **2** / **4** / **9**
 - Impostor--> **8** -> Patriota ->
 - sierva del impostor--> 2 ->
 
 - Protagonista -> **5 / 6** --> Vivianna / Celeste
-- Siervo -> **9?** -->
+- Siervo -> **9** / **6** -->
 
  LADRONES
  (dos de los ladrones son hermanes)
@@ -24,7 +24,7 @@ PALACIO
 
  ATLANTIS
 
- - Maga -> Naruto / Kelsier / Vasher
+ - Maga -> **8**  Naruto / Kelsier / Vasher
 
    Sin un brazo.
    (desde un primer momento quería hacer que el personaje mago no tuviese un brazo para plasmas los verdaderos problemas que puede causar no usar bien la magia. Durante un tiempo me olvidé de eso pero después de ver que Nero de DMC5 no tiene brazo lo volví a añadir)
