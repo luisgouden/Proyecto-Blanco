@@ -28,5 +28,5 @@ PALACIO
 
    Sin un brazo.
    (desde un primer momento quería hacer que el personaje mago no tuviese un brazo para plasmas los verdaderos problemas que puede causar no usar bien la magia. Durante un tiempo me olvidé de eso pero después de ver que Nero de DMC5 no tiene brazo lo volví a añadir)
-   (Zeliie no es su verdadero nombre, se me ocurrió cuando pensé en incluir flashbacks de la maga antes del choque de platenas, que zeliie fuese alguien importante, su profesora? zeliie ha hecho algo prohibido?
+   (Zeliie no es su verdadero nombre, se me ocurrió cuando pensé en incluir flashbacks de la maga antes del choque de planetas, que zeliie fuese alguien importante, su profesora? zeliie ha hecho algo prohibido?
 

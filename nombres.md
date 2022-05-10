@@ -3,7 +3,7 @@ Personajes
 Impostor: Suri (Suuri)
 Ayudante del impostor: Sheed
 Elle: Ginn (horizonte en islandés)
-Maga: X / Zeliie
+Maga: Riin (Caos en Islandes) / Zeliie
 Prometida: Maara (destino en fines)
 
 Lugares

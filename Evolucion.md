@@ -50,7 +50,6 @@
 
 4.4 En la historia la magia no esta bien vista porque ha sido la causante de la fracturación del país.
 
-
 ## 5 DESPUES DE UN PARÓN LARGO
 
 5.1 Generar confusión con los géneros.
@@ -66,46 +65,32 @@
 ## 6 NUEVO MAPA Y SISTEMA PLANETARIO
 
 6.1 La isla 3 tiene un material que venden carisimo (cristal de swaroski) es como en mundo disco la isla que es de oro.
-6.2 Las reliquias/objetos magicos de antes de la Colision son muy dificiles de encontrar porque como los magos no estan muy bien visto pues no pueden fabricar más. En el mercado se venden muy caras y suelen ser una herencia muy importante.
+6.2 Las reliquias/objetos magicos de antes de la Colision son muy dificiles de encontrar porque como los magos no estan muy bien visto pues no pueden fabricar más. En el mercado se venden muy caras y suelen ser una herencia muy importante (como las espadas forjadas por aesedai de la rueda).
 6.3 Elle le quita la reliquia (que teoricamente deberia ser suya) al impostor.
 
-## 7 EXPANSION DE CAPITULOS ANTES DE ESCRIBIR
-
+## 7 EXPANSION DE CAPITULOS ANTES DE ESCRIBIR Y OTRAS COSAS
+7.1 La secta es Solari o principalmente solari
 
 ## Trama
-
 - Ocean's Eleven
 
 - Protagonista quiere escapar de palacio. Lo intenta varias veces sin éxito. Busca ayuda exterior gracias a la ayuda de una de sus doncellas. Crean un grupo y consigue escaparse fingiendo su secuestro.
 
-- Veía la historia coja así que añadí un viaje intermedio. Al pensar en la creación de portales, pensé que necesitaban a un mago que consiguiese crear un portal para que le protagonista pudiese salir. Ese portal es difícil de hacer y esta muy controlado así que necesitan a un mago de alto nivel con ganas de arriesgarse.
+- Veía la historia coja así que añadí un viaje intermedio. Al pensar en la creación de portales, pensé que necesitaban a un mago que consiguiese crear un portal para que le protagonista pudiese salir. Ese portal es difícil de hacer y esta muy controlado así que necesitan a un mago de alto nivel con ganas de arriesgarse. (Como la entrada a la sociedad de almas de Bleach)
 
 - Protagonista quiere escapar de palacio. Lo intenta varias veces sin éxito. Busca ayuda exterior gracias a la ayuda de una de sus doncellas. Crean un grupo. Deciden que necesitan a un mago renegado para poder acceder a la caja fuerte (le personaje dice que tiene "alguien" dentro). "viaje" para encontrar y convencer al mago (ahí se explica la magia). Hacen el golpe y se escapa.
 
-
 ## Mundo blanco
-
 1. Mundo de las ideas o de los sueños. (Platon) (Mundo de las ideas de los Radiantes)
-
 2. Limbo o mundo espiritual (Full Metal Alchemist)
-
 3. Mundo artificial
 
-
 ## Grandes razas para inspirarme
-
 1. Ancestrales
-
 2. Zapadores
-
 3. Celestiales
-
 4. Vigilantes
-
 5. Esquirlas (aunque eso implicaria algo superior)
+6. Adeptus
 
-#SpinOff
-
-1. Escuela de reyes
-
-2. Elite pero de magia (despues de un sueño)
+## SpinOff

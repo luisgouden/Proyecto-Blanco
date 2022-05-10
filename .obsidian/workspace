@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "e512aec5fd17917b",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ca78cf0a775435",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Evolucion.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41033cc342d4541f",
+    "type": "split",
+    "children": [
+      {
+        "id": "83302c61c2b58c85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "767e7272605a4bef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ef75d9c258902df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b00d863ba21f76dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4c81009062a87cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85f2786ad68d4bc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Evolucion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03ca78cf0a775435",
+  "lastOpenFiles": [
+    "Evolucion.md",
+    "SpinOff.md",
+    "nombres.md",
+    "Personajes.md",
+    "PLANETAS.jpg",
+    "Prologo.md",
+    "historia_4_ampliando.md",
+    "historia_3_extendido.md",
+    "historia_2_teatro.md",
+    "historia_1_capitulos.md"
+  ]
+}
