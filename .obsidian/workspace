@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Evolucion.md",
+            "file": "Prologo.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "41033cc342d4541f",
+    "id": "8792b0e6f09d5dcb",
     "type": "split",
     "children": [
       {
-        "id": "83302c61c2b58c85",
+        "id": "af73adef905e19f1",
         "type": "tabs",
         "children": [
           {
-            "id": "767e7272605a4bef",
+            "id": "08366f70785e06e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "9ef75d9c258902df",
+            "id": "64d2f1d6d3683de3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "b00d863ba21f76dc",
+    "id": "eb61eb7c30573d76",
     "type": "split",
     "children": [
       {
-        "id": "f4c81009062a87cf",
+        "id": "021a1a02f5b906b7",
         "type": "tabs",
         "children": [
           {
-            "id": "85f2786ad68d4bc6",
+            "id": "ca684d2fd75ec715",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolucion.md",
+                "file": "Prologo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "03ca78cf0a775435",
   "lastOpenFiles": [
-    "Evolucion.md",
-    "SpinOff.md",
-    "nombres.md",
-    "Personajes.md",
-    "PLANETAS.jpg",
     "Prologo.md",
+    "MAPA2.jpg",
     "historia_4_ampliando.md",
-    "historia_3_extendido.md",
-    "historia_2_teatro.md",
-    "historia_1_capitulos.md"
+    "PLANETAS.jpg",
+    "Personajes.md",
+    "MAPA.jpg",
+    "README.md",
+    "SpinOff.md",
+    "cronologia.md",
+    "Evolucion.md"
   ]
 }

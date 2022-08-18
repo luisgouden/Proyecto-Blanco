@@ -1,11 +1,15 @@
 Blanco.
 Zeliie miró al horizonte y suspiró. 
-A lo lejos, pudo llegar a vislumbrar unas ruinas que rodeadas de tanta blancura centelleaba como un faro. Por puro reflejo, a pesar de que allí la luz de Kel era mucho menos intensa que en su dimensión, puso su mano izquierda como visera e intentó mirar más allá de las ruinas.Pero, al ser plenamente consciente de lo que hacía, giró la cara bruscamente. La herida era demasiado reciente, al menos para ella.
-No queria moverse,no tenia animos, pero empezó a caminar. Al parecer la estaban esperando y tenia que hacer cosas importantes, tan importantes como para que escribiesen libros.
+A lo lejos, pudo llegar a vislumbrar unas ruinas grisaceas que rodeadas de tanta blancura destacaban como un faro. Por puro reflejo, a pesar de que allí la luz de Kel era (una mera sombra) mucho menos intensa que en su dimensión, puso su mano izquierda como visera e intentó mirar más allá de las ruinas.Pero, al ser plenamente consciente de lo que hacía, giró la cara bruscamente. La herida era aun demasiado reciente, al menos para ella.
+De pronto ya no queria moverse,no tenia animos, pero empezó a caminar. Al parecer la estaban esperando y tenia que hacer cosas importantes, tan importantes como para que escribiesen libros.
 Zeliie no terminaba de creerselo.
-Cada pisada levantaba prevemente un fino polvo casi imperceptible que volvia a posarse en el terreno pero no dejaba huella, esa era una de las razones por las que era tan dificil orientarse en aquel lugar,no quedaba ninguna señal de que alguien hubiese pasado por alli. Todo el terreno irradiaba luz propia, como si estuvese formado por infinitas luciernagas microscopicas. 
-Como en un eterno amanecer, no existia el dia o la noche, ya que Kel aunque casi imperceptible, siempre estaba habitando el cielo, hasta el tiempo parecía ajeno...
-Un picor empezó a propagarse por el brazo, se habia vuelto en costumbre cada vez que Zeliie se ponia nostalgica, ya casi le llegaba al segundo sello.
+
+*inmovil/congelado/imperturbable/inmutable*
+
+Todo, a excepción de ella, parecia estar inmovil. Sus pisadas no dejaban huellas, el terreno irradiaba luz propia, como si estuvese formado por infinitas luciernagas microscopicas que se elevaban prevemente como un fino polvo,casi imperceptible, que volvia a posarse poco despues, como si nadie hubiese pasado por ahi. 
+
+y en el cielo aunque Kel era casi imperceptible, siempre estaba ahí como inmutable/impertubable, hasta el tiempo parecía estar congelado...
+Un picor empezó a propagarse por el brazo, se habia vuelto en costumbre cada vez que Zeliie se ponia nostalgica, ya casi le estaba llegando al segundo sello.
 - Si "el grupo" me viese ahora... ¿Qué pensaria la pequeña Rin de mi?.- El picor habia llegado casi a la palma de su mano...
 - ¿Por que no avanzas? -Zeliie se sobresaltó- ¿Tienes hambre? ¿Deberia tener yo hambre?
 Zeliie giró la cabeza, ahí estaba Shire, flotando a su lado como congelade, ¿estaba mirandola?. No estaba segura

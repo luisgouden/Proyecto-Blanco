@@ -1,12 +1,12 @@
 ### 0 / Prologo
 Zeliie enfrentándose a la inmensidad del mundo blanco. Ve de refilon una ruina o un vestigio de civilizacion pero lo "desecha". Pequeña conversación interna interrumpida por Shire.
-Andan un poco más y ven una ballena a lo lejos, cerca de X. Shire menciona algo de sus hermanos.
+Andan un poco más y ven una ballena a lo lejos, cerca de X. Shire menciona algo de sus hermanas.
 Pequeña conversación aleatoria y nuevo rumbo fijado.
 
 ### 1
 
-Suri camina tranquilamente por los jardines imaginando gobernando la ciudad (mientras esta dandole vueltas al anillo). Su ayudante está quieta esperando a que se de cuenta de que esta. Cuando por fin se da cuenta, Instintivamente ella se echa para atras y tras recomponerse le pide perdon por molestarle pero que le están esperando. Él echa una ultima mirada a la ciudad y camina tranquilamente.
-En la sala ya estan los "espias/aliados", partidarios jovenes y algunos altos cargos de la ciudad que está de acuerdo con las ideas de Suri o que espiran a tener poder. Hablan de "la mision", poco a poco se van emocionando y subiendo el volumen, teoricamente estan en una biblioteca pero nadie les dice nada, despues de un buen rato hablando, Suri se da cuenta de que Ginn está leyendo (al verla se toca el anillo) El resto baja el tono sutilmente pero Suri sigue como si nada pero algo más bajo. Despues de un tiempo más se despide apresuradamente sin mirar a Ginn.
+Suri camina tranquilamente por los jardines imaginandose gobernando la ciudad (mientras esta dandole vueltas al anillo). Su ayudante está quieta esperando a que se de cuenta de que está esperando. Cuando por fin se da cuenta, Instintivamente ella se echa para atras y tras recomponerse le pide perdon por molestarle pero que le están esperando. Él echa una ultima mirada a la ciudad y camina tranquilamente (satisfecho).
+En la sala ya estan los espias/aliados/partidarios jovenes y algunos altos cargos de la ciudad que está de acuerdo con las ideas de Suri o que espiran a tener poder. Hablan de "la mision", poco a poco se van emocionando y subiendo el volumen, teoricamente estan en una biblioteca pero nadie les dice nada, despues de un buen rato hablando, Suri se da cuenta de que Ginn está leyendo (al verla se toca el anillo) El resto baja el tono sutilmente pero Suri sigue como si nada pero algo más bajo. Despues de un tiempo más se despide apresuradamente sin mirar a Ginn.
 
 ### 2
 
@@ -18,7 +18,7 @@ La secta todos reunidos parecido a la reunion de la rueda del tiempo. Todos disf
 
 ### 4
 
-Estan en uno de los portales, hay seguridad pero es mas para proteger a la gente del campo gravitatorio que por otra cosa. Los portales (y mas ese que es de los más grandes (que se ven)) son muy peligrosos y una atraccion turistica. Hablan de exploracion y de los peligros que es internarse en el mundo sin explorar. Mencionan los sellos "antiguos" y su sabiduria. Mencionan a la otra isla y sus contactos comerciales. El capitulo termina con la despedida, estan bastante tristes pero es lo mejor para el pais.
+Estan en uno de los portales, hay seguridad pero es mas para proteger a la gente del campo gravitatorio que por otra cosa. Los portales (y mas ese que es de los más grandes (que se ven)) son muy peligrosos y una atraccion turistica. Hablan de exploracion y de los peligros que es internarse en el mundo sin explorar. Mencionan los sellos "antiguos" y su sabiduria. **Mencionan a la otra isla y sus contactos comerciales.**  El capitulo termina con la despedida, estan bastante tristes pero es lo mejor para el pais.
 
 ### 5
 
@@ -73,7 +73,7 @@ Ginn practicando magia, Shire la esta ayudando. Se extraña de los viejos y desg
 La preboda es en el jardin, hay mucha seguridad porque hay mucha gente importante de la zona (pero solo una pequeña comitiva de los lunari). Ellos ya han viajado por el mundo blanco, asi que no hacen nada raro pero cuando están por el camino encuentran a uno de los gigantes. Es la primera vez que vez uno pero Zeliie ya les habia advertido. Gin mientras tanto está intentando hacer magia (Zeliie no les quiere ayudar directamente), la magia en el mundo blanco parece como señales y bichitos como Shire (por eso el gigante está por ahi). Al llegar al punto, Zaori vuelve a utilizar el objeto y consiguen entrar en el cuarto.
 
 ### 21
-Entra en una habitacion vacia y se cambia de ropa, menciona la duro que es ir de otros colores, se pone la mascara y va en direccion a Gin. Entra en una habitacion que deberia estar vacia y entra a dos personas. Al verle se quedan aterrorizadas pero antes de que puedan hacer nada el les lanza algo y se disuelven. Nota un cosquilleo en la mano, se estira el brazo y se pone otro sello. En la ventana ve a Gin y cerca a su cliente, sin mucha sutileza, sale al jardin  por una de las puertas principales, la gente tarda en reconocerlo pero despues van apartandose, pronto, la seguridad se empieza a acercar a suuri y Maara, Él al trote para que no le atrapen pasa al lado de Gin que no habia conseguido irse y deja caer unos polvos. Gin desaparece. La gente empieza a gritar, él se acerca a Suuri, se quiza la mascara y se arrodilla, docil.
+Entra en una habitacion vacia y se cambia de ropa, menciona la duro que es ir de otros colores, se pone la mascara y va en direccion a Gin. Entra en una habitacion que deberia estar vacia y encuentra a dos personas. Al verle se quedan aterrorizadas pero antes de que puedan hacer nada el les lanza algo y se disuelven. Nota un cosquilleo en la mano, se estira el brazo y se pone otro sello. En la ventana ve a Gin y cerca a su cliente, sin mucha sutileza, sale al jardin  por una de las puertas principales, la gente tarda en reconocerlo pero despues van apartandose, pronto, la seguridad se empieza a acercar a suuri y Maara, Él al trote para que no le atrapen pasa al lado de Gin que no habia conseguido irse y deja caer unos polvos. Gin desaparece. La gente empieza a gritar, él se acerca a Suuri, se quiza la mascara y se arrodilla, docil.
 
 ### 22
 Maara recien casada y Zeliie de camino a la celda

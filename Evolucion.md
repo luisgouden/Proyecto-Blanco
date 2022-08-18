@@ -69,7 +69,18 @@
 6.3 Elle le quita la reliquia (que teoricamente deberia ser suya) al impostor.
 
 ## 7 EXPANSION DE CAPITULOS ANTES DE ESCRIBIR Y OTRAS COSAS
-7.1 La secta es Solari o principalmente solari
+7.1 La secta es Solari o principalmente solari y soy los contratados para matarle
+7.2 Shire y sus hermanas parte o los fragmentos de la diosa del conocimiento?
+
+## 8 ANIMALITOS Y ATLANTIS
+8.1 En atlantis se estudiaba el comportamiento de una raza de animales marinos
+8.2 los animales son seres inteligentes y conscientes que curiosamente algunos tienen un comportamiento diferente. Dichos especímenes crecen mas.
+8.3 los animalitos prefieren un tipo de planta que solo crece cerca de atlantis
+8.4 se pueden vincular con un Shire. Lo que les da mas consciencia y con entrenamiento los vuelve domesticables.
+8.5 Hay varios supervivientes de atlantis que volvieron a tener contacto con el mundo normal.
+8.6 La princesa es descendiente directa de Zeliie.
+8.7 Otro de los supervivientes es o actúa como el Rey-Dios, por eso saben usar las serpientes en la actualidad
+
 
 ## Trama
 - Ocean's Eleven
@@ -92,5 +103,15 @@
 4. Vigilantes
 5. Esquirlas (aunque eso implicaria algo superior)
 6. Adeptus
+## Razas de animales grandes
+ballenas
+dinosaurios
+gusanos de dune
+reyes del mar one piece
 
 ## SpinOff
+## Atlantis
+Es un pueblo/laboratorio/colonia especializada en el estudio de una clase de serpientes marinas.
+Encuentran unos seres translucidos que parecen estar atraidos por ellos
+La colision se produce cuando por primera vez un ser humano se vincula a uno de esos seres.
+
