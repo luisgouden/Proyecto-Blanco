@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prologo.md",
-            "mode": "source"
+            "file": "Religiones.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -18,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8792b0e6f09d5dcb",
+    "id": "eb7ce8e6934dda7c",
     "type": "split",
     "children": [
       {
-        "id": "af73adef905e19f1",
+        "id": "2b33d18667329832",
         "type": "tabs",
         "children": [
           {
-            "id": "08366f70785e06e6",
+            "id": "b8c9e46923238c02",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +35,7 @@
             }
           },
           {
-            "id": "64d2f1d6d3683de3",
+            "id": "5a4409d9b306f4b7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "eb61eb7c30573d76",
+    "id": "c7651aeaaf538367",
     "type": "split",
     "children": [
       {
-        "id": "021a1a02f5b906b7",
+        "id": "be672ab71935b697",
         "type": "tabs",
         "children": [
           {
-            "id": "ca684d2fd75ec715",
+            "id": "651dd7a816a97a7a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prologo.md",
+                "file": "Religiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "03ca78cf0a775435",
   "lastOpenFiles": [
-    "Prologo.md",
-    "MAPA2.jpg",
-    "historia_4_ampliando.md",
-    "PLANETAS.jpg",
+    "Capitulo 1.md",
+    "nombres.md",
     "Personajes.md",
+    "PLANETAS.jpg",
+    "MAPA2.jpg",
     "MAPA.jpg",
-    "README.md",
+    "historia_4_ampliando.md",
     "SpinOff.md",
-    "cronologia.md",
-    "Evolucion.md"
+    "Prologo.md",
+    "cronologia.md"
   ]
 }
