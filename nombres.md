@@ -7,10 +7,11 @@ Maga: Riin (Caos en Islandes) / Zeliie
 Prometida: Maara (destino en fines)
 
 Lugares
-
+Pais Solari: Orka (energia islandes)
 Ciudad: Suuri (grande en fines)
 Capital - Solari: Kel (ni idea :D)
-Capital-Conocimiento:
+Pais Conocimiento: Teeli (Pensamiento en finlandes)
+Capital-Conocimiento: Liito (union en finlandes)
 
 Sistema:
 

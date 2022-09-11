@@ -81,6 +81,10 @@
 8.6 La princesa es descendiente directa de Zeliie.
 8.7 Otro de los supervivientes es o actúa como el Rey-Dios, por eso saben usar las serpientes en la actualidad
 
+## 9 NARRADOR
+
+
+
 
 ## Trama
 - Ocean's Eleven
@@ -102,7 +106,8 @@
 3. Celestiales
 4. Vigilantes
 5. Esquirlas (aunque eso implicaria algo superior)
-6. Adeptus
+6. Adeptus (Aunque eso tambien implica algo superior?)
+
 ## Razas de animales grandes
 ballenas
 dinosaurios

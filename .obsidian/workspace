@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Religiones.md",
+            "file": "Prologo.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eb7ce8e6934dda7c",
+    "id": "b31c89a33707fdb7",
     "type": "split",
     "children": [
       {
-        "id": "2b33d18667329832",
+        "id": "15e9e3862790d2ce",
         "type": "tabs",
         "children": [
           {
-            "id": "b8c9e46923238c02",
+            "id": "ab1685b157e6040e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "5a4409d9b306f4b7",
+            "id": "a051282b39bb908b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "c7651aeaaf538367",
+    "id": "b14de3bb75f403c8",
     "type": "split",
     "children": [
       {
-        "id": "be672ab71935b697",
+        "id": "02895ce7e46023e8",
         "type": "tabs",
         "children": [
           {
-            "id": "651dd7a816a97a7a",
+            "id": "aee6486db3bd0350",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Religiones.md",
+                "file": "Prologo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "03ca78cf0a775435",
   "lastOpenFiles": [
+    "Religiones.md",
+    "Evolucion.md",
     "Capitulo 1.md",
     "nombres.md",
     "Personajes.md",
@@ -96,8 +98,6 @@
     "MAPA2.jpg",
     "MAPA.jpg",
     "historia_4_ampliando.md",
-    "SpinOff.md",
-    "Prologo.md",
-    "cronologia.md"
+    "SpinOff.md"
   ]
 }
