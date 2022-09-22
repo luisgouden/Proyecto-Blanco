@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "03ca78cf0a775435",
+        "id": "2c1a8aba32d63166",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prologo.md",
+            "file": "Evolucion.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b31c89a33707fdb7",
+    "id": "033fe10eb8b083b3",
     "type": "split",
     "children": [
       {
-        "id": "15e9e3862790d2ce",
+        "id": "8451dd326d47a01b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1685b157e6040e",
+            "id": "aacb693356f612cf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "a051282b39bb908b",
+            "id": "8319cd932dab3756",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,20 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "b14de3bb75f403c8",
+    "id": "88e6c7f88df5afe8",
     "type": "split",
     "children": [
       {
-        "id": "02895ce7e46023e8",
+        "id": "d295006184c19784",
         "type": "tabs",
         "children": [
           {
-            "id": "aee6486db3bd0350",
+            "id": "f5c2abd880ce66eb",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prologo.md",
+                "file": "Evolucion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03ca78cf0a775435",
+  "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
     "Religiones.md",
-    "Evolucion.md",
-    "Capitulo 1.md",
     "nombres.md",
-    "Personajes.md",
+    "Evolucion.md",
+    "SpinOff.md",
+    "README.md",
+    "Prologo.md",
     "PLANETAS.jpg",
+    "Personajes.md",
     "MAPA2.jpg",
-    "MAPA.jpg",
-    "historia_4_ampliando.md",
-    "SpinOff.md"
+    "MAPA.jpg"
   ]
 }

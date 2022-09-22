@@ -3,7 +3,7 @@
 Belicosos, no les hace mucha gracia el conocimiento son más del uso de la fuerza. Tienen una política expansionista.
 
 - Veneran:–     La luz y el calor en todas sus formas
-- Costumbres:– Sus nombres suelen tener la silaba X o Y en sus nombre
+- Costumbres:– 
 - Prohibiciones:
 - Basados en: Solari + los carmesí de Noxus con una pizca de Demacia
 - Distintivos / Símbolos:
@@ -11,7 +11,7 @@ Belicosos, no les hace mucha gracia el conocimiento son más del uso de la fuerz
   - Pelo: Son rubios o con el pelo claro
   - Pieles bronceadas
   - Ojos: marrones/miel/caramelo.
-  - Ropa: Colores cálidos, metalizados.
+  - Ropa: Visten principalmente túnicas de colores calidos. De pendiendo de su escala social o pretensiones van del negro/marron oscuro al rojo sangre. Hay un tipo de rojo exclusivo para la realeza de Orka que esta prohibido usar por otros, incluso la nobleza. Como completo suelen usar el oro o los mas adinerados pienzas y ornamentos de Henso.
   -
 - Escrituras o símbolos sagrados:
 
@@ -26,6 +26,7 @@ Belicosos, no les hace mucha gracia el conocimiento son más del uso de la fuerz
   - Ojos:
   - Ropa:
 - Escrituras o símbolos sagrados:
+
 
 ## Luna
 
@@ -44,12 +45,13 @@ Antiguamente eran habitantes de los solari concretamente de una region muy concr
   -
 - Escrituras o símbolos sagrados:
 
+
 ## Conocimiento
 
 Conquista pasiva, se mezclan lentamente en la sociedad. Comerciantes amistosos. Fenicios / Cristianismo.
 
 - Veneran: El saber en todas sus formas.
-- Costumbres:
+- Costumbres: Sus nombres tienen normalmente doble vocal. Aunque con el mestizaje y la influencia de los Solari, poco a poco se va quitando esa costumbre. Se hace llamativo porque eso deja claro quien es fiel al conocimiento.
 - Prohibiciones:
 - Distintivos / Símbolos:
   - Pelo:
@@ -58,11 +60,10 @@ Conquista pasiva, se mezclan lentamente en la sociedad. Comerciantes amistosos. 
   - Ropa:
 - Escrituras o símbolos sagrados:
 
+
 ## Rey dios
 
 Gracias a sus conocimientos sobre cierto material bastante escaso (o dificil de conseguir(Petroleo)) en el resto del mundo pero abundante en su isla, han conseguido una gran fortuna. Tras el cataclismo se volvieron aun más hermeticos pero su isla comercial seguia estando en funcionamiento porque es el motor principal de su economia.
-
-
 
 - Veneran:– a su Rey
 - Costumbres:–

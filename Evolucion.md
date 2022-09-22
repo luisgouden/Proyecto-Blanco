@@ -1,4 +1,4 @@
-##   1 Idea inicial
+## 1 Idea inicial
 
 1.1 Quería "spren" para conversaciones divertidas.
 
@@ -77,14 +77,12 @@
 8.2 los animales son seres inteligentes y conscientes que curiosamente algunos tienen un comportamiento diferente. Dichos especímenes crecen mas.
 8.3 los animalitos prefieren un tipo de planta que solo crece cerca de atlantis
 8.4 se pueden vincular con un Shire. Lo que les da mas consciencia y con entrenamiento los vuelve domesticables.
+- Esto es como los conchagrandes de Roshar que se venculan a un spreen en su gemacorazon para poder ser mas grande y no explotar.
 8.5 Hay varios supervivientes de atlantis que volvieron a tener contacto con el mundo normal.
 8.6 La princesa es descendiente directa de Zeliie.
 8.7 Otro de los supervivientes es o actúa como el Rey-Dios, por eso saben usar las serpientes en la actualidad
 
 ## 9 NARRADOR
-
-
-
 
 ## Trama
 - Ocean's Eleven
@@ -115,7 +113,7 @@ gusanos de dune
 reyes del mar one piece
 
 ## SpinOff
-## Atlantis
+### Atlantis
 Es un pueblo/laboratorio/colonia especializada en el estudio de una clase de serpientes marinas.
 Encuentran unos seres translucidos que parecen estar atraidos por ellos
 La colision se produce cuando por primera vez un ser humano se vincula a uno de esos seres.

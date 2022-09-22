@@ -1,6 +1,5 @@
 Isla
-
-- prometida ->   -> Trinity / Vivianna
+· Prometida ->   -> Trinity / Vivianna
 · Destinada a casarse con el heredero del que habia usurpado su reino, está molesta por lo que tiene que hacer pero sabe que es lo correcto y le gusta cuidar de su pueblo.
 Es una lider nata y se desenvuelve muy bien en publico. Es organizada y tiende a ser mas directa de lo que le gustaria.
 
@@ -27,6 +26,6 @@ PALACIO
  - Maga -> **8**  Naruto / Kelsier / Vasher
 
    Sin un brazo.
-   (desde un primer momento quería hacer que el personaje mago no tuviese un brazo para plasmas los verdaderos problemas que puede causar no usar bien la magia. Durante un tiempo me olvidé de eso pero después de ver que Nero de DMC5 no tiene brazo lo volví a añadir)
+   (desde un primer momento quería hacer que el personaje mago no tuviese un brazo para plasmas los verdaderos problemas que puede causar no usar bien la magia. Durante un tiempo me olvidé de eso pero después de ver que Nero de DMC5 no tiene brazo lo volví a añadir).
    (Zeliie no es su verdadero nombre, se me ocurrió cuando pensé en incluir flashbacks de la maga antes del choque de planetas, que zeliie fuese alguien importante, su profesora? zeliie ha hecho algo prohibido?
 
