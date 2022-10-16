@@ -65,7 +65,9 @@
 ## 6 NUEVO MAPA Y SISTEMA PLANETARIO
 
 6.1 La isla 3 tiene un material que venden carisimo (cristal de swaroski) es como en mundo disco la isla que es de oro.
-6.2 Las reliquias/objetos magicos de antes de la Colision son muy dificiles de encontrar porque como los magos no estan muy bien visto pues no pueden fabricar más. En el mercado se venden muy caras y suelen ser una herencia muy importante (como las espadas forjadas por aesedai de la rueda).
+
+6.2 Las reliquias/objetos magicos de antes de la Colision son muy dificiles de encontrar porque como los magos no estan muy bien visto pues no pueden fabricar más. En el mercado se venden muy caras y suelen ser una herencia muy importante (como las espadas forjadas por aesedai de la rueda) o las espadas de acero valirio.
+
 6.3 Elle le quita la reliquia (que teoricamente deberia ser suya) al impostor.
 
 ## 7 EXPANSION DE CAPITULOS ANTES DE ESCRIBIR Y OTRAS COSAS

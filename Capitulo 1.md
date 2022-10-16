@@ -1,6 +1,7 @@
 Suri camina tranquilamente por los jardines imaginandose gobernando la ciudad (mientras esta dandole vueltas al anillo). Su ayudante está quieta esperando a que se de cuenta de que está esperando. Cuando por fin se da cuenta, Instintivamente ella se echa para atras y tras recomponerse le pide perdon por molestarle pero que le están esperando. Él echa una ultima mirada a la ciudad y camina tranquilamente (satisfecho).
 En la sala ya estan los espias/aliados/partidarios jovenes y algunos altos cargos de la ciudad que está de acuerdo con las ideas de Suri o que espiran a tener poder. Hablan de "la mision", poco a poco se van emocionando y subiendo el volumen, teoricamente estan en una biblioteca pero nadie les dice nada, despues de un buen rato hablando, Suri se da cuenta de que Ginn está leyendo (al verla se toca el anillo) El resto baja el tono sutilmente pero Suri sigue como si nada pero algo más bajo. Despues de un tiempo más se despide apresuradamente sin mirar a Ginn.
 
+___
 
 Suuri no entendía porque se permitía la entrada a sus jardines.
 Gente corriente andando despreocupadamente por una preopiedad que no les pertenecia y algunos tenian la osadia de traer libros.

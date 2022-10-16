@@ -1,9 +1,10 @@
 ## Sol
 
 Belicosos, no les hace mucha gracia el conocimiento son más del uso de la fuerza. Tienen una política expansionista.
+Muy belicosos e intransigentes. Tienen una politica expansionista, empezó siendo destructiva (como paso con los Lunari) pero con el paso del tiempo vieron que era mas inteligente integrarse con el pais y eso estan haciendo con los Teeli. Al no ser muy aficionados al autoconocimiento no tuvieron casi perdidas en El Colapso así que ahora son muy superiores tanto fisica como moralmente, justificandose que ha sido un castigo divino. Despues de La Colision un cierto grupo de personas se sintio interesada / tentada por ciertos objetos y libros que confiscaron de las ruinas y crearon una sociedad pequeña y controlada para cumplir y controlar ciertas cosas (no se cuales :D)
 
 - Veneran:–     La luz y el calor en todas sus formas
-- Costumbres:– 
+- Costumbres: Repudian los libros y consideran las libliotecas un sitio de reunion. Miran mal a gente que lee. 
 - Prohibiciones:
 - Basados en: Solari + los carmesí de Noxus con una pizca de Demacia
 - Distintivos / Símbolos:
@@ -11,7 +12,7 @@ Belicosos, no les hace mucha gracia el conocimiento son más del uso de la fuerz
   - Pelo: Son rubios o con el pelo claro
   - Pieles bronceadas
   - Ojos: marrones/miel/caramelo.
-  - Ropa: Visten principalmente túnicas de colores calidos. De pendiendo de su escala social o pretensiones van del negro/marron oscuro al rojo sangre. Hay un tipo de rojo exclusivo para la realeza de Orka que esta prohibido usar por otros, incluso la nobleza. Como completo suelen usar el oro o los mas adinerados pienzas y ornamentos de Henso.
+  - Ropa: Visten principalmente túnicas de colores calidos. De pendiendo de su escala social o pretensiones van del negro/marron oscuro al rojo sangre. Hay un tipo de rojo exclusivo para la realeza de Orka que esta prohibido usar por otros, incluso la nobleza. Como complemento suelen usar el oro o los mas adinerados pienzas y ornamentos de Henso.
   -
 - Escrituras o símbolos sagrados:
 
@@ -63,7 +64,8 @@ Conquista pasiva, se mezclan lentamente en la sociedad. Comerciantes amistosos. 
 
 ## Rey dios
 
-Gracias a sus conocimientos sobre cierto material bastante escaso (o dificil de conseguir(Petroleo)) en el resto del mundo pero abundante en su isla, han conseguido una gran fortuna. Tras el cataclismo se volvieron aun más hermeticos pero su isla comercial seguia estando en funcionamiento porque es el motor principal de su economia.
+Gracias a los conocimientos adquiridos antes de El colapso han conseguido hacer crecer unas serpientes marinas muchas veces su tamaño. De estas consiguen, carne, transporte y sus huesos/dientes tienen unas cualidades casi del cristal que se convierte en un bien muy preciado.
+Su Rey Dios es uno de los antiguos compañeros de Zeliie en la isla y que ella estaba segura que habia muerto. Tambien esta vinculado a un spreen.
 
 - Veneran:– a su Rey
 - Costumbres:–
