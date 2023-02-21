@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "e512aec5fd17917b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2edc31adfcd3a1be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c1a8aba32d63166",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MAPA2.jpg"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32d1130860112b62",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0b03d5651e288f0f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4f50e5a049abc974",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "15e49f1296ef9f23",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b1ea705641c5307a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "MAPA2.jpg",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2c1a8aba32d63166",
+  "lastOpenFiles": [
+    "nombres.md",
+    "Personajes.md",
+    "PLANETAS.jpg",
+    "Religiones.md",
+    "SpinOff.md",
+    "Capitulo 1.md",
+    "Evolucion.md",
+    "README.md",
+    "Prologo.md",
+    "MAPA2.jpg"
+  ]
+}

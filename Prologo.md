@@ -1,16 +1,16 @@
 Zeliie miró al horizonte y un mar de luciérnagas moribundas le inundo los ojos.
 
-A lo lejos, pudo identificar unas apagadas ruinas que, rodeadas de tanta mortecina blancura, destacaban como un faro al ser lo único que no brillaba. A pesar de que allí la luz de Kel era una mera sombra comparada con la de su dimensión, por puro reflejo, puso su mano izquierda como una visera e intentó mirar más allá de las ruinas. Pero, al ser plenamente consciente de lo que hacía, giró la cara bruscamente. La herida era aún demasiado reciente, al menos para ella.
+A lo lejos, pudo identificar unas ruinas que, rodeadas de tanta mortecina blancura, destacaban como un faro al ser lo único que no brillaba. A pesar de que allí la luz de Kel era una mera sombra comparada con la de su dimensión, por puro reflejo, puso su mano izquierda como una visera e intentó mirar más allá de las ruinas. Pero, al ser plenamente consciente de lo que hacía, giró la cara bruscamente. La herida era aún demasiado reciente, al menos para ella.
 
-De pronto ya no quería moverse, no tenía ánimos, pero empezó a caminar pesadamente. Al parecer la estaban esperando y debía que hacer cosas importantes, tanto como para que escribiesen libros.
+De pronto ya no quería moverse, no tenía ánimos, pero empezó a caminar pesadamente. Al parecer la estaban esperando y debía de hacer cosas importantes, tanto como para que escribiesen libros sobre ella.
 
 Zeliie no terminaba de creérselo.
 
 Todo, excepción de ella, parecía estar inmóvil. Sus pisadas no dejaban huellas alguna en la argentada superficie, pero, a cada paso, se elevaba con brevedad un fino polvo resplandeciente, casi imperceptible, que al no correr viento alguno volvía a posarse en el mismo sitio, como si nadie hubiese estado ahí. 
 
-En un eterno amanecer, no existía el día o la noche, ya que Kel aunque mortecino, siempre estaba presente, huérfano como ella, sin un solo astro que le acompañara en el amplio cielo perlado. Hasta el tiempo parecía ajeno...
+Como en un eterno amanecer, no existía el día o la noche, ya que Kel aunque mortecino, siempre estaba presente, huérfano como ella, sin un solo astro que le acompañara en el amplio cielo perlado. Hasta el tiempo parecía ajeno...
 
-Un picor empezó a propagarse por el brazo, se había vuelto en costumbre cada vez que Zeliie se ponía nostálgica, ya casi le estaba llegando al segundo sello.
+Un picor empezó a propagarse por el brazo, se había vuelto algo habitual cada vez que Zeliie se ponía nostálgica, ya casi le estaba llegando al segundo sello.
 
 Si me viesen como estoy ahora... ¿Qué diría la pequeña Rin de mí?.- Pensó. El picor había llegado casi al codo.
 
@@ -18,15 +18,15 @@ Si me viesen como estoy ahora... ¿Qué diría la pequeña Rin de mí?.- Pensó.
 
 Zeliie giró la cabeza. Ahí estaba Shire, flotando a su lado, inerte, como el resto del planeta. ¿La miraba? Quizá no.
 
-- Solo rumiaba- dijo Zeliie bruscamente.
+- Solo rumiaba- dijo Zeliie bruscamente, mirando a otro lado.
 
 - Eso ya lo sé, pero ¿Por qué no avanzas? Los humanos sois muy extraños. ¿No podéis hacer dos cosas a la vez?
 
-Zeliie sacudió la cabeza y siguió caminando algo más rápido.
+Zeliie sacudió la cabeza y siguió caminando algo más rápido esta vez.
 
-- ¿Por qué tanta prisa? - Dijo mientas *la* buscaba otra vez¿dónde estaba? Era muy fácil perderle de vista, si no quería que le viesen- Aún no me has explicado bien lo que vamos a hacer.
+- ¿Por qué tanta prisa? - Dijo mientas *la* buscaba otra vez ¿dónde estaba? Era muy fácil perderle de vista, si no quería que le viesen- Aún no me has explicado bien lo que vamos a hacer.
 
-- Nos estarán esperando. - dijo Shire apareciendo delante de su cara de nuevo- Suuri, hay que ir a Suuri.
+- Nos esperan. - dijo Shire apareciendo delante de su cara de nuevo- Suuri, hay que ir a Suuri.
 
 Al escuchar el nombre, Zeliie sintió un escalofrío, hacía mucho tiempo que no volvía a su ciudad natal... Cuanto había cambiado, tanto ella como todo lo demás...
 
@@ -38,9 +38,9 @@ Ella se miró sorprendida los pies. Sin querer había vuelvo a quedarse quieta, 
 
 - Vuélveme a contar por qué estamos caminando, ¿Sabes que eres une terrible acompañante? Me das dolor de cabeza.
 
-- ... Todo empezará con nosotras andando, bueno, yo no ando, pero ya sabes lo que quiero decir. Estaremos hablando de cualquier tontería como de que tienes hambre o, por ejemplo, de un libro que van a escribir sobre nosotras y el prólogo empezará con nosotras desplazándonos, porque yo no ando, y tú soltarás alguna de tus famosas blasfemias…
+- ... Todo empezará con nosotras andando, bueno, yo no ando, pero ya sabesma lo que quiero decir. Estaremos hablando de cualquier tontería como de que tienes hambre o, por ejemplo, de un libro que van a escribir sobre nosotras y el prólogo empezará con nosotras desplazándonos, porque yo no ando, y tú soltarás alguna de tus famosas blasfemias…
 
-- ¿Famosas? -Zeliie puso la mejor cara de indignada, aunque algo desentrenada- Pero si soy más buena que... -donde estaban las palabras cuando una las necesitaba, pensó- un bollito de crema recién horneado.
+- ¿Famosas? -Zeliie puso la mejor cara de indignada, aunque algo desentrenada- Pero si soy más buena que... -¿donde estaban las palabras cuando una las necesitaba?, pensó- un bollito de crema recién horneado.
 
 Al final sí que iba a ser verdad que tenía hambre.
 

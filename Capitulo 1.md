@@ -6,8 +6,9 @@ ___
 Suuri no entendía porque se permitía la entrada a sus jardines.
 Gente corriente andando despreocupadamente por una preopiedad que no les pertenecia y algunos tenian la osadia de traer libros.
 Tendria que hablar con su padre al respecto.
-Algunos de los viandantes al alzar la vista, le saludaban respetuosamente. Suuri estaba demadiado absorto en sus sueños de poder como para prestarles atencion. Aunque en mas de una ocasion, cuando su padre le pedia que le acompañase a alguna celebración. Le remarcaba que mostrarse cercano y accesible permitía gobernar con mas facilidad.
+Algunos de los viandantes al alzar la vista, le saludaban respetuosamente. Suuri estaba demadiado absorto en sus sueños de poder como para prestarles atencion. Aunque en mas de una ocasion, cuando su padre le pedia que le acompañase a alguna celebración 
+le remarcaba que mostrarse cercano y accesible permitía gobernar con mas facilidad.
 Él no pensaba lo mismo, pero no era tan estupido como para contradecir abiertamente a su padre. Cuando él estuviese en el poder le demostraria que estaba equivocado.
 Y así nadie le pisaria lo que es suyo.
-A su derecha con un nervioso mal controlado estaba Sheed esperando a que se diese cuenta de su presencia.
+A su derecha con nervios mal controlados estaba Sheed esperando a que se diese cuenta de su presencia.
 Llevaba el uniforme/vestido de sirvienta Kel con los colores de la casa, totalmente impoluto, era la sirvienta personal de Suuri y su deber era estar perfecta.

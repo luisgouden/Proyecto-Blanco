@@ -10,7 +10,7 @@ Prometida: Maara (destino en fines)
 
 Pais Solari: Orka (energia islandes)
 Ciudad: Suuri (grande en fines)
-Capital - Solari: Kel (ni idea :D)
+Capital - Solari: Kel (Kelsier)
 
 -
 
@@ -24,7 +24,7 @@ Isla comenciante: Mieru (visible en japones)
 
 ### Sistema:
 
-1 Kel (ni idea :D)
+1 Kel (por Kelsier)
 2 Veli (hermano en fines)
 3 Heim (hogar islandés)
 4 
