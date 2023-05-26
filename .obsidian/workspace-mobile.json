@@ -11,9 +11,11 @@
             "id": "2c1a8aba32d63166",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MAPA2.jpg"
+                "file": "Personajes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,8 +53,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "15e49f1296ef9f23",
@@ -64,8 +65,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "MAPA2.jpg",
-            "collapseAll": false,
+            "file": "Personajes.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -78,17 +79,32 @@
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
-    "nombres.md",
+    "Prologo.md",
+    "Untitled 1.md",
+    "Bing/_1.md",
+    "Untitled 2.md",
+    "Untitled 0.md",
+    "historia_4_ampliando.md",
+    "historia_1_capitulos.md",
     "Personajes.md",
+    "Capitulo 1.md",
+    "nombres.md",
+    "MAPA2.jpg",
     "PLANETAS.jpg",
     "Religiones.md",
     "SpinOff.md",
-    "Capitulo 1.md",
     "Evolucion.md",
-    "README.md",
-    "Prologo.md",
-    "MAPA2.jpg"
+    "README.md"
   ]
 }
