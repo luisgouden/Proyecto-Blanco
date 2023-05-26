@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "historia_3_extendido.md",
+                "file": "_IA/2 - Corrigir capitulo/2 - Corrige capitulo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d3564d128a33fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c0a437a7faf177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_IA/0 - Corregir prompt/0 - Corrige.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "historia_3_extendido.md",
+                "file": "_IA/2 - Corrigir capitulo/2 - Corrige capitulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +132,11 @@
   },
   "active": "85265312ef473bb6",
   "lastOpenFiles": [
+    "_IA/0 - Corregir prompt/0 - Corrige.md",
+    "_IA/2 - Corrigir capitulo/2 - Corrige capitulo.md",
+    "_IA/1 - Escribe capitulo/1 - Escribe.md",
+    "_IA/1 - Escribe capitulo/1 - Escribe 1.md",
+    "historia_3_extendido.md",
     "_IA/Capitulo 1 - Suri/prompt/-/3 1.md",
     "_IA/Capitulo 1 - Suri/prompt/-/2 1.md",
     "_IA/Capitulo 1 - Suri/prompt/-/1 1.md",
@@ -135,11 +158,6 @@
     "_IA/Capitulo 2 - Sheed/-/2.8.md",
     "_IA/Capitulo 2 - Sheed/-/2.7.md",
     "_IA/Capitulo 2 - Sheed/-/2.6.md",
-    "_IA/Capitulo 2 - Sheed/-/2.5.md",
-    "_IA/Capitulo 2 - Sheed/-/2.4.md",
-    "_IA/Capitulo 2 - Sheed/-/2.3.md",
-    "_IA/Capitulo 2 - Sheed/-/2.2.md",
-    "_IA/Capitulo 2 - Sheed/-/2.1.md",
     "_IA/Capitulo 1 - Suri/prompt/-",
     "_IA/Capitulo 6 - Ginn-Sheed/prompt",
     "_IA/Capitulo 5 - Zeliie/prompt",
