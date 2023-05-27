@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "acdafb7e436cf41b",
+        "id": "618856f612dd8419",
         "type": "tabs",
         "children": [
           {
-            "id": "85265312ef473bb6",
+            "id": "ac0f716e4ccfa4c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_IA/2 - Corrigir capitulo/2 - Corrige capitulo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5d3564d128a33fa6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a1c0a437a7faf177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_IA/0 - Corregir prompt/0 - Corrige.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_IA/2 - Corrigir capitulo/2 - Corrige capitulo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,34 +107,34 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "85265312ef473bb6",
+  "active": "ac0f716e4ccfa4c6",
   "lastOpenFiles": [
+    "_IA/Capitulo 5 - Zeliie/prompt/1.md",
+    "_IA/Capitulo 2 - Sheed/prompt/2.md",
+    "_IA/Capitulo 5 - Zeliie/prompt/2.md",
+    "_IA/Capitulo 6 - Ginn-Sheed/prompt/3.md",
+    "_IA/Capitulo 6 - Ginn-Sheed/prompt/2.md",
+    "_IA/Capitulo 6 - Ginn-Sheed/prompt/1.md",
+    "_IA/Capitulo 2 - Sheed/prompt/1.md",
+    "_IA/Capitulo 5 - Zeliie/prompt/3.md",
+    "_IA/Capitulo 1 - Suri/prompt/3.md",
+    "_IA/Capitulo 5 - Zeliie/prompt/Untitled.md",
+    "_IA/Capitulo 5 - Zeliie/prompt/3 b.md",
+    "_IA/Capitulo 5 - Zeliie/prompt/3 a.md",
+    "_IA/Capitulo 1 - Suri/prompt/2.md",
+    "_IA/Capitulo 1 - Suri/prompt/1.md",
+    "_IA/Capitulo 5 - Zeliie/prompt/1-.md",
+    "_IA/0 - Corregir prompt/0 - Corrige 1.md",
     "_IA/0 - Corregir prompt/0 - Corrige.md",
+    "_IA/Capitulo 4 - Maara/prompt/1.md",
+    "_IA/Capitulo 4 - Maara/prompt/2.md",
+    "_IA/Capitulo 4 - Maara/prompt/3.md",
+    "_IA/Capitulo 2 - Sheed/prompt/3.md",
     "_IA/2 - Corrigir capitulo/2 - Corrige capitulo.md",
     "_IA/1 - Escribe capitulo/1 - Escribe.md",
     "_IA/1 - Escribe capitulo/1 - Escribe 1.md",
     "historia_3_extendido.md",
     "_IA/Capitulo 1 - Suri/prompt/-/3 1.md",
-    "_IA/Capitulo 1 - Suri/prompt/-/2 1.md",
-    "_IA/Capitulo 1 - Suri/prompt/-/1 1.md",
-    "_IA/Capitulo 1 - Suri/prompt/-/1 1 mejorado.md",
-    "_IA/Capitulo 6 - Ginn-Sheed/prompt/1.md",
-    "_IA/Capitulo 6 - Ginn-Sheed/prompt/3.md",
-    "_IA/Capitulo 6 - Ginn-Sheed/prompt/2.md",
-    "_IA/Capitulo 5 - Zeliie/prompt/3.md",
-    "_IA/Capitulo 5 - Zeliie/prompt/3 b.md",
-    "_IA/Capitulo 5 - Zeliie/prompt/3 a.md",
-    "_IA/Capitulo 5 - Zeliie/prompt/2.md",
-    "_IA/Capitulo 5 - Zeliie/prompt/1.md",
-    "_IA/Capitulo 4 - Maara/prompt/3.md",
-    "_IA/Capitulo 4 - Maara/prompt/2.md",
-    "_IA/Capitulo 4 - Maara/prompt/1.md",
-    "_IA/Capitulo 2 - Sheed/prompt/3.md",
-    "_IA/Capitulo 2 - Sheed/prompt/2.md",
-    "_IA/Capitulo 2 - Sheed/prompt/1.md",
-    "_IA/Capitulo 2 - Sheed/-/2.8.md",
-    "_IA/Capitulo 2 - Sheed/-/2.7.md",
-    "_IA/Capitulo 2 - Sheed/-/2.6.md",
     "_IA/Capitulo 1 - Suri/prompt/-",
     "_IA/Capitulo 6 - Ginn-Sheed/prompt",
     "_IA/Capitulo 5 - Zeliie/prompt",
