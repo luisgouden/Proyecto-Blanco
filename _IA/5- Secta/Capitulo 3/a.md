@@ -1,0 +1,1 @@
+La secta todos reunidos parecido a la reunion de la rueda del tiempo. Todos disfrazados y con mascara. Avisan que segun lo esperado, el ¿eclipse?/cosa/nombre guay esta apunto de seceder y que los ignorantes quieren celebrar una fiesta en su dia. Una boda nada menos y hay que hacer algo para deterlos? varias personas se ofrecen para cumplir el cometido.

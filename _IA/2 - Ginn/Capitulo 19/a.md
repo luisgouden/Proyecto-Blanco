@@ -1,0 +1,1 @@
+Ginn practicando magia, Shire la esta ayudando. Se extraña de los viejos y desgastados estan los libros que le hga dejado Zeliie para practicar, tienen cosas escritas pero curiosamente son mas faciles de entender que los que ha usado hasta ahora. Despues de varios intentos Shire le da un consejo y mejora un poco.
