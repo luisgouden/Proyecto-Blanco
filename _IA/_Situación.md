@@ -1,0 +1,15 @@
+
+## Situación
+
+- La historia transcurre en una dimensión imaginaria con diferentes razas, culturas, eventos y conceptos. La época es similar al Neoclasicismo (siglo XVIII o XIX) en tecnologia y pensamiento.
+- El evento más importante y determinante de este mundo es el Colapso, un cataclismo místico que ocurrió hace unos cientos de años y que tuvo como epicentro Liito, la capital de los Teeli. El Colapso destruyó por completo la ciudad y fragmentó las islas Teeli abruptamente. Como se desconocen sus causas se consideró una señal divina y por eso fue la causa de la caída del predominio Teeli y el auge de los Órka los cuales no tuvieron perdidas sustanciales.
+- Con el tiempo el Colapso también provocó la aparición de diferentes portales repartidos por el mundo. Estos portales permiten acceder a otra dimensión, un mundo blanco infinito a la vista con una peculiaridad: si no eres plenamente consicente de tu ser, tu cuerpo se va desvaneciendo hasta desaparecer. Este mundo blanco es un misterio y una tentación para muchos.
+- Algunos elementos importantes del mundo de la historia son:
+    - Los sellos: Eran una ciencia aparentemente teórica y pocos usos prácticos que consistía en unos símbolos escritos en el cuerpo que protegen o limitan la consciencia para ciertas actividades. Tras el Colapso se perdieron casi todos los registros y solo quedan algunos sellos incompletos o defectuosos.
+    - El henso: Un material con cualidades casi del cristal. Es el material más preciado de los Henso. El henso se extrae de unas serpientes criadas por los Henso. Tiene muchos usos y cualidades, pero fuera de Henso solo se usa como joyas porque es muy caro.
+    - La materia blanca: Un material casi mágico que puede transformarse en cualquier cosa con el conocimiento adecuado y tiempo. Sin embargo, nadie sabe cómo funciona ni qué riesgos tiene.
+    - La materia educada: Es aun más caro que la materia blanca, es un tipo de materia concreta que ya está preparada para moldear, permite a quien la posea darle instrucciones sencillas para que cambie de forma rápidamente.
+- Las razas principales de la historia son:
+    - Los Teeli: Personas pacíficas que viven por y para el conocimiento. Antes del Colapso estaban en plena expansión y tenían un puerto en cada isla. Tras el Colapso perdieron credibilidad y la gran mayoría del poder económico que tenían.
+    - Los Orka: Muy belicosos e intransigentes. Tienen una política expansionista, que empezó siendo destructiva pero con el paso del tiempo vieron que era más inteligente integrarse con el país. Al rechazar el conocimiento, no tuvieron muchas bajas en el Colapso, que ellos consideran un castigo divino. Ahora se sienten muy superiores tanto física como moralmente.
+    - Los Henso: Una raza huidiza y distante. Son grandes comerciantes y navegantes. Viven en una isla apartada del resto del mundo, rodeada de un mar de henso que impide el paso a los demás. Tienen una gran habilidad para el comercio y la navegación.

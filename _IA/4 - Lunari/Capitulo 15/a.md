@@ -1,1 +1,0 @@
-· Alguien del equipo llega a la guarida, Zahorí ya está contando cosas, la de la tienda ha aceptado, solo queda conseguir un contacto en el mansion pero es posible conseguirla. Hablan del intento fallido y como solucionarlo.

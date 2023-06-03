@@ -42,14 +42,6 @@ PALACIO
 
 - Siervo -> **9** -> ENFJ
 
- LADRONES
- (dos de los ladrones son hermanes)
-
- - Jefa -> **9 · 8 (6 · 5)**  -> Doc
- - Semi mago -> ** 1 (4) ** -> Zahorí -> ESTJ
- - Espía Uno -> **9 (6)** -> Zipi · Merri.  ->  ISFJ
- - Espía  Dos --> **7 (5)** -> Zape · Pippin -> ESFP
-
  ATLANTIS
 
  - Maga -> **7 (5)**  Naruto · Kelsier · Vasher-> ESTP /  Loop Se - Fe / SI - Fi
@@ -95,7 +87,9 @@ Edad: En la ventena
 Sexo: masculino
 Maduracion: regulinchis
 Extra: Hermano pequeño. Zappe / Merry
+
 ___
+
 Ginn tenia que ser sociable, amable, servicial. Tenía que fingir que le importaban los demás, que quería ayudarlos, que los entendía. Tenía que ocultar su curiosidad, su ingenio, su independencia. Tenía que reprimir sus emociones, sus dudas, sus miedos. No podía ser ella misma, ni expresar lo que pensaba o sentía. Solo podía ser lo que los demás esperaban de ella: una sirvienta fiel y obediente cumpliendo ordenes.
 
 -   Usar adjetivos o adverbios que indiquen que su comportamiento es forzado o huidizo, como “artificial”, “mecánico”, “tenso”, “incómodo”, “rápido”, “discreto”, “evasivo”, etc.
@@ -184,8 +178,6 @@ Suri siente desprecio y envidia por  Ginn y todo lo que representa. Suri se cre�
 	 Raza: Órka. 
   Leal y se guía por un estricto código de honor y justicia. Es el siervo personal del gobernador de Suuri y una representación de él. Cualquier cosa dicha por Apa es como si la dijese el mismísimo gobernador. Es tranquilo y difícil de encolerizar pero firme.
 
----
-
 # SHEED
 
 #### - Sheed: 
@@ -193,28 +185,129 @@ Suri siente desprecio y envidia por  Ginn y todo lo que representa. Suri se cre�
 	Eneagrama: 2w3.
 	Raza: Akro.
 Es la sirviente de Suri, le teme y le respeta a partes iguales. Hace todo lo posible para no encolerizar a Suri.
-Sheed es una persona practica, que se siente en deuda con Tawin, el padre de Suri, y por eso hace todo lo que Suri le pide aunque no le guste o piense que este mal.
+Sheed es una persona practica.Se ve a sí misma como una sirvienta insignificante, sin valor ni belleza. Despues de tantos años de acoso y maltrato por Suri, se siente una raza inferior.
 
 #### - Suri: 
 	MBTI: ESFP. 
 	Eneagrama: 3w4.
 	Raza: Orka.
-Para Sheed, Sheed era una herramienta, igual que todos los sirvientes Akro, en muchas ocasiones pasaba por alto que fuesen seres vivos.
-Suri sentía un rechazo instintivo hacia Sheed por sus raíces y por parecerse fisicamente a Ginn. Suri consiente tener a Sheed cerca porque es útil y porque se esfuerza en no defraudarle. 
-Suri es imposible que toque un libro, parece que les tiene alergia y asco. 
+Para Sheed, Suri era una herramienta, igual que todos los sirvientes Akro, en muchas ocasiones pasaba por alto que fuesen seres vivos.
+Sheed se siente en deuda con Tawin por salvarla. Aunque en realidad Suri no le gusta, le obedece aunque no le guste o piense que este mal para no defraudar a Tawin.
+Sabe que Suri siente un rechazo instintivo hacia Sheed por sus raíces y por parecerse fisicamente a Ginn.
 
 # GINN
 
----
+#### - Ginn:
+	MBTI: INTP.
+	Eneagrama: 5w4.
+	Raza: Mestiza (Orka-Teeli).
+Es tímido y retraído, tiene mucho de su madre la reina que es de descendencia Teeli. Es el único heredero. Su padre lo desprecia porque es una deshonra para los Orka.
+Suri siente desprecio y envidia por  Ginn y todo lo que representa. Suri se creía superior en todo: en fuerza, en inteligencia, en carisma, en ambición. Él era el verdadero líder, el que debía ocupar el trono y llevar a los Orka a la gloria. Suri intenta hacerle la vida imposible a Ginn siempre que le era posible y especialmente en humillarlo.
+
+#### - Shed: 
+	MBTI: ENTP. 
+	Eneagrama: 6w5.
+	Raza: Orka.
+Shed es la sirvienta de Suri. Tenia que ser sociable, amable, servicial aunque le costase. Tenía que fingir que le importaban los demás, que quería ayudarlos, que los entendía aunque le costase. Tenía que ocultar su curiosidad, su ingenio, su independencia. Tenía que reprimir sus emociones, sus dudas, sus miedos. No podía ser ella misma, ni expresar lo que pensaba o sentía aunque eso también le daba algo de paz porque podía huir de si misma. Solo podía ser lo que los demás esperaban de ella: una sirvienta fiel y obediente cumpliendo ordenes.
+
+#### - Siervo: 
+	MBTI: ENFJ. 
+	Eneagrama: 9w1.
+	Raza: Orka.
+Siervo es la sirviente de Suri.
 
 # MAARA
 
----
+#### - Maara: 
+	MBTI: INFJ.
+	Eneagrama: 4w5.
+	Raza: Teeli.
+Introvertida y sensible, que se siente destinada a proteger a su reino con su sabiduría. Le encanta leer, observar y reflexionar sobre la vida, especialmente sobre la astrología, que considera la clave para entender el mundo y las personas. Es generosa y agradable, pero también distante y orgullosa. Evita los conflictos, pero no tolera las injusticias. A veces se deja llevar por sus emociones y actúa de forma impulsiva o autocomplaciente. No le presta mucha atención a su salud o apariencia física. Puede ser manipuladora si lo cree necesario.
 
-# RIIN
+#### - Lumi: 
+MBTI: ENFP. Eneagrama: 7w6. 
+Es una joven teeli muy inteligente y entusiasta, que sueña con ser una gran exploradora. Maara la ve como una hermana menor, a la que admira por su valentía y su pasión.
 
----
+#### - Riku: 
+	MBTI: INTJ.
+	Eneagrama: 5w4.
+	Raza: Teeli.
+Es un joven teeli muy sabio y respetado, que ha dedicado su vida a buscar documentos sobre antes del colapso. Maara lo ve como un maestro, al que respeta por su conocimiento y su experiencia.
+
+#### - Kira: 
+	MBTI: ESTP.
+	Eneagrama: 3w2.
+	Raza: Teeli.
+Es una mujer teeli muy astuta y hábil, que se encarga de las negociaciones y los tratos con otras razas. Es una persona extrovertida y pragmática, que se adapta fácilmente a las situaciones y a las personas. Tiene un gran sentido de la oportunidad y de la negociación, que le hace ser una excelente comerciante.
+Maara la ve como una amiga, a la que confía por su lealtad y su sinceridad.
+
+#### - Roca: 
+	MBTI: ENTJ.
+	Eneagrama: 8w9.
+	Raza: Teeli.
+Es un joven teeli serio y formal. Grande y serio. Es muy introvertido. Es el guardia personal de Maara y el único que le acompañara a Suuri.
+
 
 # ZELIIE
 
----
+#### - Zeliie: 
+	MBTI: ISTJ(En loop Fi-Si). 
+	Eneagrama: 5w6.
+	Raza: Teeli.
+Introvertida y sensible. Vive mentalmente arrepentida por algo que causó en el pasado. Tiene estrés post traumático y depresión. Lo único que la distrae de sus problemas es discutir con Shire aunque eso también le da hambre.
+
+#### - Shire: 
+	MBTI: ENFP.
+	Eneagrama: 7w6.
+	Raza: Mundo blanco.
+Es un ser del mundo blanco que se alimenta de pensamientos.Es Omnisapiente. Y percibe todas las realidades a la vez por eso a veces no sabe muy bien en que realidad o tiempo está. Disfruta de los humanos y disfruta especialmente molestando a Zeliie. Solo ella puede escucharla porque están vinculadas.
+Inspiración: Sylphrena de Brandon Sanderson.
+
+# RIIN
+
+# LADRONES
+
+ - Jefa -> **9 · 8 (6 · 5)**  -> Doc
+ - Semi mago -> ** 1 (4) ** -> Zahorí -> ESTJ
+ - Espía Uno -> **9 (6)** -> Zipi · Merri.  ->  ISFJ
+ - Espía  Dos --> **7 (5)** -> Zape · Pippin -> ESFP
+
+#### - Jefa
+	MBTI:INTJ
+	Eneagrama: 8w9
+	Raza: Akro
+Profesion: Jefa de un grupo de ladrones 
+Traumitas: Medianamente sana
+Edad: treintena baja
+Sexo: Femenina
+Maduracion: adecuada
+Extra: Se crio con dinero pero su familia lo perdio.
+
+#### - Zahori: 
+	MBTI:ESTJ
+	Eneagrama: 8w9
+	Raza: Akro
+Es desconfiada, arisca y brusca. Suele creer que tiene la razón. Pero en realidad es muy buena persona y cuida mucho de los suyos.
+
+#### - Zippi
+	MBTI:ESFP
+	Eneagrama: 8w9
+	Raza: Akro
+Profesion: Espia / investigador
+Edad: En la ventena
+Sexo: masculino
+Maduracion: regulinchis
+Extra: Zippi / Pippin
+
+#### - Zappe
+	MBTI:ISFJ
+	Eneagrama: 8w9
+	Raza: Akro
+Profesion: Espia / investigador
+Traumitas: Huerfano de padre
+Edad: En la ventena
+Sexo: masculino
+Maduracion: regulinchis
+Extra: Hermano pequeño. Zappe / Merry
+
+# SECTA

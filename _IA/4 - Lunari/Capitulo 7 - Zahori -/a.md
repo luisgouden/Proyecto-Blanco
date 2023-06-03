@@ -1,1 +1,0 @@
-Zahorí callejeando y huyendo. El asalto a la mansión ha ido mal (aun no se porque). Casi lo consiguen pillar pero consigue escapar aunque lo persiguen. Pasa por delante de su guarida pero pasa de largo y entra en los suburbios, cuando estan apunto de pillarlo usa el objeto y funciona, no perfectamente pero cumple su objetivo y escapa.
