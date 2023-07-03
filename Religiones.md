@@ -1,6 +1,6 @@
 ## Sol
 
-Muy belicosos e intransigentes. Tienen una politica expansionista, empezó siendo destructiva (como paso con los Lunari) pero con el paso del tiempo vieron que era mas inteligente integrarse con el pais y eso estan haciendo con los Teeli. Al no ser muy aficionados al autoconocimiento no tuvieron casi perdidas en El Colapso así que ahora son muy superiores tanto fisica como moralmente, justificandose que ha sido un castigo divino. Despues de El Colapso, un cierto grupo de personas se sintio interesada / tentada por ciertos objetos y libros que confiscaron de las ruinas y crearon una sociedad pequeña y controlada (Rosa Negra) para cumplir y controlar ciertas cosas (no se cuales :D)
+Muy belicosos e intransigentes. Tienen una politica expansionista, empezó siendo destructiva (como paso con los Lunari) pero con el paso del tiempo vieron que era mas inteligente integrarse con el pais y eso estan haciendo con los Teeli. Al no ser muy aficionados al autoconocimiento no tuvieron casi perdidas en El Colapso así que ahora son muy superiores tanto fisica como moralmente, justificandose que ha sido un castigo divino. Despues de El Colapso, un cierto grupo de personas se sintio interesada / tentada por ciertos objetos y libros que confiscaron de las ruinas y crearon una sociedad pequeña y controlada (Rosa Negra).
 
 - Veneran:–     La luz y el calor en todas sus formas
 - Costumbres: Repudian los libros y consideran las librotecas un sitio de reunion. Miran mal a gente que lee. 
@@ -17,16 +17,7 @@ Muy belicosos e intransigentes. Tienen una politica expansionista, empezó siend
 
 ## Mundo blanco (secta)
 
-- Veneran:
-- Costumbres:
-- Prohibiciones:
-- Distintivos / Símbolos:
-  - Pelo:
-  - Pieles:
-  - Ojos:
-  - Ropa:
-- Escrituras o símbolos sagrados:
-
+Son Orka intoxicados por el poder del mundo blanco.  Tienen su propopio portal pero anelan los portales Teeli que están mucho mejor estructurados. Aunque rechazan el conocimiento, saben que es util y trasconfiscar objetos y libros Teeli han conseguido cierta influencia en el mundo blanco. Intentan tener enlaces con los seres como Shire pero aun no son capaces porque lo hacen por la fuerza. Su intención es que Suri llegue al poder, porque sabe que es mas ambicioso y manejable que Ginn y asi tener aun más influencia con los Teeli.
 
 ## Luna
 

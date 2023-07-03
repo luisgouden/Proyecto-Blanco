@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bf8b4dfe28f9af0",
+        "id": "526096b3f748c701",
         "type": "tabs",
         "children": [
           {
-            "id": "3550faaf75e309a7",
+            "id": "68ce9b47baff9b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/_Situación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25f088571b6877a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_IA/1 - Suri/Capitulo 1 - Suri.md",
+                "file": "Personajes.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Punto",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_IA/_Situación.md",
+                "file": "Personajes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,34 +112,40 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "3550faaf75e309a7",
+  "active": "68ce9b47baff9b51",
   "lastOpenFiles": [
-    "_IA/_Prompts/Untitled.md",
-    "_IA/_Prompts/Untitled 1.md",
-    "_IA/1 - Suri/Capitulo 1 - Suri.md",
-    "_IA/4 - Lunari/Capitulo 7.md",
-    "_IA/6 -  Zeliie/Capitulo 13.md",
-    "_IA/6 -  Zeliie/Capitulo 5.md",
-    "_IA/4 - Lunari/Capitulo 20.md",
-    "_IA/4 - Lunari/Capitulo 15.md",
-    "_IA/_Prompts/0 - Corregir prompt/0 - Corrige.md",
     "_IA/_Personajes/Ladrones.md",
-    "_IA/3 - Maara/Capitulo 22.md",
-    "_IA/3 - Maara/Capitulo 18.md",
-    "_IA/3 - Maara/Capitulo 11.md",
+    "Personajes.md",
+    "PLANETAS.jpg",
+    "_IA/_Personajes/Secta.md",
+    "_Resumen.md",
+    "nombres.md",
+    "Evolucion.md",
+    "Religiones.md",
+    "_IA/1 - Suri/Untitled.md",
+    "_IA/_Situación.md",
     "_IA/3 - Maara/Capitulo 4.md",
-    "_IA/1 - Suri/Capitulo 23 - Suri.md",
-    "_IA/2 - Ginn/Capitulo 19.md",
-    "_IA/2 - Ginn/Capitulo 8.md",
-    "_IA/1 - Suri/Capitulo 16 - Sheed.md",
-    "_IA/1 - Suri/Capitulo 14 - Suri.md",
-    "_IA/1 - Suri/Capitulo 12 - Shed.md",
-    "_IA/1 - Suri/Capitulo 10 - Suri.md",
-    "_IA/1 - Suri/Capitulo 6 - Shed.md",
     "_IA/1 - Suri/Capitulo 2 - Sheed.md",
-    "_IA/2 - Ginn/Capitulo 25.md",
+    "_IA/1 - Suri/Capitulo 1 - Suri.md",
+    "_IA/7 - Riin/-.md",
     "_IA/_Personajes/Ginn.md",
-    "_IA/_Personajes/Zeliie.md",
+    "_IA/5- Secta/Capitulo 21.md",
+    "_IA/5- Secta/Capitulo 3.md",
+    "_IA/7 - Riin/Capitulo 24.md",
+    "_IA/7 - Riin/Capitulo 17.md",
+    "_IA/7 - Riin/Capitulo 9.md",
+    "_IA/_Prompts/0 - Corregir prompt/0 - Corrige.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
+    "_IA/_Prompts/0 - Corregir prompt/Evolucion.md",
+    "_IA/_Personajes/Riin.md",
+    "_Historia/3_extendido.md",
+    "_Historia/4_ampliando.md",
+    "_IA/6 -  Zeliie/Capitulo 5.md",
+    "Henso.ai",
+    "MAPA.ai",
+    "MAPA.jpg",
+    "Mapa-Suuri.jpg",
+    "MAPA2.jpg",
     "_IA/_Personajes",
     "_IA/1 - Suri/Capitulo 1 - Suri/prompt",
     "_IA/1 - Suri/Capitulo 12 - Shed/prompt",
@@ -160,13 +154,7 @@
     "_IA/1 - Suri/Capitulo 14 - Suri/prompt",
     "_IA/1 - Suri/Capitulo 10 - Suri/prompt",
     "capitulos.ai",
-    "_Historia",
-    "_Escricion",
     "Untitled.canvas",
-    "PLANETAS.jpg",
-    "MAPA2.jpg",
-    "Mapa-Suuri.jpg",
-    "MAPA.jpg",
     "OIP.jpeg",
     "OIP-01.svg"
   ]

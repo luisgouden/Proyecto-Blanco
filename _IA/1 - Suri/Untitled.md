@@ -1,0 +1,13 @@
+La historia transcurre en una dimensión imaginaria con diferentes razas, culturas, eventos y conceptos. La época es similar al Neoclasicismo (siglo XVIII o XIX) en tecnología y pensamiento.
+
+El evento más importante y determinante de este mundo es el Colapso, un cataclismo místico que ocurrió hace unos cientos de años y que tuvo como epicentro Liito, la capital de los Teeli. El Colapso destruyó por completo la ciudad y fragmentó las islas Teeli abruptamente. Como se desconocen sus causas se consideró una señal divina y por eso fue la causa de la caída del predominio Teeli y el auge de los Órka los cuales no tuvieron perdidas sustanciales.
+Con el tiempo el Colapso también provocó la aparición de diferentes portales repartidos por el mundo. Estos portales permiten acceder a otra dimensión, un mundo blanco infinito a la vista con una peculiaridad: si no eres plenamente consicente de tu ser, tu cuerpo se va desvaneciendo hasta desaparecer. Este mundo blanco es un misterio y una tentación para muchos.
+
+- Las razas principales de la historia son:
+    - Los Teeli: Personas pacíficas que viven por y para el conocimiento. Antes del Colapso estaban en plena expansión y tenían un puerto en cada isla. Tras el Colapso perdieron credibilidad y la gran mayoría del poder económico que tenían.
+    - Los Orka: Muy belicosos e intransigentes. Tienen una política expansionista, que empezó siendo destructiva pero con el paso del tiempo vieron que era más inteligente integrarse con el país. Al rechazar el conocimiento, no tuvieron muchas bajas en el Colapso, que ellos consideran un castigo divino. Ahora se sienten muy superiores tanto física como moralmente.
+    - Los Henso: Una raza huidiza y distante. Son grandes comerciantes y navegantes. Viven en una isla apartada del resto del mundo, rodeada de un mar de henso que impide el paso a los demás. Tienen una gran habilidad para el comercio y la navegación.
+
+
+El grupo antagonista son Orka intoxicados por el poder del mundo blanco.  Tienen su propio portal pero anelan los portales Teeli que están mucho mejor estructurados. Aunque rechazan el conocimiento, saben que es util y trasconfiscar objetos y libros Teeli han conseguido cierta influencia en el mundo blanco. Intentan tener enlaces con los seres como Shire pero aun no son capaces porque lo hacen por la fuerza. Su intención es que Suri llegue al poder, porque sabe que es mas ambicioso y manejable que Ginn y asi tener aun más influencia con los Teeli.
+Estan basados en "La rosa negra" del league of legends.

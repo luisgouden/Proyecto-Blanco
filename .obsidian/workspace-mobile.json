@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personajes.md",
+                "file": "_IA/7 - Riin/Capitulo 24.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,8 +52,17 @@
             "sortOrder": "alphabetical"
           }
         }
+      },
+      {
+        "id": "5d10b8d13dbb98d9",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "15e49f1296ef9f23",
@@ -65,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personajes.md",
+            "file": "_IA/7 - Riin/Capitulo 24.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -90,6 +99,30 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "_IA/_Personajes/Ladrones.md",
+    "_Resumen.md",
+    "_IA/1 - Suri/Untitled.md",
+    "_IA/7 - Riin/Capitulo 17.md",
+    "Atlantis.md",
+    "_Historia/4_ampliando.md",
+    "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
+    "Mapa-Suuri.jpg",
+    "Personajes.md",
+    "Evolucion.md",
+    "MAPA.ai",
+    "Henso.ai",
+    "embajada.ai",
+    "_Escricion/0.md",
+    "MAPA2.jpg",
+    "Mapa Suuri.ai",
+    "_Historia/3_extendido.md",
+    "Mapa Suuri_.ai",
+    "_Historia/2_teatro.md",
+    "PLANETAS.ai",
+    "Mapa-antiguo.ai",
+    "MAPA.jpg",
+    "PLANETAS.jpg",
+    "_IA/_Personajes/Maara.md",
     "Prologo.md",
     "Untitled 1.md",
     "Bing/_1.md",
@@ -97,14 +130,10 @@
     "Untitled 0.md",
     "historia_4_ampliando.md",
     "historia_1_capitulos.md",
-    "Personajes.md",
     "Capitulo 1.md",
     "nombres.md",
-    "MAPA2.jpg",
-    "PLANETAS.jpg",
     "Religiones.md",
     "SpinOff.md",
-    "Evolucion.md",
     "README.md"
   ]
 }

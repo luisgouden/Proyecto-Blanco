@@ -28,7 +28,7 @@ La ciudad de Suuri, en una dimensión imaginaria con diferentes razas, culturas,
 -   El objetivo de Zahori es presense ante el lector y enseñar su realidad como ladrona.
 
 # Paso 3
-- Punto de vista: El narrador es un narrador equisciente focalizado. Enfocado en Zahori. Zahori es una persona juzgadora y mal hablada. Es una sabelotodo que se preocupa por el bien de su grupo.
+- Punto de vista: El narrador es un narrador equisciente focalizado. Enfocado en Zahori.  Zahori es una persona juzgadora y mal hablada. Es una sabelotodo que se preocupa por el bien de su grupo.
 
 Zahorí callejeando y huyendo. El asalto al palacio ha ido mal por una extraña razón. Casi les capturan pero consigue escapar aunque los persiguen. Pasa por delante de su guarida que esta en el linde entre la ciudad y los bajos fondos pero pasa de largo y entra en los suburbios, cuando estan apunto de pillarlo algo pasa y desaparece.
 

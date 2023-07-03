@@ -85,6 +85,9 @@
 8.7 Otro de los supervivientes es o actúa como el Rey-Dios, por eso saben usar las serpientes en la actualidad
 
 ## 9 NARRADOR
+## 10 GPT
+## 11 LOVECRAFT
+
 
 ## Trama
 - Ocean's Eleven
