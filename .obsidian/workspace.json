@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personajes.md",
+                "file": "_IA/_Personajes/Secta 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personajes.md",
+                "file": "_IA/_Personajes/Secta 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,14 +114,17 @@
   },
   "active": "68ce9b47baff9b51",
   "lastOpenFiles": [
-    "_IA/_Personajes/Ladrones.md",
-    "Personajes.md",
-    "PLANETAS.jpg",
+    "Evolucion.md",
     "_IA/_Personajes/Secta.md",
+    "_IA/_Personajes/Secta 1.md",
+    "_IA/5- Secta/Capitulo 21.md",
+    "_IA/5- Secta/Capitulo 3.md",
+    "Religiones.md",
+    "Personajes.md",
+    "_IA/_Personajes/Ladrones.md",
+    "PLANETAS.jpg",
     "_Resumen.md",
     "nombres.md",
-    "Evolucion.md",
-    "Religiones.md",
     "_IA/1 - Suri/Untitled.md",
     "_IA/_Situación.md",
     "_IA/3 - Maara/Capitulo 4.md",
@@ -129,8 +132,6 @@
     "_IA/1 - Suri/Capitulo 1 - Suri.md",
     "_IA/7 - Riin/-.md",
     "_IA/_Personajes/Ginn.md",
-    "_IA/5- Secta/Capitulo 21.md",
-    "_IA/5- Secta/Capitulo 3.md",
     "_IA/7 - Riin/Capitulo 24.md",
     "_IA/7 - Riin/Capitulo 17.md",
     "_IA/7 - Riin/Capitulo 9.md",
@@ -140,7 +141,6 @@
     "_IA/_Personajes/Riin.md",
     "_Historia/3_extendido.md",
     "_Historia/4_ampliando.md",
-    "_IA/6 -  Zeliie/Capitulo 5.md",
     "Henso.ai",
     "MAPA.ai",
     "MAPA.jpg",

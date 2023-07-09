@@ -1,41 +1,28 @@
 ## 1 Idea inicial
 
 1.1 Quería "spren" para conversaciones divertidas.
-
 1.2 El mundo blanco.
-
 1.3 Catalizadores. Los "spren" iban a permitir hacer magia.
-
 1.4 Poca magia.
-
 1.5 La creatividad o mi proyecto de método de enseñanza como cimiento para la enseñanza o la magia.
-
 1.6 Prota género neuro o femenina.
 
 
 ## 2 Meh
 
 2.1 Personajes principalmente femeninos o andróginos (religión que potencie eso).
-
 2.2 Que se puedan crear portales mediante magia.
-
 2.3 Que el lenguaje/pensamiento/conocimiento estén *estrechamente* vinculados a la magia.
-
 2.4 Que la magia sea más teórica que práctica.
-
 2.5 Que no todo el mundo pueda serlo pero que no sea algo de unos pocos.
-
 2.6 Mundo blanco esta poblado por criaturas gigantescas.
 
 
 ## 3 Perfilado
 
 3.1 Magia "más" frecuente.
-
 3.2 Cierto grupo de personas va al Mundo Blanco a minarlo. De la Materia "hace" magia.
-
 3.3 Sin control suficiente la magia te disuelve. Necesitas autoconocimiento para poderla ejecutar y mantener (Oráculo de Delfos).
-
 3.4 Como protección, los magos "sellan" sus conciencias con tatuajes en su cuerpo. A partir de cierto numero de sellos la mente no funciona correctamente y produce Dislalias. Afasia.
 
 
@@ -43,19 +30,14 @@
 #### Considero la creación del mapa algo relevante porque me ayudó a dar coherencia a la historia y marcó un importante antes y después.
 
 4.1 Hay gente viviendo en el mundo blanco.
-
 4.2 El mundo blanco es ajeno al tiempo o al menos pasa mucho más despacio.
-
 4.3 Hay más países en el planeta.
-
 4.4 En la historia la magia no esta bien vista porque ha sido la causante de la fracturación del país.
 
 ## 5 DESPUES DE UN PARÓN LARGO
 
 5.1 Generar confusión con los géneros.
-
 5.2 Hacer creer al lector que el protagonista es el impostor. Siendo "doblemente impostor".
-
 5.3 Le protagoniste tiene un tic o un deje al hablar que hace que se descubra mas o menos a mitad de libro que es elle.
 
 5.4 Leyendo "Estellar" nos presentan a los zapadores, seres que viven en un plano diferente, al margen del espacio y el tiempo y que devoran planetas. Se parecen bastante a mis Constructores ( en verdad influenciados por los Ancestrales de warhammer) pero en vez de devorar... crean.
@@ -65,16 +47,17 @@
 ## 6 NUEVO MAPA Y SISTEMA PLANETARIO
 
 6.1 La isla 3 tiene un material que venden carisimo (cristal de swaroski) es como en mundo disco la isla que es de oro.
-
 6.2 Las reliquias/objetos magicos de antes de la Colision son muy dificiles de encontrar porque como los magos no estan muy bien visto pues no pueden fabricar más. En el mercado se venden muy caras y suelen ser una herencia muy importante (como las espadas forjadas por aesedai de la rueda) o las espadas de acero valirio.
 
 6.3 Elle le quita la reliquia (que teoricamente deberia ser suya) al impostor.
 
 ## 7 EXPANSION DE CAPITULOS ANTES DE ESCRIBIR Y OTRAS COSAS
+
 7.1 La secta es Solari o principalmente solari y soy los contratados para matarle
 7.2 Shire y sus hermanas parte o los fragmentos de la diosa del conocimiento?
 
 ## 8 ANIMALITOS Y ATLANTIS
+
 8.1 En atlantis se estudiaba el comportamiento de una raza de animales marinos
 8.2 los animales son seres inteligentes y conscientes que curiosamente algunos tienen un comportamiento diferente. Dichos especímenes crecen mas.
 8.3 los animalitos prefieren un tipo de planta que solo crece cerca de atlantis
@@ -85,8 +68,16 @@
 8.7 Otro de los supervivientes es o actúa como el Rey-Dios, por eso saben usar las serpientes en la actualidad
 
 ## 9 NARRADOR
+
 ## 10 GPT
+
 ## 11 LOVECRAFT
+
+11.1 Dioses.
+11.2 Secta
+11.3 Erradicando a los Lunari
+
+## 12 SECTA
 
 
 ## Trama
@@ -110,6 +101,8 @@
 4. Vigilantes
 5. Esquirlas (aunque eso implicaria algo superior)
 6. Adeptus (Aunque eso tambien implica algo superior?)
+7. Profundos
+8. Primordiales
 
 ## Razas de animales grandes
 ballenas
@@ -118,6 +111,7 @@ gusanos de dune
 reyes del mar one piece
 
 ## SpinOff
+
 ### Atlantis
 Es un pueblo/laboratorio/colonia especializada en el estudio de una clase de serpientes marinas.
 Encuentran unos seres translucidos que parecen estar atraidos por ellos
