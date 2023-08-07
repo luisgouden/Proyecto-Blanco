@@ -62,17 +62,15 @@
 8.2 los animales son seres inteligentes y conscientes que curiosamente algunos tienen un comportamiento diferente. Dichos especímenes crecen mas.
 8.3 los animalitos prefieren un tipo de planta que solo crece cerca de atlantis
 8.4 se pueden vincular con un Shire. Lo que les da mas consciencia y con entrenamiento los vuelve domesticables.
-- Esto es como los conchagrandes de Roshar que se venculan a un spreen en su gemacorazon para poder ser mas grande y no explotar.
+- Esto es como los conchagrandes de Roshar que se vinculan a un spren en su gemacorazon para poder ser mas grande y no explotar.
 8.5 Hay varios supervivientes de atlantis que volvieron a tener contacto con el mundo normal.
 8.6 La princesa es descendiente directa de Zeliie.
 8.7 Otro de los supervivientes es o actúa como el Rey-Dios, por eso saben usar las serpientes en la actualidad
 
 ## 9 NARRADOR
-
-## 10 GPT
+qqq## 10 GPT
 
 ## 11 LOVECRAFT
-
 11.1 Dioses.
 11.2 Secta
 11.3 Erradicando a los Lunari

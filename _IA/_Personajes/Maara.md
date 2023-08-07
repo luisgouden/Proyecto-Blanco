@@ -22,7 +22,7 @@ Es una mujer teeli muy astuta y hábil, que se encarga de las negociaciones y lo
 Maara la ve como una amiga, a la que confía por su lealtad y su sinceridad.
 
 #### - Roca: 
-	MBTI: ESFJ / isfj.
+	MBTI: ESFJ / isfj /istp.
 	Eneagrama: 8w9.
 	Raza: Teeli.
 Es un joven teeli serio y formal. Grande y serio. Es muy introvertido. Es el guardia personal de Maara y el único que le acompañara a Suuri.
