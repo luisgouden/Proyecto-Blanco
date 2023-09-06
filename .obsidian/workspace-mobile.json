@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/_Capitulos/Capitulo 1.md",
+                "file": "Personajes.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_IA/_Capitulos/Capitulo 1.md",
+            "file": "Personajes.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -99,6 +99,7 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "_IA/_Capitulos/Capitulo 1.md",
     "_IA/7 - Riin/Capitulo 24.md",
     "_IA/Secta.md",
     "_IA/_Capitulos/Capitulo 4.md",
@@ -120,7 +121,6 @@
     "_IA/_Capitulos/Capitulo 0.md",
     "_IA/_Capitulos/Capitulo 2.md",
     "_IA/_Capitulos/Capitulo 6.md",
-    "_IA/_Capitulos/Capitulo 1.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
     "_IA/_Capitulos/Capitulo 3.md",
     "_IA/_Capitulos/-.md",
