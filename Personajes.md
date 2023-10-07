@@ -28,8 +28,8 @@
 Isla
 · Prometida -> 4 -> Trinity / Vivianna / Menchi -> INFJ
 
-· Destinada a casarse con el heredero del que habia usurpado su reino, está molesta por lo que tiene que hacer pero sabe que es lo correcto y le gusta cuidar de su pueblo.
-Es una lider nata y se desenvuelve muy bien en publico. Es organizada y tiende a ser mas directa de lo que le gustaria.
+· Destinada a casarse con el heredero del que había usurpado su reino, está molesta por lo que tiene que hacer pero sabe que es lo correcto y le gusta cuidar de su pueblo.
+Es una lider nata y se desenvuelve muy bien en publico. Es organizada y tiende a ser mas directa de lo que le gustaría.
 
 PALACIO
 
