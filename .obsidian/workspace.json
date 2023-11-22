@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
+                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
+                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,24 +124,25 @@
   },
   "active": "36b8f9f8f1d2af3d",
   "lastOpenFiles": [
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
+    "Mapa_Suuri.jpg",
+    "Mapa_planetas.jpg",
+    "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
     "Mapa_HEIM.jpg",
     "Mapa_HEIM.ai",
     "Mapa_HEIL.ai",
     "Mapa_Akro.ai",
     "Mapa_embajada.ai",
     "Mapa_Henso.ai",
-    "Mapa_planetas.jpg",
     "Mapa_Planetas.ai",
     "Mapa Suuri__.ai",
     "MAPA_Akro.ai",
-    "Mapa_Suuri.jpg",
     "Mapa_antiguo.ai",
     "mapa_embajada.ai",
     "_Historia/1_capitulos.md",
     "_IA/_Capitulos/Capitulo 1.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
-    "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
     "Personajes.md",
     "_Escribicion/1 1 1 1 1 -.md",
     "_Escribicion/1.md",
@@ -159,7 +160,6 @@
     "_Escribicion/0.md",
     "SpinOff.md",
     "Untitled.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
     "_IA/_Prompts/0 - Corregir prompt/0 - Corrige.md",
     "_IA/_Prompts/0 - Corregir prompt/Evolucion.md",
     "MAPA2.jpg",
