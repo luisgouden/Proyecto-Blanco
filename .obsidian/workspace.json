@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
+                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
+                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,12 @@
   },
   "active": "36b8f9f8f1d2af3d",
   "lastOpenFiles": [
+    "_IA/1 - Suri/Capitulo 1 - Suri.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
+    "_Escribicion/1 1 1 1 1.md",
+    "_Escribicion/0.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
     "Mapa_Suuri.jpg",
     "Mapa_planetas.jpg",
     "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
@@ -146,7 +149,6 @@
     "Personajes.md",
     "_Escribicion/1 1 1 1 1 -.md",
     "_Escribicion/1.md",
-    "_Escribicion/1 1 1 1 1.md",
     "_Escribicion/0 1.md",
     "_Escribicion/1 1.md",
     "_IA/_Capitulos/Untitled.md",
@@ -157,7 +159,6 @@
     "_IA/_Capitulos/Capitulo 0.md",
     "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
     "_IA/_Capitulos/Capitulo 4.md",
-    "_Escribicion/0.md",
     "SpinOff.md",
     "Untitled.md",
     "_IA/_Prompts/0 - Corregir prompt/0 - Corrige.md",
