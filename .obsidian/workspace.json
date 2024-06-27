@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
+                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
+                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,20 +117,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false
     }
   },
   "active": "36b8f9f8f1d2af3d",
   "lastOpenFiles": [
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
     "_IA/1 - Suri/Capitulo 1 - Suri.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
     "_Escribicion/1 1 1 1 1.md",
     "_Escribicion/0.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
     "Mapa_Suuri.jpg",
     "Mapa_planetas.jpg",
