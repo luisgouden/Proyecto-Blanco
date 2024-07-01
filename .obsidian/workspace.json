@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
+                "file": "Personajes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f1efd312b7fc887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Evolucion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
+                "file": "Evolucion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,18 +137,24 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "36b8f9f8f1d2af3d",
+  "active": "6f1efd312b7fc887",
   "lastOpenFiles": [
+    "nombres.md",
+    "Personajes.md",
+    "Evolucion.md",
+    "Atlantis.md",
+    "Mapa_Suuri.jpg",
+    "Mapa_planetas.jpg",
+    "Mapa_HEIM.jpg",
+    "cronologia.md",
+    "Arbol genealogico.md",
+    "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
     "_IA/1 - Suri/Capitulo 1 - Suri.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
     "_Escribicion/1 1 1 1 1.md",
     "_Escribicion/0.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
-    "Mapa_Suuri.jpg",
-    "Mapa_planetas.jpg",
-    "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
-    "Mapa_HEIM.jpg",
     "Mapa_HEIM.ai",
     "Mapa_HEIL.ai",
     "Mapa_Akro.ai",
@@ -148,7 +167,6 @@
     "mapa_embajada.ai",
     "_Historia/1_capitulos.md",
     "_IA/_Capitulos/Capitulo 1.md",
-    "Personajes.md",
     "_Escribicion/1 1 1 1 1 -.md",
     "_Escribicion/1.md",
     "_Escribicion/0 1.md",
@@ -159,12 +177,6 @@
     "_Historia/4_ampliando.md",
     "README.md",
     "_IA/_Capitulos/Capitulo 0.md",
-    "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
-    "_IA/_Capitulos/Capitulo 4.md",
-    "SpinOff.md",
-    "Untitled.md",
-    "_IA/_Prompts/0 - Corregir prompt/0 - Corrige.md",
-    "_IA/_Prompts/0 - Corregir prompt/Evolucion.md",
     "MAPA2.jpg",
     "Mapa-Suuri.jpg",
     "PLANETAS.jpg",

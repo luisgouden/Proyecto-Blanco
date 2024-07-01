@@ -51,3 +51,11 @@ Es el tutor de la clase de Zeliie y Riin, y uno de los profesores de la escuela 
 - Son los habitantes más antiguos de la isla, que llevan viviendo allí desde antes de que llegaran los investigadores. Son una familia misteriosa, reservada y solitaria, que no suele relacionarse con los demás habitantes. Tienen un hijo mayor, Niño más mayor, que es el único que asiste a la escuela del laboratorio. Niño más mayor es un chico serio, frío e intimidante, que no habla con nadie y que parece guardar muchos secretos. Tiene una extraña conexión con el mar y con la raza diferente que vive cerca de la isla.
 
 - Grupo Hanzo: 5 o 6 personas.
+
+
+QUIEN SOBREVIVE AL COLAPSO?
+
+-  Riin
+-  Hermano mayor de Zeliie. Estaba en Hanzo, Tras el colapso y la muerte de gran parte de su familia, vuelve a su isla para convertirse en gobernante.
+-  Algun grupo Hanzo con conexion con la familia antigua ( el niño grande le salva). Gracias a eso se convierte en santo. Y la gran mayoria de los habitantes del reino usan su nombre como comodin. como Jose y Maria en España.
+- 

@@ -77,6 +77,14 @@ qqq## 10 GPT
 
 ## 12 SECTA
 
+## 13 Volviendo / Arbol Genealogico.
+
+Despues de casi 1 año sin tocar la historia no he podido aguantar las ganas. Llevo demasiado tiempo sin ser creativo y necesito hacer cosas. Me han surgido algunas dudas de genero que me gustaria solucionar y me apetece crear un arbol genealogico para ver la relacion que tienen los personajes de la epoca de Ginn comparados con la de Riin.
+
+- La forma de conocerse e interactuar de Riin y Shire, al igual que como destruye todo (aunque sea de otra forma) es muy muy muy muy MUY parecida a la FMA con el Homunculo y el padre de Edward.
+- El niño grande se "sacrifica" para salvar a uno de los Hanzo y por eso, cuando el sobrevive y se convierte en el Rey Dios, lo canoniza al igual que alguno de sus compañeros y muchos de los actuales habitantes de Hanzo tienen sus nombres o un derivado.
+- 
+
 
 ## Trama
 - Ocean's Eleven
@@ -114,4 +122,5 @@ reyes del mar one piece
 Es un pueblo/laboratorio/colonia especializada en el estudio de una clase de serpientes marinas.
 Encuentran unos seres translucidos que parecen estar atraidos por ellos
 La colision se produce cuando por primera vez un ser humano se vincula a uno de esos seres.
+
 

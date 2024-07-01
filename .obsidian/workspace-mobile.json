@@ -67,7 +67,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -107,8 +109,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0b03d5651e288f0f",
+  "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "_Escribicion",
+    "Religiones.md",
+    "nombres.md",
+    "Mapa_planetas.jpg",
+    "_IA/_Situación.md",
+    "_IA/Secta.md",
+    "_Resumen.md",
+    "Mapa_HEIM.jpg",
+    "Mapa_Suuri.jpg",
+    "Atlantis.md",
+    "Personajes.md",
     "Mapa_antiguo.ai",
     "_IA/5- Secta/Capitulo 3.md",
     "_IA/_Capitulos/Capitulo 4.md",
@@ -131,22 +144,12 @@
     "_IA/7 - Riin/Capitulo 24.md",
     "_IA/6 -  Zeliie/Capitulo 5.md",
     "_IA/3 - Maara/Capitulo 18.md",
-    "_IA/7 - Riin/Capitulo 9.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
-    "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
-    "_IA/_Capitulos/Capitulo 21.md",
-    "_IA/_Capitulos/Capitulo 17.md",
-    "_IA/_Capitulos/Capitulo 5.md",
-    "_IA/_Capitulos/Capitulo 1.md",
     "Mapa_embajada.ai",
     "Mapa_Akro.ai",
-    "Mapa_Suuri.jpg",
     "Mapa_Henso.ai",
     "capitulos.ai",
     "Mapa_Planetas.ai",
-    "Mapa_planetas.jpg",
     "magia.txt",
-    "Islas.txt",
     "Mapa-Suuri.jpg",
     "MAPA2.jpg",
     "MAPA.jpg",
