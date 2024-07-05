@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personajes.md",
+                "file": "Arbol genealogico.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personajes.md",
+            "file": "Arbol genealogico.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,9 +111,12 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "nombres.md",
+    "Arbol genealogico.md",
+    "Evolucion.md",
+    "Personajes.md",
     "_Escribicion",
     "Religiones.md",
-    "nombres.md",
     "Mapa_planetas.jpg",
     "_IA/_Situación.md",
     "_IA/Secta.md",
@@ -121,7 +124,6 @@
     "Mapa_HEIM.jpg",
     "Mapa_Suuri.jpg",
     "Atlantis.md",
-    "Personajes.md",
     "Mapa_antiguo.ai",
     "_IA/5- Secta/Capitulo 3.md",
     "_IA/_Capitulos/Capitulo 4.md",
@@ -143,13 +145,11 @@
     "_IA/6 -  Zeliie/Capitulo 13.md",
     "_IA/7 - Riin/Capitulo 24.md",
     "_IA/6 -  Zeliie/Capitulo 5.md",
-    "_IA/3 - Maara/Capitulo 18.md",
     "Mapa_embajada.ai",
     "Mapa_Akro.ai",
     "Mapa_Henso.ai",
     "capitulos.ai",
     "Mapa_Planetas.ai",
-    "magia.txt",
     "Mapa-Suuri.jpg",
     "MAPA2.jpg",
     "MAPA.jpg",

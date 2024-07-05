@@ -6,8 +6,6 @@
 1.4 Poca magia.
 1.5 La creatividad o mi proyecto de método de enseñanza como cimiento para la enseñanza o la magia.
 1.6 Prota género neuro o femenina.
-
-
 ## 2 Meh
 
 2.1 Personajes principalmente femeninos o andróginos (religión que potencie eso).
@@ -16,16 +14,12 @@
 2.4 Que la magia sea más teórica que práctica.
 2.5 Que no todo el mundo pueda serlo pero que no sea algo de unos pocos.
 2.6 Mundo blanco esta poblado por criaturas gigantescas.
-
-
 ## 3 Perfilado
 
 3.1 Magia "más" frecuente.
 3.2 Cierto grupo de personas va al Mundo Blanco a minarlo. De la Materia "hace" magia.
 3.3 Sin control suficiente la magia te disuelve. Necesitas autoconocimiento para poderla ejecutar y mantener (Oráculo de Delfos).
 3.4 Como protección, los magos "sellan" sus conciencias con tatuajes en su cuerpo. A partir de cierto numero de sellos la mente no funciona correctamente y produce Dislalias. Afasia.
-
-
 ## 4 Mapa
 #### Considero la creación del mapa algo relevante porque me ayudó a dar coherencia a la historia y marcó un importante antes y después.
 
@@ -40,7 +34,7 @@
 5.2 Hacer creer al lector que el protagonista es el impostor. Siendo "doblemente impostor".
 5.3 Le protagoniste tiene un tic o un deje al hablar que hace que se descubra mas o menos a mitad de libro que es elle.
 
-5.4 Leyendo "Estellar" nos presentan a los zapadores, seres que viven en un plano diferente, al margen del espacio y el tiempo y que devoran planetas. Se parecen bastante a mis Constructores ( en verdad influenciados por los Ancestrales de warhammer) pero en vez de devorar... crean.
+5.4 Leyendo "Estellar" nos presentan a los zapadores, seres que viven en un plano diferente, al margen del espacio y el tiempo y que devoran planetas. Se parecen bastante a mis Constructores (en verdad influenciados por los Ancestrales de warhammer) pero en vez de devorar... crean.
 
 5.5 Estelar terminado. Tiene grandes similitudes. Zapadores, portales, gente que puede pasar de un sitio a otro y transportarse desde un mundo "atemporal" y mineria de un material imprescindible. Cuanto menos curioso.
 
@@ -68,7 +62,7 @@
 8.7 Otro de los supervivientes es o actúa como el Rey-Dios, por eso saben usar las serpientes en la actualidad
 
 ## 9 NARRADOR
-qqq## 10 GPT
+## 10 GPT
 
 ## 11 LOVECRAFT
 11.1 Dioses.
@@ -83,6 +77,8 @@ Despues de casi 1 año sin tocar la historia no he podido aguantar las ganas. Ll
 
 - La forma de conocerse e interactuar de Riin y Shire, al igual que como destruye todo (aunque sea de otra forma) es muy muy muy muy MUY parecida a la FMA con el Homunculo y el padre de Edward.
 - El niño grande se "sacrifica" para salvar a uno de los Hanzo y por eso, cuando el sobrevive y se convierte en el Rey Dios, lo canoniza al igual que alguno de sus compañeros y muchos de los actuales habitantes de Hanzo tienen sus nombres o un derivado.
+- En un principio las que iban a ir tapadas eran las mujeres. No por recato o por religion o por algo por el estilo, sino porque las imagenes que estaba tomando de referencia y un videoclip de black pink me gusto mucho como quedaba. Despues de ver un video sobre sanderson, empecé a dudar si era buena idea o un micromachismo o algo por el estilo asi que decidi que podia ser divertido que los que se tapasen fueran los chicos POR un complejo que tiene el principe Orka por eso mismo empece a pensar en hacer un arbol genealogico. Porque aunque estaba en mi mente el concepto de principe Orka nunca le habia prestado atencion.
+- Respecto al tema del machismo a pesar de que Ginn en todo momento iba a ser genero neutro estuve (y por ahora sigo teniendo) dudas de que genero quiere la familia que sea. Eso implicaria cambiar el genero de casi todos, no me molesta pero es algo que me inquieta.
 - 
 
 
