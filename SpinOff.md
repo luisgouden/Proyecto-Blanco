@@ -1,5 +1,5 @@
 ## Grandes
-Escuela de reyes
+Escuela de reyes (otomanos, Los Orka)
 Elite pero de magia (despues de un sueño)
 
 ## Historias
