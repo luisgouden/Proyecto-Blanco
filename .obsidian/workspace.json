@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
+                "file": "Personajes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/_Prompts/2 - Corrigir capitulo/Sin título.md",
+                "file": "_Escribicion/0 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 300
   },
   "right": {
     "id": "022a324f57cb3d85",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
+                "file": "_Escribicion/0 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,39 +137,33 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "36b8f9f8f1d2af3d",
+  "active": "6f1efd312b7fc887",
   "lastOpenFiles": [
-    "_IA/_Prompts/1 - Escribe capitulo/Sin título.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
-    "Personajes.md",
-    "_IA/_Prompts/2 - Corrigir capitulo/Sin título.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
-    "_IA/_Prompts/2 - Corrigir capitulo/harry potter.md",
-    "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
-    "_IA/_Prompts/Untitled.md",
-    "_IA/_Prompts/0 - Corregir prompt/Evolucion.md",
-    "_IA/_Prompts/0 - Corregir prompt/0 - Corrige.md",
     "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
     "_IA/_Capitulos/Capitulo 0.md",
+    "Evolucion.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Sin título 1.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Sin título.md",
+    "_IA/_Prompts/2 - Corrigir capitulo/Sin título.md",
+    "_IA/_Prompts/2 - Corrigir capitulo/harry potter.md",
+    "Sin título.md",
+    "Arboles.canvas",
+    "Sin título.canvas",
+    "nombres.md",
+    "Personajes.md",
+    "Atlantis.md",
     "Mapa_Suuri.jpg",
     "Mapa_planetas.jpg",
     "Mapa_HEIM.jpg",
-    "Atlantis.md",
-    "Arbol genealogico.md",
-    "Arboles.canvas",
-    "SpinOff.md",
-    "Religiones.md",
-    "Sin título.md",
-    "README.md",
-    "nombres.md",
-    "_IA/_Prompts/Untitled 1.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
-    "Evolucion.md",
-    "Sin título.canvas",
     "cronologia.md",
+    "Arbol genealogico.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
     "_IA/1 - Suri/Capitulo 1 - Suri.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe.md",
     "_Escribicion/1 1 1 1 1.md",
+    "_Escribicion/0.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 1.md",
     "Mapa_HEIM.ai",
     "Mapa_HEIL.ai",
     "Mapa_Akro.ai",
@@ -179,6 +174,12 @@
     "MAPA_Akro.ai",
     "Mapa_antiguo.ai",
     "mapa_embajada.ai",
+    "_Historia/1_capitulos.md",
+    "_IA/_Capitulos/Capitulo 1.md",
+    "_Escribicion/1 1 1 1 1 -.md",
+    "_Escribicion/1.md",
+    "_Escribicion/0 1.md",
+    "_Escribicion/1 1.md",
     "MAPA2.jpg",
     "Mapa-Suuri.jpg",
     "PLANETAS.jpg",
