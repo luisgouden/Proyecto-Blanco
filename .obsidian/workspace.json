@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
+                "file": "_IA/_Situación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "500cd8ae06b7c3c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4ab66b461a136c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Escribicion 2 1 1 1 1 1 - 2000 - 4000 (11000 - 22000)/1.md",
+                "file": "_IA/_Situación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +144,20 @@
   },
   "active": "36b8f9f8f1d2af3d",
   "lastOpenFiles": [
+    "_IA/_Situación 1.md",
+    "_Escribicion/0.md",
+    "_IA/_Situación.md",
+    "Makin Of/Nombres.md",
+    "_IA/1 - Suri/Untitled.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
+    "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
+    "_IA/_Prompts/2 - Corrigir capitulo/Edipto.md",
+    "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
+    "_IA/1 - Suri/Capitulo 1 - Suri.md",
+    "_Escribicion/1.md",
+    "_IA/1 - Suri/Capitulo 2 - Sheed.md",
+    "_IA/_Capitulos/Capitulo 0.md",
+    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
     "_IA/_Prompts/0/-.md",
     "_IA/_Prompts/0/Plantilla Capitulo Scripto 1.md",
     "_IA/_Prompts/0/Plantilla Capitulo Scripto.md",
@@ -135,30 +167,16 @@
     "_IA/_Prompts/1 - Escribe capitulo/Plantilla Capitulo Scripto.md",
     "_IA/_Prompts/1 - Escribe capitulo/Plantilla Scripto.md",
     "Makin Of/Cronologia.md",
-    "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
-    "Makin Of/Nombres.md",
     "Evolucion.md",
     "Makin Of/Arboles.canvas",
     "Makin Of/Arbol genealogico.md",
     "Makin Of/Evolucion.md",
     "Makin Of/Religiones.md",
-    "Makin Of/Personajes.md",
-    "Makin Of/Atlantis.md",
-    "Makin Of/SpinOff.md",
     "Makin Of/Mapa_planetas.jpg",
     "Makin Of/Mapa_Suuri.jpg",
     "Makin Of/Mapa_HEIM.jpg",
     "Makin Of",
-    "_IA/_Prompts/2 - Corrigir capitulo/Edipto.md",
-    "_IA/_Prompts/1 - Escribe capitulo/-.md",
-    "_IA/_Prompts/Potter/Potterbot.md",
-    "_IA/_Prompts/Potter/Potterbot_.md",
-    "_IA/_Prompts/Potter/harry potter.md",
     "_IA/_Prompts/Potter",
-    "_Escribicion/0 2.md",
-    "Sin título.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Sin título 1.md",
     "Arboles.canvas",
     "Sin título.canvas",
     "Mapa_Suuri.jpg",

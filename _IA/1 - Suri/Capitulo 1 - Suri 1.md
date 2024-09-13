@@ -1,6 +1,3 @@
-
-
-
 # Paso 1
 
 ## Sinopsis
@@ -14,6 +11,7 @@ Realismo mágico con intriga.
 ## Contexto general
 
 - La historia es una novela río que gira alrededor del inminente matrimonio entre Maara, la princesa Teeli, y Ginn, el heredero de Suuri, la isla más grande y poderosa de los Orka. Hay varios personajes envueltos en ella y en cada capítulo se prioriza un punto de vista diferente.
+
 - El conflicto principal de la historia es que Suri quiere parar el compromiso porque sabe que eso significaría el principio del fin del imperio Orka. De cara al público él es el verdadero heredero aunque sea solo fachada. Es un Orka de pleno derecho pero sin sangre noble.Suri tiene que hacer que Ginn desaparezca pero sin usar la violencia y sin que nadie implique a Suri.
 
 ![[_Situación#Situación]]
@@ -22,22 +20,28 @@ Realismo mágico con intriga.
 
 ## personajes:
 ### principal:
+
 ![[Suri#- Suri]]
 ![[Suri#- Korn]]
 ![[Suri#- Lorn]]
 ![[Suri#- Norn]]
 ### terciario:
+
 ![[Suri#- Sheed]]
 ![[Suri#- Ginn]]
 
 ## Escenario:
+
 Palacio en la ciudad de Suuri, en una dimensión imaginaria con diferentes razas, culturas, eventos y conceptos.
 
 # Paso 3
 
 ## Contexto del capitulo:
+
 -   Antes de este capítulo: Se ha confirmado que Maara la princesa del reino Teeli esta apunto de llegar para casarse con Ginn. Suri tiene que conseguir impedir la boda.
+
 -  El conflicto principal del capítulo es: El mensaje de Apa con la fecha definitiva de la boda.
+
 -   El objetivo de Suri en este capítulo es: Enseñar al lector la vida de Suri e introducir la trama cuando Suri decida con su grupo de amigos que alguien tiene que entrar en el castillo.
 
 - Punto de vista: El narrador es un narrador equisciente focalizado. Enfocado en Suri. Suri es una persona que se cuestiona mucho a sí mismo, que se siente frustrado y enfadado por la noticia de la boda. Él quiere casarse con Maara y convertirse en el próximo gobernador. Él cree que Ginn es un débil que no merece gobernar. Él cree que Apa es un siervo insolente que le falta al respeto.
