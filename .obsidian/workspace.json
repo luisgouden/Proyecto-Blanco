@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2580e83d6dd618cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "500cd8ae06b7c3c8",
@@ -142,7 +153,7 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "36b8f9f8f1d2af3d",
+  "active": "2580e83d6dd618cf",
   "lastOpenFiles": [
     "_IA/_Situación 1.md",
     "_Escribicion/0.md",

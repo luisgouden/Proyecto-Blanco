@@ -7,9 +7,9 @@
 
 - Con el tiempo el Colapso también provocó la aparición de diferentes portales repartidos por el mundo. Estos portales permiten acceder a otra dimensión, un mundo blanco infinito a la vista con una peculiaridad: si no eres plenamente consciente de tu ser, tu cuerpo se va desvaneciendo hasta desaparecer. Este mundo blanco es un misterio y una tentación para muchos.
 
-  La matanza: Es el genocidio de los Orka hacia los Lunari
+  La matanza: Es el genocidio de los Orka hacia los Lunari. Tras hacer la predicción de un cataclismo que azotaria el mundo y cumplirse, los Lunari empezaron a tener más repercusión de lo que los Orka querían hasta el punto que los masacraron y despues los esclavizaron.
   
-  El pacto:
+  El pacto: Con la intención de poner fin a la guerra, el rey Teeli decidio pactar un matrimonio entre el primogenito de los orka y la primera de los Orka, es el motor de la historia.
 
 - **Geografía y politica**
 
@@ -27,8 +27,10 @@ El planeta en el que transcurre la historia se llama Heim, es un planeta que el 
 
 - **Tecnología y Magia**:
 
-    - La materia blanca: Un material casi mágico que puede transformarse en cualquier cosa con el conocimiento adecuado y tiempo. Sin embargo, nadie sabe cómo funciona ni qué riesgos tiene.
-    - La materia educada: Es aun más caro que la materia blanca, es un tipo de materia concreta que ya está preparada para moldear, permite a quien la posea darle instrucciones sencillas para que cambie de forma rápidamente.
+    - La materia blanca: Un material casi mágico que puede transformarse en cualquier cosa con el conocimiento adecuado y tiempo. Sin embargo, nadie sabe cómo funciona ni qué riesgos tiene realmente.
+    
+    - La materia educada: Es aun más caro que la materia blanca, concreta, que ya está preparada para moldear. Esta materia permite a quien la posea darle instrucciones sencillas para que cambie de forma rápidamente y de forma mucho mas sencilla que la materia normal.
+    
     - Los sellos: Eran una ciencia aparentemente teórica y pocos usos prácticos que consistía en unos símbolos escritos en el cuerpo que protegen o limitan la consciencia para ciertas actividades. Tras el Colapso se perdieron casi todos los registros y solo quedan algunos sellos incompletos o defectuosos.
-    -   El henso: Un material con cualidades casi del cristal. Es el material más preciado de los Henso. El henso se extrae de unas serpientes criadas por los Henso. Tiene muchos usos y cualidades, pero fuera de Henso solo se usa como joyas porque es muy caro.
-
+    
+    -   El henso: Un material con cualidades casi del cristal. Es el material más preciado de los Henso. El henso se extrae de unas serpientes criadas por los Henso. Tiene muchos usos y cualidades, pero fuera de su pais de origen solo se usa como joyas porque es muy caro.
