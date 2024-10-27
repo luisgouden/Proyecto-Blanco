@@ -8,29 +8,47 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36b8f9f8f1d2af3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_IA/_Situación.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2580e83d6dd618cf",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.6.7"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.6.7"
+            }
+          },
+          {
+            "id": "3dd23cbb47719790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Escribicion/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "81a721adae56fd95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capitulo 1 - Suri 1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "500cd8ae06b7c3c8",
@@ -45,7 +63,9 @@
                 "file": "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Capitulo 1 - Suri 1"
             }
           }
         ]
@@ -68,7 +88,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -83,7 +105,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -91,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -114,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_IA/_Situación.md",
+                "file": "_Escribicion/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +148,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 1"
             }
           },
           {
@@ -134,7 +162,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           }
         ]
@@ -153,19 +183,24 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "2580e83d6dd618cf",
+  "active": "81a721adae56fd95",
   "lastOpenFiles": [
+    "_IA/1 - Suri/Capitulo 1 - Suri.md",
+    "_IA/_Personajes/Suri.md",
+    "_IA/Secta.md",
+    "_IA/_Situación.md",
+    "_IA/_Situación1.md",
+    "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
+    "_Escribicion/1.md",
+    "Sin título 1.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
+    "Sin título.md",
     "_IA/_Situación 1.md",
     "_Escribicion/0.md",
-    "_IA/_Situación.md",
     "Makin Of/Nombres.md",
     "_IA/1 - Suri/Untitled.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
-    "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
     "_IA/_Prompts/2 - Corrigir capitulo/Edipto.md",
     "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
-    "_IA/1 - Suri/Capitulo 1 - Suri.md",
-    "_Escribicion/1.md",
     "_IA/1 - Suri/Capitulo 2 - Sheed.md",
     "_IA/_Capitulos/Capitulo 0.md",
     "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
@@ -177,12 +212,7 @@
     "_IA/_Prompts/1 - Escribe capitulo/Plantilla Capitulo Scripto 1.md",
     "_IA/_Prompts/1 - Escribe capitulo/Plantilla Capitulo Scripto.md",
     "_IA/_Prompts/1 - Escribe capitulo/Plantilla Scripto.md",
-    "Makin Of/Cronologia.md",
-    "Evolucion.md",
     "Makin Of/Arboles.canvas",
-    "Makin Of/Arbol genealogico.md",
-    "Makin Of/Evolucion.md",
-    "Makin Of/Religiones.md",
     "Makin Of/Mapa_planetas.jpg",
     "Makin Of/Mapa_Suuri.jpg",
     "Makin Of/Mapa_HEIM.jpg",
