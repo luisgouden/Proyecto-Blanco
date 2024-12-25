@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/_Situación.md",
+                "file": "_Escribicion/0.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "0"
             }
           }
         ]
@@ -35,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -50,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -58,7 +64,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
@@ -70,7 +78,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -86,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_IA/_Situación.md",
+            "file": "Makin Of/SpinOff.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -94,7 +104,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       }
     ],
@@ -111,8 +123,10 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
-    "_IA/_Situación 1.md",
+    "_Escribicion/1.md",
+    "Makin Of/SpinOff.md",
     "_IA/_Situación.md",
+    "_IA/_Situación 1.md",
     "Makin Of/Mapa_planetas.jpg",
     "Makin Of/Mapa_HEIM.jpg",
     "_Escribicion/0 1.md",
@@ -146,7 +160,6 @@
     "_IA/_Capitulos/-.md",
     "_IA/5- Secta/Capitulo 21.md",
     "_IA/7 - Riin/Capitulo 17.md",
-    "_IA/3 - Maara/Capitulo 11.md",
     "Mapa_embajada.ai",
     "Mapa_Akro.ai",
     "Mapa_Henso.ai",

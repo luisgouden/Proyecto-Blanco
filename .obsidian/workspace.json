@@ -4,53 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "7cebd58488ed28e0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2580e83d6dd618cf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.6.7"
-            }
-          },
-          {
-            "id": "3dd23cbb47719790",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Escribicion/1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1"
-            }
-          },
-          {
-            "id": "81a721adae56fd95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Capitulo 1 - Suri 1"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "500cd8ae06b7c3c8",
         "type": "tabs",
         "children": [
@@ -60,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
+                "file": "Makin Of/WorldBot/2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capitulo 1 - Suri 1"
+              "title": "2"
             }
           }
         ]
@@ -140,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Escribicion/1.md",
+                "file": "_IA/_Prompts/1 - Escribe capitulo/Sin título 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 1"
+              "title": "Enlaces entrantes de Sin título 3"
             }
           },
           {
@@ -183,39 +136,40 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "81a721adae56fd95",
+  "active": "df4ab66b461a136c",
   "lastOpenFiles": [
-    "_IA/1 - Suri/Capitulo 1 - Suri.md",
-    "_IA/_Personajes/Suri.md",
-    "_IA/Secta.md",
+    "Makin Of/WorldBot/1.md",
+    "Makin Of/WorldBot/2.md",
     "_IA/_Situación.md",
-    "_IA/_Situación1.md",
-    "_IA/1 - Suri/Capitulo 1 - Suri 1.md",
-    "_Escribicion/1.md",
+    "Makin Of/Arbol genealogico.md",
+    "Makin Of/WorldBot",
+    "Makin Of/Nombres.md",
+    "Makin Of/Arboles.canvas",
+    "_IA/_Personajes/Ginn.md",
+    "Makin Of/Personajes.md",
+    "Makin Of/Religiones.md",
+    "Makin Of/Atlantis.md",
+    "README.md",
+    "Sin título.md",
     "Sin título 1.md",
     "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
-    "Sin título.md",
-    "_IA/_Situación 1.md",
-    "_Escribicion/0.md",
-    "Makin Of/Nombres.md",
-    "_IA/1 - Suri/Untitled.md",
-    "_IA/_Prompts/2 - Corrigir capitulo/Edipto.md",
-    "_IA/_Prompts/2 - Corrigir capitulo/2 - Corrige capitulo.md",
-    "_IA/1 - Suri/Capitulo 2 - Sheed.md",
-    "_IA/_Capitulos/Capitulo 0.md",
-    "_IA/_Prompts/1 - Escribe capitulo/1 - Escribe 2.md",
-    "_IA/_Prompts/0/-.md",
-    "_IA/_Prompts/0/Plantilla Capitulo Scripto 1.md",
-    "_IA/_Prompts/0/Plantilla Capitulo Scripto.md",
-    "_IA/_Prompts/0/Plantilla Scripto.md",
-    "_IA/_Prompts/0",
-    "_IA/_Prompts/1 - Escribe capitulo/Plantilla Capitulo Scripto 1.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Plantilla Capitulo Scripto.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Plantilla Scripto.md",
-    "Makin Of/Arboles.canvas",
-    "Makin Of/Mapa_planetas.jpg",
-    "Makin Of/Mapa_Suuri.jpg",
+    "_IA/_Prompts/1 - Escribe capitulo/Scripto 2.md",
     "Makin Of/Mapa_HEIM.jpg",
+    "Makin Of/Mapa_Suuri.jpg",
+    "Makin Of/Mapa_planetas.jpg",
+    "Makin Of/Evolucion.md",
+    "Makin Of/Cronologia.md",
+    "_Historia/4_ampliando.md",
+    "_Historia/3_extendido.md",
+    "_Historia/2_teatro.md",
+    "_Historia/1_capitulos.md",
+    "_Escribicion/1.md",
+    "_IA/1 - Suri/Capitulo 1 - Suri.md",
+    "Sin título 3.md",
+    "Sin título 2.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Sin título.md",
+    "_Escribicion/0.md",
+    "_IA/_Prompts/0",
     "Makin Of",
     "_IA/_Prompts/Potter",
     "Arboles.canvas",
@@ -229,7 +183,6 @@
     "Mapa_embajada.ai",
     "Mapa_Henso.ai",
     "Mapa_Planetas.ai",
-    "Mapa Suuri__.ai",
     "MAPA2.jpg",
     "Mapa-Suuri.jpg",
     "PLANETAS.jpg",

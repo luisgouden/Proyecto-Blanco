@@ -20,7 +20,7 @@ Suri admira, respeta y necesita a Korn, su mejor aliado y amigo. Lo ve como un h
 	Eneagrama: 3w4.
 	Raza: Orka.
 Astuto y ambicioso, que domina la política y la historia. Es un pensador y un estratega, que manipula la verdad y a los demás para conseguir sus fines. No tiene moral ni escrúpulos, solo un plan para todo.
-Suri admira, respeta y necesita a Lorn, un aliado útil y discreto. Lo ve como un hombre genial pero no confía totalmente en él.
+Suri piensa que es un aliado útil y discreto pero no confía totalmente en él.
 
 #### - Norn:
 	MBTI: ESFJ.
@@ -65,4 +65,15 @@ Suri siente desprecio y envidia por  Ginn y todo lo que representa. Suri se cre�
 	MBTI:ESTJ.
 	Eneagrama: 8w7.
 	 Raza: Órka. 
-  Leal y se guía por un estricto código de honor y justicia. Es el siervo personal del gobernador de Suuri y una representación de él. Cualquier cosa dicha por Apa es como si la dijese el mismísimo gobernador. Es tranquilo y difícil de encolerizar pero firme.
+  Es el siervo personal del gobernador de Suuri. Trata de forma cortante y firme a Suri sin llegar a faltarle al respeto pero si Suri le falta primero al respeto es mucho más brusco e intransigente. Suri no lo soporta.
+#### - Zan_: 
+	MBTI:ENTJ.
+	Eneagrama: 3w4.
+	Raza: Órka. 
+  Es un chico ambicioso, astuto y competitivo. Le gusta el poder y el prestigio. Es amigo de Suri desde que entraron juntos en la academia militar. Está celoso de él y le traiciona por detrás. Le critica y le sabotea cuando puede.
+
+#### - Apa_: 
+	MBTI:ESTJ.
+	Eneagrama: 8w7.
+	 Raza: Órka. 
+  Es el siervo personal del gobernador de Suuri y una representación de él. Cualquier cosa dicha por Apa es como si la dijese el mismísimo gobernador. Trata de formaLeal y se guía por un estricto código de honor y justicia.  Es tranquilo y difícil de encolerizar pero firme.
