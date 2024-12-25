@@ -11,14 +11,10 @@
             "id": "df4ab66b461a136c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Makin Of/WorldBot/2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -136,24 +132,25 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "df4ab66b461a136c",
+  "active": "a92fa0c62ee71d32",
   "lastOpenFiles": [
-    "Makin Of/WorldBot/1.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
+    "_IA/_Prompts/2 - Corrigir capitulo/Edipto.md",
+    "_IA/_Prompts/1 - Escribe capitulo/Scripto 2.md",
     "Makin Of/WorldBot/2.md",
-    "_IA/_Situación.md",
+    "Makin Of/WorldBot/1.md",
+    "_Contexto/_Situación.md",
     "Makin Of/Arbol genealogico.md",
     "Makin Of/WorldBot",
     "Makin Of/Nombres.md",
     "Makin Of/Arboles.canvas",
-    "_IA/_Personajes/Ginn.md",
+    "_Contexto/_Personajes/Ginn.md",
     "Makin Of/Personajes.md",
     "Makin Of/Religiones.md",
     "Makin Of/Atlantis.md",
     "README.md",
     "Sin título.md",
     "Sin título 1.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Scripto.md",
-    "_IA/_Prompts/1 - Escribe capitulo/Scripto 2.md",
     "Makin Of/Mapa_HEIM.jpg",
     "Makin Of/Mapa_Suuri.jpg",
     "Makin Of/Mapa_planetas.jpg",
@@ -164,11 +161,10 @@
     "_Historia/2_teatro.md",
     "_Historia/1_capitulos.md",
     "_Escribicion/1.md",
-    "_IA/1 - Suri/Capitulo 1 - Suri.md",
+    "_Contexto/1 - Suri/Capitulo 1 - Suri.md",
     "Sin título 3.md",
     "Sin título 2.md",
     "_IA/_Prompts/1 - Escribe capitulo/Sin título.md",
-    "_Escribicion/0.md",
     "_IA/_Prompts/0",
     "Makin Of",
     "_IA/_Prompts/Potter",
