@@ -22,9 +22,9 @@ En el mercado central de Suuri, en una dimensión imaginaria con diferentes raza
 
 ## Personajes:
 ### Principal:
-![[Zeliie#- Zeliie]]
+![[_Contexto/_Personajes/Zeliie#- Zeliie]]
 ### Secundario:
-![[Zeliie#- Shire]]
+![[_Contexto/_Personajes/Zeliie#- Shire]]
 
 ## Contexto
 -   Antes de este capítulo: Zeliie a alquilado el local en el mercado. El dueño se ha extrañado que quisiera montar una tienda de libros pero al final ha aceptado el contrato porque Zeliie le ha pagado bien. 

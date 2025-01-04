@@ -13,16 +13,16 @@ Suri está en su mansión con sus amigos cuando Apa le interrumpe y le dice que 
 
 ## Personajes
 ### Principal
-![[Suri#- Suri]]
+![[_Contexto/_Personajes/Suri#- Suri]]
 
 ### Secundarios
-![[Suri#- Norn]]
-![[Suri#- Rik]]
-![[Suri#- Lila]]
-![[Suri#- Zan]]
+![[_Contexto/_Personajes/Suri#- Norn]]
+![[_Contexto/_Personajes/Suri#- Rik]]
+![[_Contexto/_Personajes/Suri#- Lila]]
+![[_Contexto/_Personajes/Suri#- Zan]]
 
 ### Terciario
-![[Suri#- Apa]]
+![[_Contexto/_Personajes/Suri#- Apa]]
 
 ## Contexto
 - Antes de este capítulo: Suri ya está moviendo los hilos para conseguir su objetivo de casarse con Maara pero aún necesita tiempo. Los planes están yendo más lentos de lo que pensaba.

@@ -19,9 +19,9 @@ En el palacio de Suuri, en una dimensión imaginaria con diferentes razas, cultu
 
 ## Personajes:
 ### principal:
-![[Ginn#- Ginn]]
+![[_Contexto/_Personajes/Ginn#- Ginn]]
 ### secundarios:
-![[Ginn#- Siervo]]
+![[_Contexto/_Personajes/Ginn#- Siervo]]
 ## Contexto:
 
 -   Antes de este capítulo: Se ha confirmado que Maara la princesa del reino Teeli esta apunto de llegar para casarse con Ginn. Ginn tiene que huir.

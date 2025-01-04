@@ -10,12 +10,12 @@ En el mercado de Suuri, en una dimensión imaginaria con diferentes razas, cultu
 
 ## personajes:
 ### principal:
-![[Suri#- Suri]]
+![[_Contexto/_Personajes/Suri#- Suri]]
 
 ### secundarios:
-![[Suri#- Norn]]
+![[_Contexto/_Personajes/Suri#- Norn]]
 
-![[Suri#- Sheed]]
+![[_Contexto/_Personajes/Suri#- Sheed]]
 
 ### terciario:
 

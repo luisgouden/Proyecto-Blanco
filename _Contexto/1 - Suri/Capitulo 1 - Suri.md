@@ -21,15 +21,15 @@ Realismo mágico con intriga.
 ## personajes:
 ### principal:
 
-![[Suri#- Suri]]
-![[Suri#- Korn]]
-![[Suri#- Lorn]]
-![[Suri#- Norn]]
+![[_Contexto/_Personajes/Suri#- Suri]]
+![[_Contexto/_Personajes/Suri#- Korn]]
+![[_Contexto/_Personajes/Suri#- Lorn]]
+![[_Contexto/_Personajes/Suri#- Norn]]
 ### terciario:
 
-![[Suri#- Sheed]]
-![[Suri#- Ginn]]
-![[Suri#- Apa]]
+![[_Contexto/_Personajes/Suri#- Sheed]]
+![[_Contexto/_Personajes/Suri#- Ginn]]
+![[_Contexto/_Personajes/Suri#- Apa]]
 ## Escenario:
 
 Palacio en la ciudad de Suuri, en una dimensión imaginaria con diferentes razas, culturas, eventos y conceptos.

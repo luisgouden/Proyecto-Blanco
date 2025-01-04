@@ -1,3 +1,7 @@
+*El grupo antagonista son Orka intoxicados por el poder del mundo blanco.  Tienen su propio portal pero anelan los portales Teeli que están mucho mejor estructurados. Aunque rechazan el conocimiento, saben que es util y trasconfiscar objetos y libros Teeli han conseguido cierta influencia en el mundo blanco. Intentan tener enlaces con los seres como Shire pero aun no son capaces porque lo hacen por la fuerza. Su intención es que Suri llegue al poder, porque sabe que es mas ambicioso y manejable que Ginn y asi tener aun más influencia con los Teeli.*
+
+Estan basados en "La rosa negra" del league of legends.
+
 La Rosa del Caos es una organización secreta formada por mujeres que operan dentro del Imperio de Valyria, un reino poderoso y ambicioso que busca expandir sus dominios por el mundo. La Rosa del Caos está compuesta por nobles, magas, espías y asesinas que tienen como objetivo encontrar a Los Creadores.
 
 La Rosa del Caos venera a **Los Creadores**, unos seres dimensionales que han creado el planeta en el que viven y que han dejado algunos signos en ciertas partes del planeta. Estos signos son **reliquias** que contienen información sobre la creación, la magia y los propios Creadores. La más importante de estas reliquias es **El Libro de la Creación**, un libro escrito en un idioma que la Rosa del Caos no entiende, pero que está intentando descifrar con la ayuda de la magia y la ciencia.

@@ -11,9 +11,9 @@ La ciudad de Suuri y en el mercado central de Suuri, en una dimensión imaginari
 
 ## Personajes:
 ### principal:
-![[Sheed#- Sheed]]
+![[_Contexto/_Personajes/Sheed#- Sheed]]
 ### terciario:
-![[Sheed#- Suri]]
+![[_Contexto/_Personajes/Sheed#- Suri]]
 
 ## Contexto:
 -   Antes de este capítulo: Se ha confirmado que Maara la princesa del reino Teeli esta apunto de llegar para casarse con Ginn. Suri tiene que conseguir impedir la boda.

@@ -10,7 +10,7 @@ La ciudad de Suuri y en el mercado central de Suuri, en una dimensión imaginari
 
 ## Personajes:
 ### principal:
-![[Sheed#- Sheed]]
+![[_Contexto/_Personajes/Sheed#- Sheed]]
 ### terciario:
 
 ## Contexto:

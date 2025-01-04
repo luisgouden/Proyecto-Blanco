@@ -10,7 +10,7 @@ La ciudad de Suuri y sus suburbios, en una dimensión imaginaria con diferentes 
 
 ## Personajes:
 ### principal:
-![[Ginn#- Shed]]
+![[_Contexto/_Personajes/Ginn#- Shed]]
 
 ## Contexto:
 -   Antes de este capítulo: Suri le ha dado la orden a Shed de que tiene que encontrar a un mercenario o ladrón para que entre en el palacio sin que lo implique directamente. Asi que tiene que ser discreta.
