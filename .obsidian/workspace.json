@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Contexto/_Personajes/Fichas/Suri.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Suri"
+              "title": "README"
             }
           }
         ]
@@ -138,8 +138,8 @@
   },
   "active": "df4ab66b461a136c",
   "lastOpenFiles": [
-    "_Contexto/_Personajes/Fichas/Ginn.md",
     "_Contexto/_Personajes/Fichas/Suri.md",
+    "_Contexto/_Personajes/Fichas/Ginn.md",
     "_Contexto/_Personajes/Fichas/Sheed.md",
     "_Contexto/_Personajes/Suri.md",
     "_Contexto/_Personajes/Sin título.md",
