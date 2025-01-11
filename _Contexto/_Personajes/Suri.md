@@ -3,77 +3,61 @@
 	MBTI: ESFP.
 	Eneagrama: 3w4.
 	 Raza: Orka.
-Es un chico envidioso, caprichoso y soberbio.
-Si alguien le contradice o se siente atacado tiende a irritarse y explotar. Solo se siente intimidado por su padre, es con el único que se siente inferior. Por mucho que aspire al reinado siente demasiado miedo por él como para dar un golpe de estado.
-Suri  es muy muy introspectivo y tiene largas conversaciones internas. Suri se cree inteligente y astuto. Suri se ve a si mismo como un líder y el verdadero heredero para los Orka, una raza capaz y exitosa  Suri cree que lo sabe todo. Es un hombre de acción.Se enorgullece de no tener remordimientos o de escrúpulos, por su determinación y su visión.
-Inspiración: Suri está basado en Theon Greyjoy y Joffrey Baratheon.
 
+Suri es un joven Orka, envidioso, caprichoso y soberbio. Adoptado por el gobernador para ser el futuro heredero de Suuri, Suri se siente superior a los demás y busca constantemente la aprobación de su padre adoptivo, a quien teme profundamente. De piel morena y cabello negro, su complexión robusta y musculosa refleja los estándares Orka. Es extrovertido, enérgico y ambicioso, con una tendencia a la introspección y el autoengaño. Suri se enorgullece de su determinación y visión, y no tiene remordimientos ni escrúpulos en su búsqueda de poder. Siente desprecio y envidia enmascarada hacia Ginn, ya que es la verdadera hija e intenta menos preciarla, siempre que tiene ocasión para minar su moral.
 #### - Korn: 
 	MBTI: ESTJ.
 	Eneagrama: 8w7.
 	Raza: Orka.
-Leal y valiente, se guía por un estricto código de honor y justicia. Es un líder respetado y temido, que no duda en actuar y que no admite la contradicción ni la traición.
-Suri admira, respeta y necesita a Korn, su mejor aliado y amigo. Lo ve como un hombre honorable, valiente, leal y obediente, que comparte sus planes de conquista y rebelión.
+Korn es el mejor amigo y aliado más leal de Suri. Desde que eran niños, siempre ha estado a su lado, apoyándolo en todo. Korn es un Órka de piel morena y cabello negro, con una complexión robusta y musculosa que refleja su dedicación al entrenamiento físico. Sus ojos oscuros y su mirada firme y decidida imponen respeto, y su estatura lo hace destacar entre los demás. Korn es un líder nato, siempre dispuesto a tomar decisiones rápidas y acertadas, y su lealtad hacia Suri es inquebrantable. Aunque a veces puede ser impulsivo, su capacidad para inspirar y motivar a los demás es invaluable. No hay nadie más adecuado para estar al lado de Suri en sus planes de conquista.
 
 #### - Lorn: 
 	MBTI: INTJ.
 	Eneagrama: 3w4.
 	Raza: Orka.
-Astuto y ambicioso, que domina la política y la historia. Es un pensador y un estratega, que manipula la verdad y a los demás para conseguir sus fines. No tiene moral ni escrúpulos, solo un plan para todo.
-Suri piensa que es un aliado útil y discreto pero no confía totalmente en él.
+Lorn es un Órka de piel morena y cabello negro, con una complexión esbelta pero fuerte que refleja su enfoque en la estrategia y la política más que en el combate físico. Sus ojos oscuros y su mirada calculadora son características que lo definen. Lorn tiene una presencia imponente, pero su falta de moral y escrúpulos lo hacen peligroso. Es útil para manipular y controlar el entorno, pero siempre hay que tener un ojo sobre él. Su conocimiento en política y su habilidad para planificar son valiosos, pero su lealtad es cuestionable.
+
 
 #### - Norn:
 	MBTI: ESFJ.
 	Eneagrama: 7w6.
 	Raza: Orka.
-Era una dama de la corte seductora y alegre, que amaba las fiestas, los bailes y los romances. Era encantadora y admirada por todos. Era una mujer pasional y vivaz, que decía lo que siente y buscaba el placer. Era buena para relacionarse y conseguir simpatía. No le importaba el compromiso ni las consecuencias. Tenía un sueño para todo y se dejaba llevar por sus emociones.Es un secreto a voces que es la amante de Suri.
-Suri ve a Norn bella y seductora. Confía en Norn porque tienen intereses comunes. Le respeta por su elegancia y su simpatía. Le necesita para sus planes de seducción y de diversión.
+Norn es una Órka de piel morena y cabello negro, con una complexión esbelta y curvilínea que refleja su naturaleza seductora y vivaz. Sus ojos oscuros y su mirada seductora y alegre son irresistibles. Norn tiene una presencia encantadora que es difícil de ignorar. Su habilidad para seducir y manipular a los demás es una ventaja, y su entusiasmo por la vida y la búsqueda constante de placer la hacen una compañía agradable. Aunque carece de compromiso y responsabilidad, su lealtad hacia Suri es indudable, y su capacidad para ganar simpatía y favores es útil en sus intrigas.
 
 #### - Sheed:
 	MBTI: ESFJ.
 	Eneagrama: 2w3.
 	Raza: Akro. 
-Es la sirviente de Suri y hace todo lo que le pide.
-Suri tiene un rechazo por Sheed, pero ella se esfuerza por complacerle. Además Sheed se parece mucho a Ginn, así que cada vez que la ve, se acuerda de ella y le da escalofríos.
+Sheed es una joven Akro de piel muy clara, casi pálida, con pecas ligeras en la nariz y las mejillas. Su cabello castaño oscuro, aclarado rudimentariamente, cae hasta los hombros y a menudo lo lleva recogido en un moño o trenza. A Suri le irrita profundamente que se parezca tanto a Ginn. A pesar de sus esfuerzos por diferenciarse, Suri a menudo las confunde, lo que solo aumenta su frustración. Está en deuda con el gobernador, lo que la mantiene en una constante situación de obediencia y temor a las represalias, algo que Suri aprovecha sin ningún remordimiento.
 
-#### - Ginn:
+#### - Gnn:
 	MBTI: INTP.
 	Eneagrama: 5w4.
 	Raza: Mestiza (Orka-Teeli).
-Es tímido y retraído, tiene mucho de su madre la reina que es de descendencia Teeli. Es el único heredero. Su padre lo desprecia porque es una deshonra para los Orka.
-Suri siente desprecio y envidia por  Ginn y todo lo que representa. Suri se creía superior en todo: en fuerza, en inteligencia, en carisma, en ambición. Él era el verdadero líder, el que debía ocupar el trono y llevar a los Orka a la gloria. Suri intenta hacerle la vida imposible a Ginn siempre que le era posible y especialmente en humillarlo.
+Ginn es una mestiza de tez clara, con tonos que varían desde el marfil hasta el beige, y adornada con algunas pecas dispersas sobre la nariz y las mejillas. Su cabello negro y liso cae hasta la mitad de su espalda, a menudo suelto, aunque a veces lo recoge en una trenza sencilla. Su complexión es esbelta pero no musculosa. Es tímida y retraída y a pesar de su inteligencia y su capacidad para resolver problemas complejos, Suri considera que Ginn no merece atención ni respeto, viéndola como una figura débil y sin valor en sus planes. Suri se creía superior en todo: en fuerza, en inteligencia, en carisma, en ambición.
 
 #### - Rik: 
 	MBTI: ENFP.
 	Eneagrama: 9w8. 
 	Raza: Hénso. 
-  Es un chico alegre, optimista y aventurero. Le gusta viajar y conocer nuevas culturas y personas. Es amigo de Suri desde que eran niños y le considera su hermano. Le apoya en sus planes y le ayuda a conseguir sus objetivos. Le hace reír con sus bromas y le da consejos sinceros.
+Rik es un Hénso de piel de tonos medios, desde el beige hasta el marrón claro, con una ligera tendencia a broncearse. Su cabello oscuro, predominantemente negro, tiene una textura ligeramente ondulada, y sus ojos rasgados y de color marrón oscuro siempre reflejan su curiosidad y alegría. Con una complexión compacta y ágil, Rik es perfecto para las aventuras que tanto disfruta. Su alegría y optimismo son contagiosos, y siempre sabe cómo hacer reír a Suri. Desde que eran niños, han compartido muchas experiencias, y Rik se ha convertido en un amigo leal y sincero, alguien en quien Suri puede confiar para apoyarlo en sus planes y objetivos.
   
 #### - Lila: 
 	MBTI:ISFJ.
 	Eneagrama:2w1.
 	Raza: Órka. 
-  Es una chica dulce, tímida y servicial. Le gusta leer y aprender cosas nuevas. Es amiga de Suri desde que él la salvó de unos matones en el mercado. Está enamorada de él en secreto y le admira por su carisma y su inteligencia. Le hace cumplidos y le consuela cuando está triste.
+Lila es una Órka de piel morena y cabello negro y liso, generalmente largo y trenzado de manera sencilla. Sus ojos oscuros y tímidos siempre muestran su dulzura y su admiración por Suri. Con una complexión esbelta pero fuerte, Lila refleja su naturaleza trabajadora. Suri la conoció cuando la salvó de unos matones en el mercado, y desde entonces, han sido amigos. Aunque no lo dice abiertamente, Suri sabe que Lila lo admira y está enamorada de él. Su disposición a ayudar a los demás y su amor por el conocimiento son cualidades que Suri respeta profundamente, y su presencia reconfortante siempre es bienvenida en su vida.
+
   
 #### - Zan: 
 	MBTI:ENTJ.
 	Eneagrama: 3w4.
 	Raza: Órka. 
-  Es un chico ambicioso, astuto y competitivo. Le gusta el poder y el prestigio. Es amigo de Suri desde que entraron juntos en la academia militar. Está celoso de él y le traiciona por detrás. Le critica y le sabotea cuando puede.
+Zan es un Órka de piel morena, con tonos que van desde el bronceado hasta el marrón oscuro. Su cabello negro y liso, generalmente corto y bien peinado, complementa sus ojos oscuros y calculadores, que siempre parecen estar buscando una oportunidad. Con una complexión robusta y musculosa, Zan refleja su entrenamiento militar y su ambición. Aunque es un amigo de la academia militar, su relación con Suri es complicada debido a su naturaleza ambiciosa y competitiva. Suri sabe que Zan lo critica y sabotea a sus espaldas, pero también reconoce su habilidad para la estrategia y su capacidad para liderar, lo que lo convierte en un aliado peligroso.
+
 
 #### - Apa: 
 	MBTI:ESTJ.
 	Eneagrama: 8w7.
 	 Raza: Órka. 
   Es el siervo personal del gobernador de Suuri. Trata de forma cortante y firme a Suri sin llegar a faltarle al respeto pero si Suri le falta primero al respeto es mucho más brusco e intransigente. Suri no lo soporta.
-#### - Zan_: 
-	MBTI:ENTJ.
-	Eneagrama: 3w4.
-	Raza: Órka. 
-  Es un chico ambicioso, astuto y competitivo. Le gusta el poder y el prestigio. Es amigo de Suri desde que entraron juntos en la academia militar. Está celoso de él y le traiciona por detrás. Le critica y le sabotea cuando puede.
-
-#### - Apa_: 
-	MBTI:ESTJ.
-	Eneagrama: 8w7.
-	 Raza: Órka. 
-  Es el siervo personal del gobernador de Suuri y una representación de él. Cualquier cosa dicha por Apa es como si la dijese el mismísimo gobernador. Trata de formaLeal y se guía por un estricto código de honor y justicia.  Es tranquilo y difícil de encolerizar pero firme.

@@ -6,11 +6,12 @@
 **Familia y Personas Cercanas**:
 
 - **Padre Adoptivo**: Gobernador, a quien Suri teme y respeta profundamente.
+- **Madre Adoptiva**: Es la mujer del gobernador, una mera figura politica sin importancia para el, como todas las mujeres Orka.
 - **Hermana Adoptiva**: Ginn, con quien tiene una relación tensa y competitiva.
 
-**Orientación Sexual**: A definir según la historia.
+**Orientación Sexual**: Heterosexual.
 
-**Interés/es Románticos**: A definir según la historia.
+**Interés/es Románticos**: Tiene un romance en secreto con Norn.
 
 **Personalidad**:
 
@@ -18,7 +19,7 @@
 - **Eneagrama**: 3w4 (Ambicioso, competitivo, con una tendencia a la introspección y la autoevaluación).
 
 **Historia Personal**:  
-Suri fue adoptado por el gobernador para ser el futuro heredero de Suuri. Desde joven, ha sido envidioso, caprichoso y soberbio, siempre buscando la aprobación de su padre adoptivo y sintiéndose superior a los demás. Su relación con Ginn es tensa, marcada por la competencia y el desprecio mutuo. A pesar de su deseo de gobernar, Suri teme demasiado a su padre como para intentar un golpe de estado.
+Suri fue adoptado por el gobernador para ser el futuro heredero de Suuri. Desde joven, ha sido envidioso, caprichoso y soberbio, siempre buscando la aprobación de su padre adoptivo y sintiéndose superior a los demás. Su relación con Ginn es tensa y puro odio. Ginn siente la necesidad de competir innecesariamente con ella y en su cabeza el siempre sale vencedor. A pesar de su deseo de gobernar, hasta el punto de planear un golpe de estado, Suri teme demasiado a su padre.
 
 **Motivaciones y Objetivos**:  
 Suri aspira a ser el líder de los Orka y el verdadero heredero de Suuri. Su principal motivación es demostrar su valía y superar a su padre adoptivo, aunque su miedo a él lo frena. Se enorgullece de su determinación y visión, y no tiene remordimientos ni escrúpulos en su búsqueda de poder.
@@ -34,10 +35,11 @@ Suri aspira a ser el líder de los Orka y el verdadero heredero de Suuri. Su pri
 - Miedo a su padre adoptivo, el gobernador.
 - Tendencia a irritarse y explotar cuando se siente contradicho o atacado.
 - Envidia y soberbia, que a menudo nublan su juicio.
+- Se cree mejor de lo que en realidad es.
 
 **Relaciones**:
 
-- Relación tensa y competitiva con su hermana adoptiva, Ginn.
+- Relación de odio acérrimo y competitiva con su hermana adoptiva, Ginn.
 - Temor y respeto hacia su padre adoptivo, el gobernador.
 
 **Detalles del Worldbuilding**:
@@ -47,6 +49,4 @@ Suri aspira a ser el líder de los Orka y el verdadero heredero de Suuri. Su pri
 
 ### Descripción Compacta del Personaje
 
-Suri es un joven Orka de 22 años, envidioso, caprichoso y soberbio. Adoptado por el gobernador para ser el futuro heredero de Suuri, Suri se siente superior a los demás y busca constantemente la aprobación de su padre adoptivo, a quien teme profundamente. De piel morena y cabello negro, su complexión robusta y musculosa refleja su valor por la fuerza física. Como ESFP y Eneagrama 3w4, es extrovertido, enérgico y ambicioso, con una tendencia a la introspección y la autoevaluación. A pesar de su deseo de gobernar, su miedo a su padre lo frena. Suri se enorgullece de su determinación y visión, y no tiene remordimientos ni escrúpulos en su búsqueda de poder. Su relación con su hermana adoptiva, Ginn, es tensa y competitiva, marcada por el desprecio mutuo.
-
-Espero que esta ficha completa te sea útil. ¿Hay algo más que te gustaría añadir o modificar?
+Suri es un joven Orka, envidioso, caprichoso y soberbio. Adoptado por el gobernador para ser el futuro heredero de Suuri, Suri se siente superior a los demás y busca constantemente la aprobación de su padre adoptivo, a quien teme profundamente. De piel morena y cabello negro, su complexión robusta y musculosa refleja los estándares Orka. Es extrovertido, enérgico y ambicioso, con una tendencia a la introspección y el autoengaño. Suri se enorgullece de su determinación y visión, y no tiene remordimientos ni escrúpulos en su búsqueda de poder. Siente desprecio y envidia enmascarada hacia Ginn, ya que es la verdadera hija e intenta menos preciarla, siempre que tiene ocasión para minar su moral.
