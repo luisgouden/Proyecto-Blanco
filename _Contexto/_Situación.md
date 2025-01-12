@@ -1,10 +1,10 @@
 ## Situación
 
-Heim es un mundo principalmente naval compuesto por tres grandes islas-continente y una isla-centro. La tecnología y el pensamiento en Heim están profundamente influenciados por la navegación y el comercio marítimo. Los habitantes han desarrollado avanzadas técnicas de navegación, utilizando grandes barcos de vela y sofisticados instrumentos de navegación. Las ciudades y edificios reflejan una arquitectura imponente, con columnas, arcos y fachadas simétricas, construidos con piedra, ladrillo y madera. Los talleres de artesanos producen armas, herramientas y objetos decorativos con técnicas bien desarrolladas, mientras que la imprenta permite la difusión de libros y documentos. La medicina incluye conocimientos de anatomía, herbolaria y cirugía básica, y las academias se dedican a la investigación científica.
+Heim es un mundo principalmente naval compuesto por tres grandes islas-continente y una isla-comercial. La tecnología y el pensamiento en Heim están profundamente influenciados por la navegación y el comercio marítimo. Los habitantes han desarrollado avanzadas técnicas de navegación, utilizando grandes barcos de vela y sofisticados instrumentos de navegación. Las ciudades y edificios reflejan una arquitectura imponente, con columnas, arcos y fachadas simétricas, construidos con piedra, ladrillo y madera. Los talleres de artesanos producen armas, herramientas y objetos decorativos con técnicas bien desarrolladas, mientras que la imprenta permite la difusión de libros y documentos. La medicina incluye conocimientos de anatomía, herbolaria y cirugía básica, y las academias se dedican a la investigación científica.
 
 #### Cultura y Pensamiento
 
-El pensamiento en Heim valora la razón y la observación como medios para entender el mundo. Hay un fuerte impulso hacia la exploración y el descubrimiento, con navegantes y exploradores buscando nuevas rutas y tierras, y científicos y filósofos desentrañando los misterios del mundo y los portales. El arte refleja ideales de belleza, simetría y proporción, y las festividades y eventos culturales son comunes. Las estructuras políticas varían entre las razas, pero en general, hay un enfoque en la organización y el orden, con monarquías y consejos tomando decisiones importantes. La sociedad valora la educación y el conocimiento, respetando a los eruditos y comerciantes.
+El pensamiento en Heim, especialmente el de los habitantes de Teeli, valora la razón y la observación como medios para entender el mundo. Hay un fuerte impulso hacia la exploración y el descubrimiento, con navegantes y exploradores buscando nuevas rutas y tierras, y científicos y filósofos desentrañando los misterios del mundo y los portales. El arte refleja ideales de belleza, simetría y proporción, y las festividades y eventos culturales son comunes. Las estructuras políticas varían entre las razas, pero en general, hay un enfoque en la organización y el orden, con monarquías y consejos tomando decisiones importantes. La sociedad valora la educación y el conocimiento, respetando a los eruditos y comerciantes.
 
 #### Eventos Clave
 
@@ -22,11 +22,13 @@ Es el genocidio de los **Orka** hacia los **Akro**. Tras hacer la predicción
 
 **El Pacto**
 
-Con la intención de poner fin a la guerra, el rey **Teeli** decidió pactar un matrimonio entre el primogénito de los **Orka** y la primera de los **Teeli**. Este pacto es el motor de la historia. Ademas del matrimonio, el pacto generó una serie de cambios socio-economicos.
+Con la intención de poner fin a la guerra, el rey **Teeli** decidió pactar un matrimonio entre el primogénito de los **Orka** y la primera de los **Teeli**. Este pacto es el motor de la historia. Además del matrimonio, el pacto generó una serie de cambios socio-económicos:
+- Creación del Consejo Económico de Heim.
+- Reconocimiento del Krag, la moneda Orka, como moneda oficial de Teeli.
 
 ### Geografía, Política y Economía
 
-Heim es un mundo principalmente naval compuesto por tres grandes islas-continente y una isla-centro. Este mundo está habitado por diversas razas, cada una con su propia cultura, historia y tecnología. El evento más importante y determinante de este mundo es el **Colapso**, un cataclismo místico que ocurrió hace unos 100 años y que cambió drásticamente el equilibrio de poder. Los **Teeli**, una raza centrada en el comercio y el conocimiento, fueron los más afectados, mientras que los **Orka**, un pueblo belicoso y expansionista, aprovecharon la oportunidad para aumentar su influencia. Los **Akro**, un pueblo místico y espiritual, fueron perseguidos y esclavizados por los **Orka**. Los **Henso**, una raza huidiza y distante, se han mantenido en gran medida aislados, prosperando gracias a su control sobre un material precioso. La geopolítica de Heim está marcada por tensiones, alianzas y conflictos entre estas razas.
+Este mundo está habitado por diversas razas, cada una con su propia cultura, historia y tecnología. El evento más importante y determinante de este mundo es el **Colapso**, un cataclismo místico que ocurrió hace unos 100 años y que cambió drásticamente la geografía del planeta y el equilibrio de poder. Los **Teeli**, una raza centrada en el comercio y el conocimiento, fueron los más afectados, mientras que los **Orka**, un pueblo belicoso y expansionista, aprovecharon la oportunidad para aumentar su influencia. Los **Akro**, un pueblo místico y espiritual, fueron perseguidos y esclavizados por los **Orka**. Los **Henso**, una raza huidiza y distante, se han mantenido en gran medida aislados, prosperando gracias a su control sobre un material precioso. La geopolítica de Heim está marcada por tensiones, alianzas y conflictos entre estas razas.
 
 ### Sistema Monetario y Económico
 
@@ -40,14 +42,6 @@ Heim es un mundo principalmente naval compuesto por tres grandes islas-continent
     - Utilizado para grandes tratos y sumas de dinero, ceremonias y acuerdos importantes.
     - Hecho de oro puro y no se pueden crear más de forma legal debido al Colapso.
     - Sellos de autenticidad para evitar falsificaciones.
-### Consejo Económico de Heim
-
-Formado como parte del Tratado del Pacto para regular y supervisar el uso y la distribución de las monedas y recursos valiosos. Está compuesto por representantes de todas las razas principales (Teeli, Orka, Henso y Akro) y tiene las siguientes funciones:
-### Tratado del Pacto
-
-El Tratado del Pacto fue establecido para poner fin a la guerra y crear un sistema económico equilibrado y justo. Los acuerdos clave incluyen:
-- Creación del Consejo Económico de Heim.
-- Reconocimiento del Krag como moneda común.
 ### Fichas de las Razas
 
 #### Teeli
