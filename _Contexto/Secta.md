@@ -53,3 +53,16 @@ Estos son algunos ejemplos de subgrupos que se me ocurren:
     - **La Investigación**: Es el acto de descubrir y traducir las reliquias que contienen información sobre la creación, la magia y los propios Creadores. La facción cree que así cumplen con su labor de recopilación de información y conocimiento, y que también aprenden más sobre el caos.
     - **La Invocación**: Es el acto de invocar a los demonios del caos para obtener favores y recompensas de Los Creadores. La facción cree que así honran a Los Creadores, especialmente a Tzeentch, el dios del cambio y la magia, y que también obtienen el poder del caos.
     - **La Mutación**: Es el acto de someterse a mutaciones para mejorar sus capacidades físicas o mentales. La facción cree que así demuestran su valentía y su voluntad para ingresar en un subgrupo de la facción. El ritual consiste en beber una poción alquímica o someterse a un hechizo mágico que altera su cuerpo o su mente. La facción cree que así prueban sus límites y su adaptación al subgrupo, y que también se acercan más a Los Creadores.
+
+
+---
+
+
+
+
+Es una organización secreta formada por mujeres que operan dentro de todo Heim. Está compuesta por nobles, magas, espías y asesinas que tienen como objetivo encontrar a Los Creadores.
+
+La organizacion venera a **Los Creadores**, unos seres dimensionales que segun ellos han creado Heim y que han dejado algunos signos en ciertas partes del planeta. Estos signos son **reliquias** que contienen información sobre la creación, la magia y ellos mismos. La más importante de estas reliquias es un libro escrito en un idioma que la organizacion no entiende, pero que está intentando descifrar con la ayuda de la magia y la ciencia.
+
+Una de sus misiones más importantes es buscar indicios de la raza dimensional e impedir a toda costa que cualquier persona que no sea de la organizacion los vea o los divulgue. Creen que Los Creadores son los únicos dioses verdaderos, y que les han elegido a ellas como sus herederas y guardianas. Quieren comunicarse con Los Creadores y obtener su bendición y su poder.
+Estan basados en "La rosa negra" del league of legends y El culto al placer de los elfos oscuros de warhammer.

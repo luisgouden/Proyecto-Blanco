@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Contexto/_Situación.md",
+                "file": "_Contexto/Secta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Situación"
+              "title": "Secta"
             }
           }
         ]
@@ -138,8 +138,13 @@
   },
   "active": "04c7186875e9efbd",
   "lastOpenFiles": [
-    "README.md",
+    "Makin Of/WorldBot/3.md",
     "_Contexto/_Situación.md",
+    "_Contexto/Secta.md",
+    "Makin Of/WorldBot/2.md",
+    "Makin Of/WorldBot/1.md",
+    "Makin Of/Nombres.md",
+    "README.md",
     "_Contexto/_Personajes/Suri.md",
     "_Contexto/_Personajes/Fichas/Suri.md",
     "_Contexto/_Personajes/Fichas/Ginn.md",
@@ -150,7 +155,6 @@
     "_Contexto/_Personajes/Fichas/Lorn.md",
     "_Contexto/_Personajes/Fichas/Korn.md",
     "_Contexto/_Personajes/Fichas/Zeliie.md",
-    "_Contexto/Secta.md",
     "_Contexto/_Personajes/Sin título.md",
     "_Escribicion/0.md",
     "_Contexto/_Personajes/Zeliie.md",
@@ -161,10 +165,6 @@
     "_Contexto/_Personajes/Maara.md",
     "_Contexto/_Personajes/Ladrones.md",
     "_Contexto/_Personajes/Secta.md",
-    "_Contexto/1 - Suri/Capitulo 6 - Sheed.md",
-    "_Contexto/1 - Suri/Capitulo 2 - Shed.md",
-    "_Contexto/2 - Ginn/Capitulo 25.md",
-    "_Contexto/2 - Ginn/Capitulo 19.md",
     "Makin Of/WorldBot",
     "Makin Of/Arboles.canvas",
     "Makin Of/Mapa_HEIM.jpg",

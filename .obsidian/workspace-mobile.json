@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Makin Of/Evolucion.md",
+                "file": "_Escribicion/0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evolucion"
+              "title": "0"
             }
           }
         ]
@@ -123,6 +123,7 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "Makin Of/Evolucion.md",
     "Makin Of/Personajes.md",
     "Makin Of/WorldBot/1.md",
     "_Historia/4_ampliando.md",
@@ -159,7 +160,6 @@
     "_IA/3 - Maara/Capitulo 4.md",
     "Mapa Suuri__.ai",
     "Mapa_HEIM.ai",
-    "README.md",
     "Mapa Suuri_.ai",
     "Mapa_embajada.ai",
     "Mapa_Akro.ai",
