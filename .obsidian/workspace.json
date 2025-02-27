@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "26cc8fdd4f37170e",
+        "id": "de43b5d20827b0fd",
         "type": "tabs",
         "children": [
           {
-            "id": "04c7186875e9efbd",
+            "id": "7dc6279ce522f8fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Contexto/Secta.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Secta"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -137,11 +133,15 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "04c7186875e9efbd",
+  "active": "7dc6279ce522f8fa",
   "lastOpenFiles": [
-    "Makin Of/WorldBot/3.md",
     "_Contexto/_Situación.md",
+    "Makin Of/Evolucion.md",
+    "Makin Of/Cronologia.md",
+    "Makin Of/SpinOff.md",
+    "Makin Of/Religiones.md",
     "_Contexto/Secta.md",
+    "Makin Of/WorldBot/3.md",
     "Makin Of/WorldBot/2.md",
     "Makin Of/WorldBot/1.md",
     "Makin Of/Nombres.md",
@@ -162,10 +162,6 @@
     "_Contexto/_Personajes/Fichas",
     "_Contexto/1 - Suri/Capitulo 1 - Suri.md",
     "_Contexto/2 - Ginn/Capitulo 8.md",
-    "_Contexto/_Personajes/Riin.md",
-    "_Contexto/_Personajes/Maara.md",
-    "_Contexto/_Personajes/Ladrones.md",
-    "_Contexto/_Personajes/Secta.md",
     "Makin Of/WorldBot",
     "Makin Of/Arboles.canvas",
     "Makin Of/Mapa_HEIM.jpg",
