@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "de43b5d20827b0fd",
+        "id": "889f4199cd20a6b2",
         "type": "tabs",
         "children": [
           {
-            "id": "7dc6279ce522f8fa",
+            "id": "3d4ea5d8b5c6f077",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -133,7 +133,7 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "7dc6279ce522f8fa",
+  "active": "a92fa0c62ee71d32",
   "lastOpenFiles": [
     "_Contexto/_Situación.md",
     "Makin Of/Evolucion.md",
