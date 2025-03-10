@@ -47,7 +47,6 @@ Este mundo está habitado por diversas razas, cada una con su propia cultura, hi
     - **Hombres**: Usan trajes de colores claros como el beige, el marfil y el gris, hechos de telas finas como el lino y la seda. Los chalecos y las chaquetas largas son comunes, acompañados de pantalones ajustados y botas de cuero fino. Los sombreros de ala ancha y los guantes de cuero son accesorios habituales.
     - **Mujeres**: Visten vestidos largos y vaporosos, de una pieza que se coloca por la cabeza o una gran tela que se envuelve alrededor del cuerpo y se cierra con una decoración. Los patrones y detalles de las telas pueden ser lisos o con intricados bordados en oro o piedras preciosas, dependiendo del gusto y presupuesto. La jerarquía no se refleja en la ropa, cada uno es libre de vestir como quiera.
 - **Detalles Culturales**: Los Teeli son más racionales y no tienen grandes festividades relevantes por el momento. Su calendario comienza con el **Colapso**.
-
 #### Orka
 
 - **Descripción Física**: Los Orka poseen una piel morena, con tonos que van desde el bronceado hasta el marrón oscuro. Su cabello es predominantemente negro, con algunas variaciones hacia el castaño oscuro, y generalmente liso. Sus ojos son oscuros, principalmente marrones o negros, aunque en raras ocasiones pueden ser de colores claros. Con una estatura ligeramente menor que los Teeli, entre 1.60 y 1.70 metros, los Orka tienen rasgos faciales fuertes, con mandíbulas prominentes y cejas marcadas. Su complexión es robusta y musculosa, reflejando su valor por la fuerza y el esfuerzo físico.
@@ -65,7 +64,6 @@ Este mundo está habitado por diversas razas, cada una con su propia cultura, hi
     - **Akro Sirvientes**: Usan vestidos sencillos, normalmente negros o marrones (un color degradante para los Orka). Si sirven a una casa importante, llevan el escudo de la casa bordado. La ropa es básica, austera y funcional.
     - **Akro Libres**: Visten de negro en múltiples formas, desde vestidos parecidos a los Teeli pero únicamente en negro, hasta pantalones y camisetas sueltas y cómodas.
 - **Detalles Culturales**: Los Akro son perseguidos y denunciados, por lo que la mayoría de sus festividades son secretas y cerradas.
-
 #### Henso
 
 - **Descripción Física**: Los Henso tienen una piel de tonos medios, desde el beige hasta el marrón claro, con una ligera tendencia a broncearse. Su cabello es oscuro, predominantemente negro, con texturas que varían desde liso hasta ligeramente ondulado. Sus ojos son rasgados, con colores que van desde el marrón oscuro hasta el negro. De estatura similar a los Orka, entre 1.60 y 1.70 metros, los Henso tienen rasgos faciales suaves, con pómulos altos y mandíbulas redondeadas. Su complexión es compacta y ágil, reflejando su habilidad para la navegación y su aislamiento histórico.
@@ -73,7 +71,6 @@ Este mundo está habitado por diversas razas, cada una con su propia cultura, hi
     - **Hombres**: Usan túnicas cortas y pantalones ajustados de colores oscuros como el marrón, el verde y el negro. Las telas son resistentes y duraderas, como el lino y la lana. Los cinturones de cuero y las botas altas son comunes. Los detalles pueden incluir patrones geométricos y bordados inspirados en la naturaleza.
     - **Mujeres**: Visten kimonos cortos y ajustados de colores oscuros, con detalles en encaje y bordados. Las telas son resistentes y duraderas, como el lino y la lana. Los cinturones de cuero y las botas altas son comunes. Los patrones pueden incluir flores y símbolos místicos, reflejando su conexión con la naturaleza y el misticismo.
 - **Detalles Culturales**: Los Henso tienen festividades alrededor del Rey-dios, pero estas son poco conocidas por las otras razas.
-
 ### Tecnología y Magia
 
 - **La Materia Blanca**: Un material casi mágico que puede transformarse en cualquier cosa con el conocimiento adecuado y tiempo. Sin embargo, nadie sabe cómo funciona ni qué riesgos tiene realmente.
