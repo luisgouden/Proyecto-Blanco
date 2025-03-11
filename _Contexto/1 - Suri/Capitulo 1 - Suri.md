@@ -5,19 +5,13 @@
 Suri se reúne con sus aliados en la biblioteca del palacio de Suuri. Suri quiere impedir el matrimonio entre su hermanastro Ginn y la princesa Maara.
 Para ello, deciden contratar a un mercenario que secuestre a Ginn el día de la boda y la haga pasar por muerta. Así él ocupara su puesto. Suri sale de la biblioteca con una sonrisa maliciosa, seguro de que su plan funcionará.
 ## Género
-
 Realismo mágico con intriga.
-
 ## Contexto general
-
 - La historia es una novela río que gira alrededor del inminente matrimonio entre Maara, la princesa Teeli, y Ginn, el heredero de Suuri, de los Orka. Hay varios personajes envueltos en ella y en cada capítulo se prioriza un punto de vista diferente.
-
 - El conflicto principal de la historia es que Suri quiere parar el compromiso porque sabe que eso significaría el principio del fin del imperio Orka. De cara al público él es el verdadero heredero aunque sea solo fachada. Es un Orka de pleno derecho pero sin sangre noble. Suri tiene que hacer que Ginn desaparezca pero sin usar la violencia y sin que nadie pueda incriminarlo directamente.
 
-![[_Situación#Situación]]
-
+![[Situación]]
 # Paso 2
-
 ## personajes:
 ### principal:
 

@@ -6,7 +6,7 @@ Un capitulo en el que Maara esta visitando por ultima vez un portal antes de cog
 ## Genero
 Realismo mágico con politica.
 
-![[_Situación#Situación]]
+![[Situación#Situación]]
 
 ## Contexto
 

@@ -22,7 +22,6 @@
 
 ## Emperador
 
-
 ### Intrigas Palaciegas
 
 1. **Kösem Sultan**: Una de las figuras más poderosas y enigmáticas del Imperio Otomano. Nacida como Anastasia, fue capturada y llevada al harén del sultán Ahmed I, donde se convirtió en Kösem Sultan. Su influencia se extendió durante los reinados de sus hijos y nietos, y fue conocida por su astucia y habilidad para manipular las intrigas palaciegas

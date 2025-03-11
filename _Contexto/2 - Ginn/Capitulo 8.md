@@ -5,7 +5,7 @@ Escribe:
 ## Genero
 Realismo mágico con intriga.
 
-![[_Situación#Situación]]
+![[Situación#Situación]]
 
 ## Contexto
 
