@@ -1,6 +1,5 @@
 Escribe:
 Un capitulo en el que Suri se reúne con sus aliados en el salon del palacio de Suuri. Estan hablando tranquilamente cuando aparece Papa para darle una noticia.
-
 Suri está en su mansión con sus amigos cuando Apa le interrumpe y le dice que la boda entre Maara y Ginn será en una semana. Suri se enfada y pide ver a su padre, pero Apa se niega. Suri se va furioso e intenta golpear a una criada con su anillo-espada.
 
 ![[Capitulo 1 - Suri#Paso 1]]
@@ -10,17 +9,14 @@ Suri está en su mansión con sus amigos cuando Apa le interrumpe y le dice que 
 ## Escenario
 - La acción transcurre en un palacio en la ciudad de Suuri, que pertenece a la raza de los Órka.
 - Suuri está dimensión imaginaria con diferentes razas, culturas, eventos y conceptos. La época actual es similar al Neoclasicismo (siglo XVIII o XIX), con una tecnología y un pensamiento parecidos.
-
 ## Personajes
 ### Principal
 ![[_Contexto/_Personajes/Suri#- Suri]]
-
 ### Secundarios
 ![[_Contexto/_Personajes/Suri#- Norn]]
 ![[_Contexto/_Personajes/Suri#- Rik]]
 ![[_Contexto/_Personajes/Suri#- Lila]]
 ![[_Contexto/_Personajes/Suri#- Zan]]
-
 ### Terciario
 ![[_Contexto/_Personajes/Suri#- Apa]]
 
@@ -28,7 +24,6 @@ Suri está en su mansión con sus amigos cuando Apa le interrumpe y le dice que 
 - Antes de este capítulo: Suri ya está moviendo los hilos para conseguir su objetivo de casarse con Maara pero aún necesita tiempo. Los planes están yendo más lentos de lo que pensaba.
 - El conflicto principal del capítulo es: El mensaje de Apa con la fecha definitiva de la boda.
 - El objetivo de Suri en este capítulo es: Que el lector sepa que a Suri se le ha echado el tiempo encima y tiene que actuar rápido. También quiero que el lector conozca la personalidad de Suri y de Apa, y cómo es su relación.
-
 # Paso 3
 
 - Punto de vista: El narrador es un narrador equisciente focalizado. Enfocado en Suri. Suri es una persona muy introspectiva, que se siente frustrado y enfadado por la noticia de la boda. Él quiere casarse con Maara y convertirse en el próximo gobernador. Él cree que Ginn es un débil que no merece gobernar. Él cree que Apa es un siervo insolente que le falta al respeto.
