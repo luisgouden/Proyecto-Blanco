@@ -13,3 +13,5 @@ Vida en Atlantis justo despues de la ruptura
 Un dia paseando con la ballena
 Pais aislado
 
+
+La historia va sobre la heredera al trono de unos de los reinos-islas. Su linaje tiene la peculiaridad de que nacen sin sexo definido hasta llegar a cierta edad. Sus papis quieren que sea chico para casarse con la princesa de otro pais pero ella (siempre la nombro en femenino que es más fácil) no se siente chico. Cuando le dicen que la van a prometer en breve, le da un berrinche y decide planear su propio secuestro así que de alguna forma consigue convencer a un grupo muy simpático de personas de robar el palacio con la excusa de robar la corona, diciendo que ella tiene contactos dentro.

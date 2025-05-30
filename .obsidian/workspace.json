@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d0f7dd72c0dcd09",
+        "id": "eb626bb8eb701bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "d268916361ae0319",
+            "id": "6728919b7dc33db8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Makin Of/SpinOff.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "SpinOff"
             }
           }
         ]
@@ -133,9 +137,16 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "d268916361ae0319",
+  "active": "6728919b7dc33db8",
   "lastOpenFiles": [
+    "Makin Of/Evolucion.md",
     "El graciosito.md",
+    "_Contexto/7 - Riin/Capitulo 17.md",
+    "_Historia/4_ampliando 1.md",
+    "_Contexto/7 - Riin/Capitulo 9.md",
+    "_Contexto/7 - Riin/-.md",
+    "_Historia/1_capitulos.md",
+    "_Historia/4_ampliando.md",
     "Proyecto-Blanco/Worldbuiling.md",
     "Proyecto-Blanco/Mapa_HEIM.jpg",
     "Proyecto-Blanco/INFORME HEIM — WORLDBUILDING Y ESTRUCTURA NARRATIVA.md",
@@ -151,20 +162,13 @@
     "_Escribicion/1.md",
     "_Contexto/Situación.md",
     "Makin Of/Atlantis.md",
-    "_Historia/4_ampliando.md",
     "_Escribicion/0.md",
-    "_Historia/1_capitulos.md",
     "Proyecto-Blanco/Mapas.md",
     "Proyecto-Blanco.zip",
     "Proyecto-Blanco/Mapa_Suuri.jpg",
     "Proyecto-Blanco/Mapa_planetas.jpg",
     "Proyecto-Blanco/Lugares - Suuri.md",
     "Proyecto-Blanco/Lugares - Atlantis.md",
-    "README.md",
-    "INTERROGATORIO.md",
-    "Proyecto-Blanco/MAPAS.md",
-    "Proyecto-Blanco/Making Of.md",
-    "Proyecto-Blanco/Nombres.md",
     "Proyecto-Blanco/magia.txt",
     "Proyecto-Blanco",
     "-/photo_5943048734441060952_y.jpg",
