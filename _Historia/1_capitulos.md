@@ -1,36 +1,33 @@
-0:
+Prologo:
 · protagonista: Zeliie
 · donde: blanco
-· que pasa: Resumen de todas las cosas raras de la historia y declaración de intenciones.
+· que pasa: Zeliie en el mundo artificial.
 
 1:
-· protagonista: impostor
+· protagonista: Suuri
 · donde: palacio
-· que pasa: Explicación básica de los "Solari" y la vida en palacio.
-· cambios importantes: En un principio iban a tener una clase pero me parecía demasiado cliché mas un en el primer capitulo.
+· que pasa: Explicación básica de los Orka y la vida en palacio.
 
 2:
-· protagonista: ayudante del impostor (chica)
-· donde: ciudad y palacio
-· que pasa: Explicación básica de los "Lunari" y la vida de los sirvientes.
+
 
 3:
 · protagonista: Maara
 · donde: La otra Capital
-· que pasa: Introducción a la otra isla y los portales (economia) de la isla, preparación del viaje. Raza del conocimiento.
+· que pasa: Introducción a los Teeli y preparación del viaje. 
 
 4:
 · protagonista: Zeliie
 · donde: ciudad/mercado
-· que pasa: Explicación básica de la "magia" y costumbres básicas de la "raza" del conocimiento.
+· que pasa: Explicación básica de la materia y costumbres básicas de los Teeli
 
 5:
-· protagonista: Ginn disfrazada
+· protagonista: Ginn
 · donde: ciudad y afueras
 · que pasa: Explicación básica de la ciudad.
 
 6:
-· protagonista: ladrones
+· protagonista: Grupo de Akros
 · donde: afueras de la ciudad
 · que pasa: Explicación básica de los bajos fondos.
 
@@ -45,9 +42,9 @@
 · que pasa: Explicación básica de la situación geo-politica de antes del cataclismo.
 
 9:
-· protagonista: impostor
+· protagonista: Suuri
 · donde: palacio
-· que pasa: Se hace oficial el compromiso entre Ginn y X, el impostor se pone nervioso y dice que es urgente matar a Ginn.
+· que pasa: Se hace oficial el compromiso entre Ginn y Maara, Suuri se pone nervioso y dice que es urgente matar a Ginn.
 
 10:
 · protagonista: Maara
@@ -55,9 +52,9 @@
 · que pasa: Primer encuentro entre Maara y Ginn, Ella piensa que es una criada pero Ginn al verla sale corriendo.
 
 11:
-· protagonista: Ginn disfrazada
+· protagonista: Ginn
 · donde: bajos fondos
-· que pasa: Con el compromiso oficial, tiene mas prisa por huir, aquí hay que confundir... pensando que Ginn es un espía de el impostor.
+· que pasa: Con el compromiso oficial, Ginn tiene mas prisa por huir.
 
 12:
 · protagonista: Zeliie
@@ -67,12 +64,12 @@
 13:
 · protagonista: ladrones.
 · donde: mercado
-· que pasa: planteamiento del verdadero argumento de la historia y punto de inflexión. Mencionan la magia de refilón.
+· que pasa: planteamiento del verdadero argumento de la historia y punto de inflexión.
 
 14:
-· protagonista: sirviente del impostor
+· protagonista: Sheed
 · donde: palacio
-· que pasa: avanzan los preparativos (para el asesinato), va a celebrarse una fiesta en honor al compromiso.
+· que pasa: avanzan los preparativos, va a celebrarse una fiesta en honor al compromiso.
 
 15:
 · protagonista: Zeliie / Zeliie en Atlantis / Atlantis?
@@ -95,7 +92,7 @@
 · que pasa: entrada al palacio
 
 19:
-· protagonista: Asesino
+· protagonista: Secta
 · donde: palacio
 · que pasa: asesinato
 
