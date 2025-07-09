@@ -11,14 +11,10 @@
             "id": "2c1a8aba32d63166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_Contexto/Situación.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Situación"
+              "title": "New tab"
             }
           }
         ]
@@ -97,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Makin Of/Evolucion.md",
+            "file": "Segundo intento.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -124,6 +120,8 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "Sin título 3.md",
+    "_Contexto/Situación.md",
     "_Escribicion/0.md",
     "Makin Of/Evolucion.md",
     "Makin Of/Personajes.md",
@@ -157,8 +155,6 @@
     "Mapa_antiguo.ai",
     "_IA/5- Secta/Capitulo 3.md",
     "_IA/_Capitulos/Capitulo 4.md",
-    "cronologia.md",
-    "_IA/3 - Maara/Capitulo 4.md",
     "Mapa Suuri__.ai",
     "Mapa_HEIM.ai",
     "Mapa Suuri_.ai",

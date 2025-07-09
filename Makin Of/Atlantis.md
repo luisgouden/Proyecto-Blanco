@@ -1,10 +1,3 @@
-Es una isla de investigación al lado de los Henso.
-- ## ¿Por que estan alli?
-- Los Teeli descubrieron una simbiosis muy extraña con una planta que crecia alli y con una especie concreta de serpiente. Parecia que la serpiente siguiendo cierto cuidado y con ciertas circunstancias podia crecer más de lo que debia ser normal y que además empezaba a tener consciencia de si misma y a entender a los humanos. Junto a las serpientes aparecían ciertos seres que se comportaban de forma muy extraña con las serpientes y que parecían viajar de forma que era fisicamente imposible para las personas. En esa isla los estudiaban e intentaban sacarles partido.
-- En la isla se juntaron biólogos, botanicos y estudiosos de otras ramas para entender mas como funcionaba eso. 
-- establecieron un pequeño pueblo laboratorio donde la gente vivia por largos períodos de tiempo.
-- Los henso tambien sacaban partido de las investigaciones ya que accedian a conocimientos muy avanzados ademas del músculo económico y social que eran los teeli. es como cuando occidente empezo sus comercios con japon, los dos se aprovechan de las culturas.
-
 ## HABITANTES
 
 - Riin: (Eneagrama 7, MBTI ESFP )
