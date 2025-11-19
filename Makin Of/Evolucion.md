@@ -79,7 +79,12 @@ Despues de casi 1 año sin tocar la historia no he podido aguantar las ganas. Ll
 - El niño grande se "sacrifica" para salvar a uno de los Hanzo y por eso, cuando el sobrevive y se convierte en el Rey Dios, lo canoniza al igual que alguno de sus compañeros y muchos de los actuales habitantes de Hanzo tienen sus nombres o un derivado.
 - En un principio las que iban a ir tapadas eran las mujeres. No por recato o por religion o por algo por el estilo, sino porque las imagenes que estaba tomando de referencia y un videoclip de black pink me gusto mucho como quedaba. Despues de ver un video sobre sanderson, empecé a dudar si era buena idea o un micromachismo o algo por el estilo asi que decidi que podia ser divertido que los que se tapasen fueran los chicos POR un complejo que tiene el principe Orka por eso mismo empece a pensar en hacer un arbol genealogico. Porque aunque estaba en mi mente el concepto de principe Orka nunca le habia prestado atencion.
 - Respecto al tema del machismo a pesar de que Ginn en todo momento iba a ser genero neutro estuve (y por ahora sigo teniendo) dudas de que genero quiere la familia que sea. Eso implicaria cambiar el genero de casi todos, no me molesta pero es algo que me inquieta.
-- 
+
+## 14 El devorador de soles / GPT 2
+- Improvisando una historia de fantasia oscura empece a desarrollar de Arriba (los dioses) para abajo (La historia) y empece a crear todo el panteon y su clasificacion.
+- Tambien cree un mundo bastante interesante.
+- Cuando más o menos lo tenia consolidado me di cuenta que esta historia la podia incluir perfectamente en el sistema planetario que ya tenia y que ademas complementaba perfectamente con el. Gracias a eso ya tenemos todos los dioses, quienes son las razas grandes en las que inspirarme y que pasará con "el mundo blanco" cuando termine de crearse.
+
 
 
 ## Trama

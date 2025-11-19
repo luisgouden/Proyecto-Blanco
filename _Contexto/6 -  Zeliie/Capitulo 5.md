@@ -6,7 +6,7 @@ Un capitulo en el que Zeliie preparando la tienda de libro mientras habla y crit
 ## Genero
 Realismo mágico con humor.
 
-![[Situación#Situación]]
+![[_Contexto/Situación#Situación]]
 
 
 ## Contexto

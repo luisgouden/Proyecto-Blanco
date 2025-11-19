@@ -7,20 +7,20 @@ Realismo mágico con intriga.
 ## Contexto general
 - La historia es una novela río que gira alrededor del inminente matrimonio entre Maara, la princesa Teeli, y Ginn, el heredero de Suuri, de los Orka. Hay varios personajes envueltos en ella y en cada capítulo se prioriza un punto de vista diferente.
 - El conflicto principal de la historia es que Suri quiere parar el compromiso porque sabe que eso significaría el principio del fin del imperio Orka. De cara al público él es el verdadero heredero aunque sea solo fachada. Es un Orka de pleno derecho pero sin sangre noble. Suri tiene que hacer que Ginn desaparezca pero sin usar la violencia y sin que nadie pueda incriminarlo directamente.
-![[Situación]]
+![[_Contexto/Situación]]
 # Paso 2
 ## personajes:
 ### principal:
 
-![[_Contexto/_Personajes/Suri#- Suri]]
-![[_Contexto/_Personajes/Suri#- Korn]]
-![[_Contexto/_Personajes/Suri#- Lorn]]
-![[_Contexto/_Personajes/Suri#- Norn]]
+![[Suri_#- Suri]]
+![[Suri_#- Korn]]
+![[Suri_#- Lorn]]
+![[Suri_#- Norn]]
 ### terciario:
 
-![[_Contexto/_Personajes/Suri#- Sheed]]
-![[_Contexto/_Personajes/Suri#- Ginn]]
-![[_Contexto/_Personajes/Suri#- Apa]]
+![[Suri_#- Sheed]]
+![[Suri_#- Ginn]]
+![[Suri_#- Apa]]
 ## Escenario:
 
 Palacio en la ciudad de Suuri, en una dimensión imaginaria con diferentes razas, culturas, eventos y conceptos.

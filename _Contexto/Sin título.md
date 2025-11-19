@@ -9,7 +9,7 @@ Visualmente recuerda a ciudades portuarias con mezcla de arquitectura grecorroma
 
 ### 🌀 MAGIA / TECNOLOGÍA
 
-No existe magia como tal. Lo que hay es **materia pura**: una sustancia moldeable y racionalizable que puede convertirse en cualquier material físico (metal, piedra, madera…). Solo puede manipularse con **conocimiento, consciencia e intención**. La “magia” es, en realidad, tecnología elevada y ancestral.
+No existe magia como tal. Lo que hay es **materia pura**: una sustancia moldeable y racionalizable que puede convertirse en cualquier material físico (metal, piedra, madera…). Solo puede manipularse con **conocimiento, consciencia e intención**. La “magia” es, en realidad, tecnología elevada y ancestral. 
 
 Además, existen los **spren**: entidades conceptuales que ven todas las realidades posibles, pero no pueden actuar en el mundo físico a menos que se **vinculen con un humano**. Este vínculo es irreversible y permite el acceso al **Mundo Blanco**, un plano de materia pura en formación, donde todo ser sin identidad propia es disuelto.
 

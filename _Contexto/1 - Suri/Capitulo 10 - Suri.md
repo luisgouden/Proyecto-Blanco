@@ -11,14 +11,14 @@ Suri está en su mansión con sus amigos cuando Apa le interrumpe y le dice que 
 - Suuri está dimensión imaginaria con diferentes razas, culturas, eventos y conceptos. La época actual es similar al Neoclasicismo (siglo XVIII o XIX), con una tecnología y un pensamiento parecidos.
 ## Personajes
 ### Principal
-![[_Contexto/_Personajes/Suri#- Suri]]
+![[Suri_#- Suri]]
 ### Secundarios
-![[_Contexto/_Personajes/Suri#- Norn]]
-![[_Contexto/_Personajes/Suri#- Rik]]
-![[_Contexto/_Personajes/Suri#- Lila]]
-![[_Contexto/_Personajes/Suri#- Zan]]
+![[Suri_#- Norn]]
+![[Suri_#- Rik]]
+![[Suri_#- Lila]]
+![[Suri_#- Zan]]
 ### Terciario
-![[_Contexto/_Personajes/Suri#- Apa]]
+![[Suri_#- Apa]]
 
 ## Contexto
 - Antes de este capítulo: Suri ya está moviendo los hilos para conseguir su objetivo de casarse con Maara pero aún necesita tiempo. Los planes están yendo más lentos de lo que pensaba.

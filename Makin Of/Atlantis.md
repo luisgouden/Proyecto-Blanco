@@ -48,7 +48,7 @@ Es el tutor de la clase de Zeliie y Riin, y uno de los profesores de la escuela 
 
 QUIEN SOBREVIVE AL COLAPSO?
 
--  Riin
+-  Riin (Zeliie)
 -  Hermano mayor de Zeliie. Estaba en Hanzo, Tras el colapso y la muerte de gran parte de su familia, vuelve a su isla para convertirse en gobernante.
 -  Algun grupo Hanzo con conexion con la familia antigua ( el niño grande le salva). Gracias a eso se convierte en santo. Y la gran mayoria de los habitantes del reino usan su nombre como comodin. como Jose y Maria en España.
 - 

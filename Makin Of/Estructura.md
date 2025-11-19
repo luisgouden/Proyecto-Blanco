@@ -64,10 +64,10 @@ Sheed vestida de lunari entra en un establecimiento cerca del mercado, un sitio 
 · que pasa:
 
 ### 18
-Maara paseando, pasa de largo la casa que esta ya preparando la boda (su boda) piensa en la sirvienta leyendo y que no la ha vuelto a ver, pero se alegra de que cuando viva alli podra conocerla. Se interna pore las calles y llega al mercado, se sorprende al ver una tienda de conocimiento abierta y "con vida" se acerca pero es la dependienta la que sale corriendo llamandola por un nombre raro, el gurardia se pone delante empuñando el arma. Ella se para a mitad camino pide perdon y da media vuelta negando con la cabeza visiblemente triste.
+Maara paseando, pasa de largo la casa que esta ya preparando la boda (su boda) piensa en la sirvienta leyendo y que no la ha vuelto a ver, pero se alegra de que cuando viva alli podra conocerla. Se interna pore las calles y llega al mercado, se sorprende al ver una tienda de conocimiento abierta y "con vida" se acerca pero es la dependienta la que sale corriendo llamandola por un nombre raro (zellie), el guardia se pone delante empuñando el arma. Ella se para a mitad camino pide perdon y da media vuelta negando con la cabeza visiblemente triste.
 
 ### 19
-Ginn practicando magia, Shire la esta ayudando. Se extraña de los viejos y desgastados estan los libros que le hga dejado Zeliie para practicar, tienen cosas escritas pero curiosamente son mas faciles de entender que los que ha usado hasta ahora. Despues de varios intentos Shire le da un consejo y mejora un poco.
+Ginn practicando magia, Shire la esta ayudando. Se extraña de los viejos y desgastados estan los libros que le ha dejado Zeliie para practicar, tienen cosas escritas pero curiosamente son mas faciles de entender que los que ha usado hasta ahora. Despues de varios intentos Shire le da un consejo y mejora un poco.
 
 ### 20
 La preboda es en el jardin, hay mucha seguridad porque hay mucha gente importante de la zona (pero solo una pequeña comitiva de los lunari). Ellos ya han viajado por el mundo blanco, asi que no hacen nada raro pero cuando están por el camino encuentran a uno de los gigantes. Es la primera vez que vez uno pero Zeliie ya les habia advertido. Gin mientras tanto está intentando hacer magia (Zeliie no les quiere ayudar directamente), la magia en el mundo blanco parece como señales y bichitos como Shire (por eso el gigante está por ahi). Al llegar al punto, Zaori vuelve a utilizar el objeto y consiguen entrar en el cuarto.
