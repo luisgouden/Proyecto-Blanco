@@ -1,3 +1,17 @@
+# Trama – Índice
+
+1. Libro 0 – Sinopsis.
+2. Libro 0 – Estructura de capítulos.
+3. Libro 0 – Arcos de personaje.
+
+# Libro 0 – Sinopsis de trabajo
+
+**Tagline**: boda política, robo de reliquia, falsa muerte de una princesa y un pasado que colapsa en paralelo.
+
+Resumen en una frase:
+> En vísperas de una boda que debe consolidar poder entre Orka y Teeli, un grupo de ladrones y una tendera conectada al mundo blanco desencadenan un robo que termina con la aparente muerte de Ginn y el despertar de secretos de Atlantis.
+
+
 # Libro 0 – Estructura de capítulos (versión reorganizada)
 
 > NOTA: Esto refleja la versión reorganizada que mezcla mejor los POV y mantiene claros los hilos Ginn–Suri–Maara–Zeliie–ladrones–Velkorae–Atlantis.
@@ -170,3 +184,13 @@
 - Ginn camina por una ciudad blanca medio en ruinas (Atlantis).  
 - Reencuentro con Zeliie, ahora sin máscara.  
 - Cierre del círculo: lo que empezó con Zeliie cruzando el mundo blanco termina con Ginn llegando a Atlantis.
+
+# Libro 0 – Arcos de personaje (muy esquemático)
+
+- **Ginn**: de pieza de tablero (prometida) a agente activo que decide su desaparición.
+- **Zeliie**: de tendera excéntrica a figura que mueve los hilos vía mundo blanco.
+- **Suri**: de heredero inseguro a heredero coronado pero vacío, sin reliquia.
+- **Maara**: de técnica Teeli a testigo incómoda de la manipulación política y mágica.
+- **Zahori y ladrones**: de ratas de mercado a detonantes del cambio.
+
+
