@@ -1,4 +1,88 @@
+# Cosmología – Índice
 
+1. Aor y Thae-Ra.
+2. El accidente de Deu.
+3. Eones y jerarquías.
+4. Thymion y la corrección.
+5. Capas de realidad: Aor → Deu → Eones → Heim
+# Aor, Thae-Ra y el Deu
+
+## Aor
+
+#### NIVEL 0 — EL VACÍO INCOGNOSCIBLE
+- **Entidad**: *Aor*
+- **Naturaleza**: No es un dios, sino la fuente pre-ontológica de todo. Representa el no-ser absoluto. No tiene voluntad ni conciencia.
+- **Consecuencia**: Aor, al vibrar, genera fluctuaciones. Algunas se convierten en emanaciones conscientes. Otras se disuelven. A veces, produce realidades por accidente.
+
+- Estado de existencia total, pero pasiva.
+- Todo lo que existe forma parte de Aor, como ondas en un océano.
+- Si Aor "despertara" del todo, la realidad colapsaría.
+
+## Thae-Ra
+
+#### NIVEL 1 — LA EMANACIÓN PURA
+- **Entidad**: *Thae-Ra*, la Primera Idea
+- **Origen**: Es la primera y unica fluctuacion perfecta y consciente de Aor.
+- **Naturaleza**: Armonía luminosa. Conciencia pura sin intención de creación.
+- **Fractura**: Su contacto accidental con una turbulencia de Aor dio lugar a un error: el demiurgo.
+
+- Resultado de una fluctuación particularmente estable dentro de Aor.
+- Representa la **no-acción perfecta**: no desea, no busca, no cambia.
+- Su perfección no controla Aor; simplemente existe dentro de él.
+
+# Thymion – El devorador de errores
+
+
+#### NIVEL 2.5 — EL ERROR DEL ERROR
+- **Entidad**: *Thymion*, el Hambre infinita.
+- **Origen**: No fue creado. Surgió como un colapso reactivo al desequilibrio generado por Yaldabrax.
+- **Naturaleza**: Una anomalía ontológica. 
+- **Efecto**: Devora todo lo que contenga luz o energia. Deja tras de sí una niebla densa y corrupta.
+
+- Nace como reacción de Aor al impacto del Deu sobre su equilibrio.
+- No construye: **deshace**.
+- Desde la perspectiva humana es algo entre muerte térmica y entidad devoradora.
+- Desde la perspectiva de Aor es un mecanismo de limpieza.
+
+En Heim:
+- Thymion se manifiesta principalmente como amenaza lejana ligada al nuevo sol.
+- Algunas culturas lo intuyen como "olvido", "nada" o castigo último.
+- Los Velkorae son los únicos que rozan su comprensión, pero en clave religiosa y equivocada.
+
+## Deu
+
+#### NIVEL 2 — EL FALSO ORDEN
+- **Entidad**: *Yaldabrax*, el Demiurgo
+- **Origen**: Surgido del cruce entre Thae-Ra y una perturbación caótica de Aor.
+- **Acción**: Cree ser supremo y unico. Crea un mundo físico cerrado y falso. Cree que lo que crea es perfección.
+
+- Otro accidente, pero más cerca de Thae-Ra.
+- Hereda de Thae-Ra cierta estabilidad, pero sin su falta de deseo.
+- Siente incompletud y necesidad constante de construir.
+- Cree aproximarse a la perfección creando una realidad propia dentro de Aor.
+- Esta realidad-matrioshka es el plano en el que operan los Eones.
+
+# Eones – Fragmentos rotos del sistema
+
+#### NIVEL 3 — LOS EONES CAÍDOS
+- **Rol**: Fuerzas intermedias que sostienen y someten el falso orden de Yaldabrax. 
+  Los mas cercano a yaldabrax dominan cada uno un plano: material, espiritual, conceptual.
+##### NIVEL 3.5 FRAGMENTOS BRILLANTES
+- **Entidades**: *Ishir*, *Kydin*, *Theiax*, y otros
+- **Naturaleza**: Remanentes débiles o dispersos de emanaciones. Algunos son astros, otros habitan cuerpos humanos.
+
+- Surgen de experimentos/colisiones entre Aor y el Deu.
+- Hay niveles (1–4) según poder y consciencia.
+- Los Eones que crean Heim son **nivel 3–4**: poderosos pero limitados, más artesanos chapuceros que dioses sabios.
+
+Rasgos clave:
+- No son omniscientes ni omnipotentes.
+- Sus decisiones tienen consecuencias masivas, pero rara vez entienden toda la cadena.
+
+Dogma ficticio útil (para culturas humanas):
+> "Tener poder solo amplifica tus errores".
+
+# MundoBlanco
 ## Naturaleza
 
 - Planeta artificial construido por los Eones como laboratorio / plano intermedio.
@@ -138,3 +222,42 @@
 - No hay todavía un gran tabú moral asociado a la materia; el tabú viene por:
   - el riesgo físico,
   - la dependencia de quienes controlan los portales y el refino.
+
+### Reglas operativas
+
+Aquí van las reglas que afectan a la jugabilidad / coherencia:
+
+1. Identidad en el mundo blanco.
+2. Costes de usar materia blanca.
+3. Economía básica de portales y minas.
+
+
+# Mundo blanco – Reglas operativas
+
+- Todo tiende a disolverse en materia base.
+- Los sellos hacen que el mundo blanco te vea como algo "completado" y tiendan a no afectarte.
+- Lo primero que se pierde sin sellos es el cuerpo; con sellos malos, la mente.
+- En el mundo blanco hay restos de la colisión Heim–mundo blanco, ruinas de Atlantis y Eones pastores con sus spren.
+
+# Materia blanca y economía
+
+- Controlar minas = controlar infraestructuras críticas (puertas, armas, edificios, prótesis).
+- Teeli: ventaja en portales tras el Colapso → potencia económica en ciernes.
+- Orka: más poder político que control directo de materia.
+- Henso: monopolio teocrático de ciertos portales.
+
+
+
+
+
+# Capas de realidad
+
+1. **Aor** – fondo absoluto.
+2. **Zona Thae-Ra** – perfección inmóvil incrustada en Aor.
+3. **Dominio del Deu** – realidad-matrioshka construida por necesidad de completarse.
+4. **Plano de los Eones** – donde estos operan, crean y destruyen submundos.
+5. **Heim** – submundo relativamente estable creado por Eones de nivel 3–4.
+
+Los humanos solo perciben el 5. Algunos Eones apenas entienden el 4.
+
+
