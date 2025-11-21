@@ -31,7 +31,6 @@ En Heim:
 - Algunas culturas lo intuyen como "olvido", "nada" o castigo último.
 - Los Velkorae son los únicos que rozan su comprensión, pero en clave religiosa y equivocada.
 
-
 ## Deu
 
 - Otro accidente, pero más cerca de Thae-Ra.
@@ -52,7 +51,6 @@ Rasgos clave:
 
 Dogma ficticio útil (para culturas humanas):
 > "Tener poder solo amplifica tus errores".
-
 
 # Capas de realidad
 
