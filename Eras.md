@@ -2,7 +2,7 @@
 
 - Isla laboratorio donde se estudia el mar y las criaturas ligadas al mundo blanco.
 - Sociedad pequeña: familias de científicos, fareros, comerciantes, profesores y una familia “antigua” conectada con el mar.
-- Una niña, **Riin**, se vincula con el spren **Shire** y sin entender del todo el sistema abre un puente brutal entre Heim y el mundo blanco.
+- Una niña, **Riin**, se vincula con el Soon **Shire** y sin entender del todo el sistema abre un puente brutal entre Heim y el mundo blanco.
 - Resultado: **Colapso**. Atlantis se pierde, parte se desplaza al mundo blanco, casi todos mueren.
 - Supervivientes clave:
   - Riin (futura Zeliie adulta).
