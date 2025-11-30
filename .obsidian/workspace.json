@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore.md",
+                "file": "_Makin Of/Capitulos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore"
+              "title": "Capitulos"
             }
           }
         ]
@@ -140,6 +140,9 @@
   },
   "active": "493a5dbdc2d60fa2",
   "lastOpenFiles": [
+    "_Makin Of/Capitulos 2.md",
+    "_Makin Of/Capitulos.jpg",
+    "Lore.md",
     "Eras.md",
     "Cosmo.md",
     "Core.md",
@@ -154,18 +157,15 @@
     "_Makin Of/gpt/heim_gpt_2.md",
     "_Makin Of/gpt/heim_gpt_1.md",
     "_Makin Of/Nombres.md",
-    "Lore.md",
     "Razas/henso.md",
     "Razas/akro.md",
     "Personajes/Ginn.md",
     "Personajes/_personajes.md",
     "Sin título 1.md",
-    "_Makin Of/Capitulos 2.md",
     "Trama_Libro 0.md",
     "_Makin Of/Capitulos.md",
     "Personajes/Zeliie.md",
     "Personajes/Suri.md",
-    "Personajes/Sheed.md",
     "Personajes",
     "_Scripto 2",
     "_Makin Of/Mapas/Mapa_planetas.jpg",
@@ -173,7 +173,6 @@
     "_Makin Of/Mapas/Mapa_HEIM.jpg",
     "_Makin Of/gpt",
     "_Makin Of/Mapas",
-    "_Makin Of/Capitulos.jpg",
     "_Makin Of/Arboles.canvas",
     "_Makin Of",
     "Makin Of/Capitulos.jpg",
