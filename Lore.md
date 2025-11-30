@@ -167,7 +167,7 @@ Heim está dividido en cinco civilizaciones principales, cada una con sistemas s
 
 - Heim se sustenta en un modelo comercial marítimo, controlado por gremios y rutas diplomáticas vigiladas.
     
-- El conocimiento, los recursos de **materia pura** y los **vínculos Soon** se convierten en objetos de deseo geopolítico.
+- El conocimiento, los recursos de **materia pura** y los **vínculos spren** se convierten en objetos de deseo geopolítico.
     
 
 ---

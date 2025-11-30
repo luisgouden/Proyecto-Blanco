@@ -149,7 +149,7 @@ Resumen en una frase:
 
 **Capítulo 20 – Ladrones (mundo blanco y entrada al palacio)**  
 - El grupo de Zahori usa un portal para cruzar el mundo blanco hacia el palacio.  
-- Vemos de nuevo la diferencia de tiempo y espacio, y un Eón pastor con Soon alrededor.  
+- Vemos de nuevo la diferencia de tiempo y espacio, y un Eón pastor con spren alrededor.  
 - Es la primera vez que el lector ve a humanos normales cruzando por el mundo blanco.
 
 ---

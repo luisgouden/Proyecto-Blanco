@@ -116,7 +116,7 @@ Teocracia aislada, maestra de la navegación y de un recurso único, que sacrifi
 - Técnicas de crianza y aprovechamiento de serpientes marinas.
 
 6.3 **Relación con la magia / lo sobrenatural**  
-- Algunas prácticas ligadas a la conexión del Rey-Dios con entidades o Soon.  
+- Algunas prácticas ligadas a la conexión del Rey-Dios con entidades o spren.  
 - El henso puede tener propiedades semimágicas o espirituales.
 
 ---

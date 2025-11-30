@@ -313,44 +313,34 @@ Entidades menores, fragmentos brillantes.
 Soon.
 
 **Origen**
-
 * Los Soon aparecen cuando una **entidad mayor permanece demasiado tiempo en el nivel 1.5**.
 * La mezcla de:
-
   * perspectiva extradimensional,
-  * restos de voluntad del Creador,
-  * ruido de Aor,
-    se condensa en pequeños seres o patrones conscientes.
+  * restos de la esencia de la entidad.
+  * ruido de Aor, se condensa en pequeños seres o patrones conscientes.
 
 **Qué pueden / qué no pueden hacer**
 
 * Perciben **todas las realidades y líneas temporales a la vez**, pero:
-
   * no distinguen entre una y otra,
   * no comprenden jerarquías de probabilidad,
   * viven en un presente superpuesto y confuso.
 * Son capaces de:
-
-  * servir de **ancla** entre mundo blanco y Heim,
-  * estabilizar o destrozar portales según cómo se les use,
+  * servir de **ancla** entre mundo blanco y Heim.
+  * crear portales "personales" o "portatiles"
   * filtrar información de forma fragmentaria (oráculos rotos).
 
 **Rasgos de carácter**
 
 * Son más cercanos a **parásitos o remoras** que a compañeros:
-
-  * se adhieren a personas, lugares o artefactos,
-  * absorben rasgos de personalidad del huésped,
+  * se adhieren a personas o seres con consciencia.
+  * absorben rasgos de personalidad del huésped.
   * lo distorsionan tanto como lo ayudan.
 * No tienen un “yo” coherente: son **collages de percepciones y ecos**.
 
 **Objetivos / obsesiones**
 
-* Ninguno propio.
-* Sus “deseos” son reflejos de:
-
-  * la entidad mayor que los originó,
-  * y el huésped al que se pegan.
+* Ninguno propio, sus “deseos” son reflejos del huésped al que se vinculan.
 
 **Función narrativa**
 
@@ -360,9 +350,111 @@ Soon.
   * y la psicología de los personajes.
 * Son **fuente de poder y de locura**:
   permiten hacer cosas imposibles, pero contaminan mente y realidad.
-
 **Escala de intervención**
-
 * Pequeña o media:
   * un Soon no cambia el cosmos,
   * pero puede cambiar la historia de una persona, una ciudad o incluso ser clave en eventos como el Colapso.
+
+---
+
+# Mundo blanco y materia blanca
+
+## 1. Mundo blanco
+
+### 1.1. Naturaleza
+
+* Planeta artificial en construcción fabricado por las Entidades en el nivel 1.5.
+* Compuesto de **materia blanca**, una especie de “células madre” de la realidad.
+
+### 1.2. Habitantes principales
+
+* **Entidades-pastores**: 
+	* gigantes que vagan por el mundo.
+	* Su presencia va dando poco a poco “forma” al entorno.
+* **Soon**:
+	  * fragmentos de pensamiento sólido creados a partir de las Entidades que permanecen en el nivel 1.5,
+	  * siguen a las Entidades como peces limpiadores a una ballena.
+
+### 1.3. Restos y ruinas
+
+* Restos de la colisión Heim–mundo blanco por el Colapso.
+
+### 1.4. Riesgos para humanos
+
+El nivel 1.5 no está pensado para los humanos y los seres inferiores.
+
+* La materia blanca tiene una fuerza de atracción enorme:
+  * cualquier ser vivo que permanezca sin protección tiende a disolverse en “polvo”,
+  * todo tiende a disolverse en materia base.
+
+---
+
+## 2. Materia blanca
+
+### 2.1. Mineria
+
+- Tras ensayo-error (y muchas perdidas humanas) los humanos aprenden a entrar y permanecer en el mundo blanco
+- Tras un tiempo, aprenden a extraer la materia blanca y llevarla a Heim.
+
+### 2.2. Naturaleza de la materia blanca
+
+* Materia madre de las creaciones de las Entidades, análoga a células madre en biología.
+- Por eso la materia blanca es:
+  * el equivalente a petróleo + plutonio,
+  * extremadamente valiosa y peligrosa.
+### 2.3 Usos
+- La materia blanca con control y buena direccion es capaz de transformarse en cualquier material inanimado.
+- Una vez transformado, la materia se transforma en ese materia y deja de considerarse "materia blanca"
+### 2.3. Materia educada
+
+*  Es un tipo de materia que nunca se estabiliza: siempre regresa a su forma base tras usarla; 
+* La forma memorizada original actúa como “posición de reposo”:
+  * como un muelle, la materia siempre intenta volver ahí.
+  * cualquier configuración es un estado estirado al que quiere dejar de pertenecer.
+#### 2.3.1 Materia blanca con una o dos formas memorizadas:
+  * anillo ↔ espada,
+  * pared ↔ puerta,
+  * estructura plegable, etc.
+* Ejemplos:
+  * anillos que se convierten en espadas,
+  * paredes que se abren como puertas ocultas,
+  * estructuras plegables.
+* Limitación:
+  * cada pieza tiene una o dos formas memorizadas,
+  * cuanto más radical la transformación, más difícil es que la pieza dure.
+
+---
+## 3. Portales
+Los portales son conexiones entre Heim y el mundo blanco.
+Son aleatorios aunque tienen una relacion directa con la destruccion provocada por el Colapso.
+* Nadie sabe reproducirlos, se fantasea con “portales de bolsillo”, pero no existen versiones estables.
+---
+
+## 4. Poder económico
+
+* Controlar minas/portales = controlar fuente infinita de dinero y tecnologia.
+* **Teeli**:
+  * el Colapso los destruyó pero les dejó la mayor concentración de portales estables en tierra,
+  * combinado con su cultura académica, eso los convierte en potencia económica emergente.
+* **Orka**:
+  * al no tener casi portales, dependen de terceros para materia blanca: compran, conquistan o intermedian,
+  * tienen más poder político que control directo de materia.
+* **Henso**:
+  * monopolio teocrático de ciertos portales.
+---
+Sellos
+* Los habitantes vivos de Heim fueron materia blanca en origen.
+* Las Entidades escribieron sobre ellos para forzar que se estabilizaran en formas humanas.
+* Esos patrones de escritura avanzada son los **sellos**.
+* La teoría de sellos está casi perdida:
+  * el cuerpo de Riin/Zeliie y ciertos rituales Velkorae son de los pocos lugares donde pervive.
+* Efectos:
+  * preservan forma e identidad en el mundo blanco,
+  * pero “pagan” con el intelecto: disartria, dislexia, lagunas de memoria.
+* Sin sellos ni identidad fuerte:
+  * lo primero que se pierde sin sellos es el cuerpo; con sellos malos, la mente.
+* **Sellos en el mundo blanco**:
+  * los sellos permiten “engañar” al mundo blanco:
+    el cuerpo se registra como materia inerte completada,
+  * la mente paga el precio: trastornos del habla y del pensamiento.
+- Los sellos hacen que el mundo blanco te vea como algo "completado" y tiendan a no afectarte.

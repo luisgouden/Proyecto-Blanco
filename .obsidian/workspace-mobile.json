@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eras.md",
+                "file": "Cosmo - mundo blanco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eras"
+              "title": "Cosmo - mundo blanco"
             }
           }
         ]
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Makin Of/Mapa_planetas.jpg",
+            "file": "Cosmo - mundo blanco.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,9 +125,14 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
-    "cosmo_.md",
     "Cosmo.md",
     "Eras.md",
+    "_Makin Of/gpt/heim_gpt_3 1.md",
+    "_Makin Of/gpt/heim_gpt_2 1.md",
+    "_Makin Of/gpt/heim_gpt_1 1.md",
+    "_Makin Of/gpt/heim_gpt_4.md",
+    "Cosmo - mundo blanco.md",
+    "cosmo_.md",
     "Core.md",
     "Lore.md",
     "Sin título.md",
@@ -145,14 +150,8 @@
     "_Contexto/_Personajes/Fichas/Sheed.md",
     "_Contexto/_Personajes/Fichas/Norn.md",
     "_Contexto/_Personajes/Fichas/Lorn.md",
-    "_Contexto/_Personajes/Fichas/Korn.md",
-    "_Contexto/_Personajes/Fichas/Ginn.md",
     "Makin Of/Mapa_HEIM.jpg",
     "Makin Of/Mapa_planetas.jpg",
-    "Makin Of/Evolucion.md",
-    "Makin Of/Estructura.md",
-    "Makin Of/SpinOff.md",
-    "Expansion razas.md",
     "Makin Of/Arboles.canvas",
     "Arboles.canvas",
     "_Escribicion",
