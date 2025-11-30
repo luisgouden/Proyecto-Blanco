@@ -103,7 +103,7 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 - Especializadas en técnicas de cifrado, ocultación y lenguaje simbólico.
 
 6.2 **Campos en los que destacan**  
-- Interpretación de portales, spren y materias especiales.  
+- Interpretación de portales, Soon y materias especiales.  
 - Control de redes de mensajería e información.
 
 6.3 **Relación con la magia / lo sobrenatural**  
