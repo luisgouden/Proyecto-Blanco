@@ -6,6 +6,7 @@ Elle: Ginn (horizonte en islandés)
 Ayudante Ginn: Taus (fluir en fines)
 Maga: Riin (Caos en Islandes) / Zeliie
 Prometida: Maara (destino en fines)
+Los Spren: Soon (Ruido en japones)
 
 ### Lugares:
 

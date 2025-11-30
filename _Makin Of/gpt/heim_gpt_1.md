@@ -23,7 +23,7 @@ Lo que _no_ deberías perder porque ya está sólido:
     
     - No hay “magia” clásica: hay **materia blanca / materia pura** y **materia educada**.
         
-    - Los **sellos** y los **spren** son la interfaz entre mente, lenguaje y esa materia.
+    - Los **sellos** y los Soon son la interfaz entre mente, lenguaje y esa materia.
         
 3. **Evento fundacional: el Colapso**
     
@@ -48,9 +48,9 @@ Lo que _no_ deberías perder porque ya está sólido:
         
 5. **Secretos y metatrama**
     
-    - El **Colapso** no fue “accidente”: está ligado a Velkorae, a los Creadores y a la manipulación de la materia/spren.
+    - El **Colapso** no fue “accidente”: está ligado a Velkorae, a los Creadores y a la manipulación de la materia/Soon.
         
-    - Los spren y el **mundo blanco** conectan con ese nivel “cosmológico”.
+    - Los Soon y el **mundo blanco** conectan con ese nivel “cosmológico”.
         
 6. **Protagonista y twist de identidad**
     
@@ -73,7 +73,7 @@ De tu Evolucion.md yo veo esta trayectoria:
 
 ### Fase 1 – Chispa inicial
 
-- Quieres **“spren” para conversaciones divertidas**.
+- Quieres **“Soon” para conversaciones divertidas**.
     
 - **Mundo blanco** como espacio raro.
     
@@ -81,7 +81,7 @@ De tu Evolucion.md yo veo esta trayectoria:
     
 - La magia ligada a:
     
-    - **Catalizadores (spren)**.
+    - **Catalizadores (Soon)**.
         
     - **Creatividad / método de enseñanza** como cimiento.
         
@@ -90,7 +90,7 @@ De tu Evolucion.md yo veo esta trayectoria:
 
 👉 Traducción:
 
-> Mundo donde pensar, aprender y nombrar _es_ la forma de tocar lo imposible, y los spren son la manera de hablar con ese “sistema”.
+> Mundo donde pensar, aprender y nombrar _es_ la forma de tocar lo imposible, y los Soon son la manera de hablar con ese “sistema”.
 
 ### Fase 2 – Capas que se añaden
 
@@ -133,12 +133,12 @@ De tu Evolucion.md yo veo esta trayectoria:
 
 - **Razas de animales gigantes** (gusanos, ballenas, serpientes, etc.) en el mundo blanco.
     
-- **Spin-off Atlantis**: colonia que estudia serpientes marinas, descubre seres translúcidos (spren) que se vinculan a humanos → colisión grande cuando ocurre el primer vínculo.
+- **Spin-off Atlantis**: colonia que estudia serpientes marinas, descubre seres translúcidos (Soon) que se vinculan a humanos → colisión grande cuando ocurre el primer vínculo.
     
 
 ---
 
-## 3. Ontología unificada: cómo encajan mundo, magia y spren
+## 3. Ontología unificada: cómo encajan mundo, magia y Soon
 
 Voy a pegar todas las piezas en una ontología sencilla que respeta tus docs y tu evolución.
 
@@ -158,11 +158,11 @@ Voy a pegar todas las piezas en una ontología sencilla que respeta tus docs y t
         
     - Es letal para identidades poco definidas: si no sabes quién eres, te “disuelve”.
         
-    - Los portales del Colapso y los spren conectan ambos planos.
+    - Los portales del Colapso y los Soon conectan ambos planos.
         
-3. **Plano conceptual – Spren y Creadores**
+3. **Plano conceptual – Soon y Creadores**
     
-    - Los **spren** son entidades que condensan **pensamientos y conceptos**.
+    - Los Soon son entidades que condensan **pensamientos y conceptos**.
         
     - Ven “todos los tiempos y realidades posibles”.
         
@@ -195,13 +195,13 @@ Componentes:
         
     - Ciencia casi perdida tras el Colapso: quedan restos, versiones defectuosas y secretos guardados por Velkorae.
         
-4. **Spren**
+4. Soon
     
     - Interfaz viva entre mente, lenguaje y materia.
         
     - Se sienten atraídos por patrones mentales (creatividad, obsesión, trauma, etc.).
         
-    - Un vínculo humano–spren permite:
+    - Un vínculo humano–Soon permite:
         
         - Acceder o estabilizar portales.
             
@@ -212,7 +212,7 @@ Componentes:
 
 - La magia avanzada solo funciona si **piensas bien** – dominar conocimiento, lenguaje preciso, estructuras lógicas.
     
-- “Enseñar” es literalmente **programar materia educada** y **adiestrar spren**.
+- “Enseñar” es literalmente **programar materia educada** y **adiestrar Soon**.
     
 
 ### 3.3 Portales y el Colapso
@@ -231,7 +231,7 @@ Componentes:
     
     - Existen **portales naturales** (residuales del Colapso).
         
-    - Los spren permiten **crear portales artificiales** a menor escala.
+    - Los Soon permiten **crear portales artificiales** a menor escala.
         
     - Cruzar al mundo blanco sin sello ni identidad fuerte es casi suicida.
         
@@ -330,7 +330,7 @@ Componentes:
         
 - Controlan:
     
-    - Fragmentos de conocimiento sobre **sellos, spren y materia educada**.
+    - Fragmentos de conocimiento sobre **sellos, Soon y materia educada**.
         
     - Parte de los gremios en Mieru y facciones transmutadoras Teeli.
         
@@ -361,7 +361,7 @@ Componentes:
         
     - Podría ser:
         
-        - Un humano que alcanzó un vínculo extremo con spren y sellos.
+        - Un humano que alcanzó un vínculo extremo con Soon y sellos.
             
         - Un “avatar” de los Creadores.
             
@@ -386,7 +386,7 @@ A partir de Nombres.md y las fichas de personajes:
         
     - Obsesión: entender Colapso y portales.
         
-    - Encaja perfecto para **vínculo con spren** → mente analítica + outsider entre culturas.
+    - Encaja perfecto para **vínculo con Soon** → mente analítica + outsider entre culturas.
         
     - Twist de género: lector asume que es chico/chica → se revela como _elle_ a mitad por un patrón de habla.
         
@@ -458,7 +458,7 @@ Con lo que ya existe, encajaría así:
     
     - Es el plano al que se abrieron portales durante el Colapso.
         
-    - Es el “territorio natural” de ciertos spren y criaturas titánicas.
+    - Es el “territorio natural” de ciertos Soon y criaturas titánicas.
         
     - Para cruzarlo sin ser disuelto necesitas:
         
@@ -466,15 +466,15 @@ Con lo que ya existe, encajaría así:
             
         - Sellos bien diseñados.
             
-        - Quizá vínculo con spren.
+        - Quizá vínculo con Soon.
             
 2. **Atlantis – Spin-off**
     
     - Colonia/laboratorio en los límites del mundo blanco (o en una zona de mar muy conectada a ese plano).
         
-    - Estudio de serpientes marinas y seres translúcidos (spren “marinos”).
+    - Estudio de serpientes marinas y seres translúcidos (Soon “marinos”).
         
-    - El **primer vínculo humano–spren** fuerte podría ser:
+    - El **primer vínculo humano–Soon** fuerte podría ser:
         
         - El origen real del Colapso.
             
@@ -493,7 +493,7 @@ Esto te permite:
 
 En resumen, he:
 
-- Consolidado **ontología**: Heim físico + mundo blanco + spren + materia/sellos + Creadores.
+- Consolidado **ontología**: Heim físico + mundo blanco + Soon + materia/sellos + Creadores.
     
 - Pegado la **evolución de tu idea** a lo que hay en los .md, para que veas una sola línea, no mil versiones.
     
@@ -648,7 +648,7 @@ Yaldabrax es el arquitecto del “cosmos normal” (Kel, planetas, leyes física
             
         - espíritu (almas, mundo blanco, muerte),
             
-        - concepto (lenguaje, símbolos, sellos, spren).
+        - concepto (lenguaje, símbolos, sellos, Soon).
             
 
 👉 Conexión Heim:
@@ -659,7 +659,7 @@ Yaldabrax es el arquitecto del “cosmos normal” (Kel, planetas, leyes física
         
     - mundo blanco,
         
-    - spren,
+    - Soon,
         
     - sellos.
         
@@ -674,7 +674,7 @@ Yaldabrax es el arquitecto del “cosmos normal” (Kel, planetas, leyes física
     
 - Algunos son **astros** (estrellas, lunas, cometas).
     
-- Otros **habitan cuerpos humanos** o se encarnan periódicamente en linajes, individuos, spren excepcionales, etc.
+- Otros **habitan cuerpos humanos** o se encarnan periódicamente en linajes, individuos, Soon excepcionales, etc.
     
 - **En el mundo:**
     
@@ -694,14 +694,14 @@ Yaldabrax es el arquitecto del “cosmos normal” (Kel, planetas, leyes física
             
         - capacidades raras de personajes,
             
-        - spren “únicos” que no siguen reglas normales.
+        - Soon “únicos” que no siguen reglas normales.
             
 
 👉 Conexión Heim:
 
-- Los **spren normales** son microcondensaciones de conceptos (nivel 3–4).
+- Los **Soon normales** son microcondensaciones de conceptos (nivel 3–4).
     
-- Algunos **spren mayores / entidades únicas** (tipo “spren primigenio”) podrían ser directamente **Fragmentos de Thae-Ra** (nivel 4), con nombre propio.
+- Algunos **Soon mayores / entidades únicas** (tipo “Soon primigenio”) podrían ser directamente **Fragmentos de Thae-Ra** (nivel 4), con nombre propio.
     
 
 ---
@@ -739,7 +739,7 @@ Te propongo este canon operativo:
     
     - intenta **forzar un acceso no autorizado** al “fuera del sistema” (Thae-Ra / Aor),
         
-    - usando materia blanca, spren y sellos avanzados (conocimiento Eones + fragmentos Nivel 4).
+    - usando materia blanca, Soon y sellos avanzados (conocimiento Eones + fragmentos Nivel 4).
         
 2. El ritual **rasga la capa de Yaldabrax**:
     
@@ -812,7 +812,7 @@ Te dejo conexiones concretas que te facilitan decisiones después:
         
         - percibir ecos de **Thymion** en la niebla,
             
-        - o vincularse con un spren de nivel 4 (mini-fragmento de Thae-Ra).
+        - o vincularse con un Soon de nivel 4 (mini-fragmento de Thae-Ra).
             
     - Su identidad no binaria encaja muy bien con:
         
@@ -828,11 +828,11 @@ Te dejo conexiones concretas que te facilitan decisiones después:
             
         - facción pragmática que colabora más con Eones/Yaldabrax por poder.
             
-4. **Spren y Fragmentos Brillantes**
+4. **Soon y Fragmentos Brillantes**
     
-    - Spren comunes: productos del plano conceptual + emocional dentro del sistema Yaldabrax/Eones.
+    - Soon comunes: productos del plano conceptual + emocional dentro del sistema Yaldabrax/Eones.
         
-    - Un spren “especial” podría ser literalmente:
+    - Un Soon “especial” podría ser literalmente:
         
         - un trozo de Ishir, Kydin o Theiax,
             
@@ -855,7 +855,7 @@ Para que tengas una frase por nivel como referencia:
     
 - **Eones Caídos**: administradores del sistema de Yaldabrax (material, espiritual, conceptual). Velkorae los llaman Creadores.
     
-- **Fragmentos Brillantes** (Ishir, Kydin, Theiax…): restos de Thae-Ra/Eones, presentes como astros, espíritus mayores, avatares encarnados o spren excepcionales.
+- **Fragmentos Brillantes** (Ishir, Kydin, Theiax…): restos de Thae-Ra/Eones, presentes como astros, espíritus mayores, avatares encarnados o Soon excepcionales.
     
 
 Si quieres, en el siguiente paso puedo:
@@ -899,7 +899,7 @@ Sí, a tres niveles:
     
     - Yaldabrax como diseñador del “cosmos estándar” → Heim incluido ahí.
         
-    - Eones como “Creadores” de los Velkorae → encajan perfecto con materia blanca, mundo blanco, spren, sellos.
+    - Eones como “Creadores” de los Velkorae → encajan perfecto con materia blanca, mundo blanco, Soon, sellos.
         
     - Thymion como explicación de nieblas/corrupción post-Colapso → cierra el círculo.
         
@@ -943,7 +943,7 @@ Tu capa divina recuerda bastante a:
         
 - **Fantasía moderna de “hard magic + cosmología rota”**:
     
-    - Spren + fragmentos brillantes + dioses-errores recuerdan a Sanderson/Cosmere (Shards, Cognitive/Spiritual Realms, etc.).
+    - Soon + fragmentos brillantes + dioses-errores recuerdan a Sanderson/Cosmere (Shards, Cognitive/Spiritual Realms, etc.).
         
 - **Thymion** como Hambre infinita:
     
@@ -973,7 +973,7 @@ Con todo el contexto que me diste, lo que sí se siente particular es:
         
 2. **Identidad de género y ontología se tocan**
     
-    - Que la identidad (no binaria, ambigua, buscada) no sea solo color de personaje, sino que **importe para cruzar el mundo blanco, para no disolverse, para relacionarse con spren**, etc., es muy potente.
+    - Que la identidad (no binaria, ambigua, buscada) no sea solo color de personaje, sino que **importe para cruzar el mundo blanco, para no disolverse, para relacionarse con Soon**, etc., es muy potente.
         
     - Eso, combinado con “falso orden” impuesto por un demiurgo, abre un montón de lecturas meta sin que tengas que convertirlo en panfleto.
         
@@ -981,7 +981,7 @@ Con todo el contexto que me diste, lo que sí se siente particular es:
     
     - Pacto Orka–Teeli, Matanza Akro, Mieru como nodo, Henso aislado…
         
-    - Esta red político–económica concreta puesta _debajo_ de una metafísica gnóstica y un sistema de sellos/spren no es un calco de ningún setting famoso que conozca.
+    - Esta red político–económica concreta puesta _debajo_ de una metafísica gnóstica y un sistema de sellos/Soon no es un calco de ningún setting famoso que conozca.
         
     - Hay ecos, sí, pero el mix “neoclásico portuario + secta gnóstica + hard magic pedagógica” ya empieza a ser bastante tuyo.
         
@@ -1105,7 +1105,7 @@ Te lo desmonto por partes.
         
     - sellos,
         
-    - spren,
+    - Soon,
         
     - mundo blanco,  
         conectado con **pensamiento, lenguaje, enseñanza** → esto es poco habitual y muy rico.
@@ -1169,9 +1169,9 @@ Hay dos áreas donde se ve claramente de dónde bebes:
         
     - Yaldabrax/Yaldabaoth es casi broma interna.
         
-2. **Estructura de “realms” y spren**
+2. **Estructura de “realms” y Soon**
     
-    - Múltiples planos (material / conceptual / espiritual), spren como encarnaciones de conceptos, “mundo blanco” paralelo, fragmentos divinos…
+    - Múltiples planos (material / conceptual / espiritual), Soon como encarnaciones de conceptos, “mundo blanco” paralelo, fragmentos divinos…
         
     - Esto recuerda inevitablemente a varias fantasías modernas (especialmente a Sanderson).
         
@@ -1197,7 +1197,7 @@ Tienes:
     
 - sistema político-económico denso,
     
-- sistema mágico-triple (materia/sellos/spren),
+- sistema mágico-triple (materia/sellos/Soon),
     
 - mundo blanco,
     
@@ -1244,7 +1244,7 @@ Eso va a estar. La única defensa real es:
     - de **identidad e integridad en un mundo que te quiere definir**,
         
     - de **conocimiento como poder y como peligro**…  
-        entonces todo lo demás (spren, dioses, etc.) es soporte a eso.
+        entonces todo lo demás (Soon, dioses, etc.) es soporte a eso.
         
 
 ---
@@ -1684,7 +1684,7 @@ Si te apetece, lo siguiente que podríamos hacer “a lo W” sería:
 
 ##### Tú dijiste:
 
-Has dado en el clavo, mi idea desde un principio era crear una "prologo largo" para la saga. Esa es la idea que he ido pensado. La saga (por lo menos la de esta "edad") se centrara en Ginn. Pero para poder ser protagonista, debe escaparse del castillo que es justo lo que hace al final del libro. La idea de que atlantis corta el ritmo... yo tambien lo he pensado pero tiene su sentido. Gracias a Atlantis se conoce más a los Henso antes de ser tan hermeticos y de que el rey-dios reine. Tambien se da un contexto cientifico a lo que luego sera "magia". Los spreen, las serpientes, ... Y por ultimo se da otro giro. Zeliie (que en realidad es Riin) es la causa del Colapso al crear su vinculo con el spren (Shire) No esta redactado (pero si pensado) en el capitulo 24, se vinculan Zeliie y Shire y todo desaparece. Zeliie se salva por viajar al mundo blanco igual que Ginn y unen sus caminos en el epilogo, las dos apareciendo alli.
+Has dado en el clavo, mi idea desde un principio era crear una "prologo largo" para la saga. Esa es la idea que he ido pensado. La saga (por lo menos la de esta "edad") se centrara en Ginn. Pero para poder ser protagonista, debe escaparse del castillo que es justo lo que hace al final del libro. La idea de que atlantis corta el ritmo... yo tambien lo he pensado pero tiene su sentido. Gracias a Atlantis se conoce más a los Henso antes de ser tan hermeticos y de que el rey-dios reine. Tambien se da un contexto cientifico a lo que luego sera "magia". Los Soon, las serpientes, ... Y por ultimo se da otro giro. Zeliie (que en realidad es Riin) es la causa del Colapso al crear su vinculo con el Soon (Shire) No esta redactado (pero si pensado) en el capitulo 24, se vinculan Zeliie y Shire y todo desaparece. Zeliie se salva por viajar al mundo blanco igual que Ginn y unen sus caminos en el epilogo, las dos apareciendo alli.
 
 ###### ChatGPT Plus
 
@@ -1774,7 +1774,7 @@ Aquí hay oro, pero conviene que lo estructures fino.
     
 - **Riin** = joven científica / exploradora que estudia serpientes marinas y fenómenos del mundo blanco.
     
-- **Shire** = spren con el que Riin se vincula.
+- **Shire** = Soon con el que Riin se vincula.
     
 - Ese vínculo es el **disparo del Colapso** original:
     
@@ -3425,7 +3425,7 @@ Tiene sentido en tres capas a la vez:
 - Shire como pensamiento sólido que ve todas las realidades, pero no sabe en cuál está.
     
 
-No hay contradicciones graves; todo lo que has añadido (Colapso, materia blanca, portales, spren, sellos) se enchufa a esa ontología sin romperla.
+No hay contradicciones graves; todo lo que has añadido (Colapso, materia blanca, portales, Soon, sellos) se enchufa a esa ontología sin romperla.
 
 ### 1.2. Capa histórica
 
@@ -3516,7 +3516,7 @@ Respuesta honesta:
     pleroma inefable → emanación → demiurgo falso → eones → chispas encarnadas.  
     Tu Yaldabrax / Eones / Fragmentos están en esa tradición.
     
-- Triple plano + “spren” + fragmentos:  
+- Triple plano + “Soon” + fragmentos:  
     mundo físico / conceptual / espiritual, entidades de concepto, fragmentos de una divinidad rota…  
     esto se parece a cosas como el Cosmere, ciertos juegos de rol, etc.
     
@@ -3569,7 +3569,7 @@ Por honestidad:
 
 - Gnosticismo / cosmología cristiana heterodoxa.
     
-- Algo de Sanderson (por los spren, planos y fragmentos).
+- Algo de Sanderson (por los Soon, planos y fragmentos).
     
 - Algo de _His Dark Materials_ / Pullman (mente, conciencia, multiverso, entidades conceptuales).
     

@@ -16,18 +16,17 @@ La tecnología y la organización social se sitúan en una etapa de transición:
     
 - La navegación marítima es sofisticada y Heim se sustenta en un modelo comercial marítimo, controlado por gremios y rutas diplomáticas vigiladas.
     
-- Los habitantes han desarrollado avanzadas técnicas de navegación, utilizando grandes barcos de vela y sofisticados instrumentos de navegación.
-    
+- Los habitantes han desarrollado avanzadas técnicas de navegación, utilizando grandes barcos de vela y sofisticados instrumentos de navegación
+
 - Los gremios dominan los oficios; los talleres de artesanos producen armas, herramientas y objetos decorativos con técnicas bien desarrolladas.
-    
+
 - Las imprentas son comunes y permiten la difusión de libros y documentos.
-    
+
 - La burocracia comienza a estructurar el poder.
     
 - Las armas son fundamentalmente blancas, aunque altamente especializadas.
     
 - El conocimiento técnico y científico está reservado a élites académicas o facciones con acceso restringido.
-    
 
 ### 1.2. Arquitectura, medicina y academias
 
@@ -45,9 +44,7 @@ La tecnología y la organización social se sitúan en una etapa de transición:
 El pensamiento en Heim, especialmente el de los habitantes de **Teeli**, valora la razón y la observación como medios para entender el mundo. Hay un fuerte impulso hacia la exploración y el descubrimiento:
 
 - Navegantes y exploradores buscan nuevas rutas y tierras.
-    
-- Científicos y filósofos desentrañan los misterios del mundo y los portales.
-    
+- Científicos y filósofos desentrañan los misterios del muno
 
 El arte refleja ideales de belleza, simetría y proporción, y las festividades y eventos culturales son comunes.
 
@@ -62,9 +59,7 @@ Las estructuras políticas varían entre las razas, pero en general hay un enfoq
 Heim es un mundo principalmente naval compuesto por:
 
 - Tres grandes islas-continente: **Orka, Teeli, Henso**.
-    
 - Una isla comercial: **Mieru**.
-    
 
 La geopolítica de Heim está marcada por tensiones, alianzas y conflictos entre razas y civilizaciones.
 
@@ -75,49 +70,29 @@ Heim está dividido en cinco civilizaciones principales, cada una con sistemas s
 **Razas / civilizaciones:**
 
 - **Teeli**
-    
     - Una raza centrada en el comercio y el conocimiento.
-        
     - Herederos de la razón rota.
-        
     - Divididos entre restauradores y reformistas.
-        
     - Custodian ruinas y saberes fragmentados.
-        
 - **Orka**
-    
     - Pueblo belicoso y expansionista.
-        
     - Estructura jerárquica basada en la fuerza.
-        
     - Dominan la economía mediante la moneda oficial.
         
 - **Akro**
-    
     - Pueblo místico y espiritual.
-        
     - Predijeron el desastre del Colapso, lo que aumentó su repercusión.
-        
     - Fueron perseguidos, masacrados y posteriormente esclavizados por los Orka.
-        
     - Cultura marginada, espirituales, clandestinos y simbólicos.
-        
 - **Henso**
-    
     - Raza huidiza y distante.
-        
     - Se han mantenido en gran medida aislados, prosperando gracias a su control sobre un material precioso.
-        
     - Teocracia introspectiva y silenciosa. Su poder está en la contemplación y el aislamiento.
-        
 - **Mieru**
-    
     - Núcleo cultural y comercial.
-        
     - Isla-comercial donde conviven múltiples lenguas.
-        
     - Su neutralidad es solo aparente; es el epicentro de múltiples manipulaciones.
-        
+
 - **Velkorae** (organización transversal)
     
     - Secta femenina, oculta, con estructura ritual y agenda trascendental.
@@ -134,26 +109,18 @@ Heim está dividido en cinco civilizaciones principales, cada una con sistemas s
 ### 4.1. El Colapso
 
 - Evento más importante y determinante de este mundo.
-    
 - Cataclismo místico que ocurrió hace unos 100 años y que tuvo como epicentro **Liito**, la capital de los Teeli.
-    
 - Destruyó por completo la ciudad y fragmentó las islas Teeli abruptamente.
-    
 - Como se desconocen sus causas, se consideró una señal divina.
-    
 - Fue una de las causas de la caída del predominio Teeli y el auge de los Orka, los cuales no tuvieron pérdidas sustanciales.
-    
 - El Colapso tiene lecturas distintas según la cultura; la verdad permanece oculta salvo para unos pocos.
-    
 
 ### 4.2. La Matanza
 
 - Genocidio de los Orka hacia los Akro.
-    
 - Tras hacer la predicción de un cataclismo que azotaría el mundo y cumplirse, los Akro empezaron a tener más repercusión de lo que los Orka querían.
     
 - Como reacción, los Orka los masacraron y después los esclavizaron.
-    
 
 ### 4.3. El Pacto
 

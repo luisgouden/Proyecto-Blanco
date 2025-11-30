@@ -5,7 +5,8 @@
 3. Eones y jerarquías.
 4. Thymion y la corrección.
 5. Capas de realidad: Aor → Deu → Eones → Heim
-# Aor, Thae-Ra y el Deu
+
+## Aor, Thae-Ra y el Deu
 
 ## Aor
 
