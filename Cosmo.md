@@ -6,7 +6,6 @@
 * **Nivel 1 – Perturbaciones mayores de Aor**
   Aquí aparecen **Tae** y, como error improbable, **Deu**.
   Son patrones estables dentro del ruido, como vórtices en un mar.
-
 * **Nivel 1.5 – Umbral de creación**
   Zona limítrofe, un **espacio-taller** donde se esculpen universos y estructuras, diseñado para probar y amortiguar cambios en la realidad:
 	* Partes de este nivel se condensan luego en cosas como el **mundo blanco**.
