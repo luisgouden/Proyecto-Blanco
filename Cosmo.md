@@ -355,7 +355,6 @@ Soon.
   * pero puede cambiar la historia de una persona, una ciudad o incluso ser clave en eventos como el Colapso.
 
 ---
-
 # Mundo blanco y materia blanca
 
 ## 1. Mundo blanco
@@ -387,7 +386,6 @@ El nivel 1.5 no está pensado para los humanos y los seres inferiores.
   * todo tiende a disolverse en materia base.
 
 ---
-
 ## 2. Materia blanca
 
 ### 2.1. Mineria
@@ -428,7 +426,6 @@ Los portales son conexiones entre Heim y el mundo blanco.
 Son aleatorios aunque tienen una relacion directa con la destruccion provocada por el Colapso.
 * Nadie sabe reproducirlos, se fantasea con “portales de bolsillo”, pero no existen versiones estables.
 ---
-
 ## 4. Poder económico
 
 * Controlar minas/portales = controlar fuente infinita de dinero y tecnologia.
