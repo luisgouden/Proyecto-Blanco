@@ -1,13 +1,11 @@
-# Teeli
-
 ## 1. Identidad general
 
 1.1 **Resumen en una frase**  
-Civilización mercantil e ilustrada que basa su poder en el conocimiento, la navegación y la diplomacia.
+Civilización mercantil e ilustrada que basa su poder en el conocimiento y la diplomacia.
 
 1.2 **Origen e influencias**  
 - Referentes meta: griegos, fenicios y cristianismo “blando” aplicado al saber.  
-- Expansión histórica mediante comercio, ideas y redes de intercambio.  
+- Expansión histórica mediante comercio tecnologico, ideas y redes de intercambio.  
 - Momento actual: antigua potencia cultural fragmentada tras el Colapso.
 
 1.3 **Relación con el Colapso**  
@@ -29,8 +27,8 @@ Civilización mercantil e ilustrada que basa su poder en el conocimiento, la nav
 - Rey asistido por un Consejo de Eruditos.
 
 2.2 **Órganos de poder**  
-- Consejo de Eruditos (eruditos y grandes comerciantes).  
-- Consejo de Revisión (Integristas vs Transmutadores).  
+- Consejo de Eruditos (eruditos y grandes comerciantes).
+- Consejo de Revisión (Integristas vs Transmutadores).
 - Redes mercantiles con influencia política fuerte.
 
 2.3 **Sucesión y movilidad**  
@@ -49,7 +47,6 @@ Civilización mercantil e ilustrada que basa su poder en el conocimiento, la nav
 
 3.1 **Recursos clave**  
 - Control de las principales rutas marítimas.  
-- Dominio de la Materia Blanca de los portales.  
 - Artesanía de alta calidad y producción de instrumentos de navegación.
 
 3.2 **Modelo económico**  
@@ -117,7 +114,6 @@ Civilización mercantil e ilustrada que basa su poder en el conocimiento, la nav
 6.2 **Campos en los que destacan**  
 - Instrumentos de navegación.  
 - Sistemas de registro escrito, mapas, tratados y manuales.  
-- Gestión de Materia Blanca.
 
 6.3 **Relación con la magia / lo sobrenatural**  
 - Enfoque más analítico: intentan comprender y sistematizar lo extraño.  
@@ -146,6 +142,10 @@ Civilización mercantil e ilustrada que basa su poder en el conocimiento, la nav
 ---
 
 ## 8. Rasgos físicos, estética y símbolos
+
+Por su naturaleza, la "sangre Teeli" se ha ido mezclando y fortaleciendo, fruto de las diversas uniones con otras razas.
+Los Teeli son la raza mas heterogenia de las cuatro.
+Por su propia naturaleza los Akro tienen mas "Sangre Teeli" que los propios Teeli.
 
 8.1 **Rasgos físicos típicos**  
 - Tez clara (marfil a beige).  
@@ -191,16 +191,3 @@ Civilización mercantil e ilustrada que basa su poder en el conocimiento, la nav
 - Restauración vs transformación.  
 - Centralidad del conocimiento vs supervivencia pragmática.  
 - Grado de dependencia tolerable frente a Orka.
-
----
-
-## 11. Ganchos narrativos
-
-11.1 **Secretos estructurales**  
-- La verdadera causa del Colapso puede estar ligada a experimentos Teeli.  
-- La Biblioteca Fracturada contiene textos que algunos quieren ocultar.
-
-11.2 **Tipos de personajes ejemplares**  
-- **Alta clase**: erudito-consejero atrapado entre lealtad al rey y al conocimiento.  
-- **Clase media**: comerciante-intelectual que usa acuerdos para influir políticamente.  
-- **Marginal**: cartógrafo o navegante que ha visto cosas que nadie cree.

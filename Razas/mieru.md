@@ -1,16 +1,14 @@
-# Mieru
-
 ## 1. Identidad general
 
 1.1 **Resumen en una frase**  
-Ciudad-puerto neutral que funciona como corazón comercial y cultural de Heim, gobernada por pactos entre gremios y círculos de poder.
+Ciudad-puerto oficialmente neutral que funciona como corazón comercial y cultural de Heim, gobernada por pactos entre gremios y círculos de poder.
 
 1.2 **Origen e influencias**  
 - Se desarrolló como nodo logístico, punto de paso inevitable entre islas.  
-- Influencias múltiples: cada cultura que llega deja capas estéticas y sociales.
+- Influencias múltiples: Esta fundada por los Henso pero cada cultura que llega deja capas estéticas y sociales.
 
 1.3 **Relación con el Colapso**  
-- Se mantuvo relativamente estable gracias a la neutralidad comercial.  
+- Se fundo poco después del Colapso, cuando Henso empezo a encerrarse.
 - Creció en importancia al convertirse en puente entre culturas fracturadas.
 
 1.4 **Carácter colectivo**  
@@ -28,7 +26,7 @@ Ciudad-puerto neutral que funciona como corazón comercial y cultural de Heim, g
 2.2 **Órganos de poder**  
 - Grandes gremios comerciales, navales, artesanales y de información.  
 - Templos y academias con influencia ideológica.  
-- Velkorae operando en la sombra a través de una academia femenina.
+- Velk operando en la sombra a través de una academia femenina.
 
 2.3 **Sucesión y movilidad**  
 - El poder se hereda, compra o negocia dentro de gremios.  
@@ -58,7 +56,7 @@ Ciudad-puerto neutral que funciona como corazón comercial y cultural de Heim, g
 
 3.4 **Prácticas oscuras o marginales**  
 - Contrabando, blanqueo de bienes y tráfico de información.  
-- Influencia encubierta de Velkorae en ciertos gremios.
+- Influencia encubierta de Velkora
 
 ---
 
@@ -70,15 +68,7 @@ Ciudad-puerto neutral que funciona como corazón comercial y cultural de Heim, g
 
 4.2 **Instituciones religiosas**  
 - Templos de diversas deidades traídas por viajeros.  
-- Academia de Saberes Femeninos como fachada de Velkorae.
-
-4.3 **Lugares sagrados**  
-- Plazas donde se firman grandes contratos.  
-- Pasillos circulares usados para rituales de eco y memoria.
-
-4.4 **Rituales funcionales (selección)**  
-- Contrato Sellado: renovación anual de alianzas gremiales.  
-- Noche de los Tres Rostros: experimentación con identidades y roles.
+- Academia de Saberes Femeninos como fachada de Velk.
 
 ---
 
@@ -94,7 +84,7 @@ Ciudad-puerto neutral que funciona como corazón comercial y cultural de Heim, g
 
 5.3 **Portadores del saber**  
 - Escribas, contables, notarios, intérpretes.  
-- Miembros de Velkorae con control de archivos ocultos.
+- Miembros de Velk con control de archivos ocultos.
 
 5.4 **Cultura cotidiana**  
 - Mezcla de costumbres de todo Heim.  
@@ -146,7 +136,7 @@ Ciudad-puerto neutral que funciona como corazón comercial y cultural de Heim, g
 
 8.3 **Símbolos e identidad visual**  
 - Sellos gremiales, marcas de contrato, insignias y cintas de color.  
-- Prendas sin costuras y sellos especiales para iniciados en rituales de Velkorae.
+- Prendas sin costuras y sellos especiales para iniciados en rituales de Velk.
 
 ---
 
@@ -156,35 +146,6 @@ Ciudad-puerto neutral que funciona como corazón comercial y cultural de Heim, g
 - Como se ven: imprescindibles para que el mundo funcione.  
 - Como les ven: neutrales interesados, a menudo ambiguos e inestables.
 
-9.2 **Alianzas, enemistades y dependencias**  
-- Dependencia de la seguridad naval Henso y de la estabilidad Orka–Teeli.  
-- Conflictos soterrados entre gremios pro-Orka, pro-Teeli o pro-Henso.
-
-9.3 **Modo de expansión**  
+9.2 **Modo de expansión**  
 - Expansión puramente comercial y cultural.  
 - No buscan territorio, sino influencia en redes.
-
----
-
-## 10. Facciones internas y tensiones
-
-10.1 **Bloques o facciones**  
-- Gremios tradicionales vs gremios emergentes.  
-- Sectores controlados por Velkorae vs sectores más “laicos”.
-
-10.2 **Conflictos internos clave**  
-- Cómo mantener la neutralidad frente a presiones de grandes potencias.  
-- Quién controla la información sensible y los contratos clave.
-
----
-
-## 11. Ganchos narrativos
-
-11.1 **Secretos estructurales**  
-- Algunos contratos antiguos pueden anular pactos actuales entre potencias.  
-- La verdadera función de ciertos templos y academias como nudos de Velkorae.
-
-11.2 **Tipos de personajes ejemplares**  
-- **Alta clase**: maestre de gremio que equilibra sobornos de todos los bandos.  
-- **Clase media**: traductor/intérprete que sabe demasiado.  
-- **Marginal**: estibador o guía de callejones que maneja rutas invisibles.

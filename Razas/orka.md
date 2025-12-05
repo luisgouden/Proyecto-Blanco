@@ -6,7 +6,7 @@
 Imperio militar expansionista que basa su legitimidad en la fuerza, la jerarquía y la victoria en combate.
 
 1.2 **Origen e influencias**  
-- Referentes meta: Noxus / Demacia / Solari + Imperio Otomano.  
+- Referentes meta: Noxus / Demacia / Solari / Imperio Otomano.  
 - Cultura forjada en guerras constantes y campañas de conquista.  
 - Momento actual: potencia en auge tras el Colapso, con estructura preindustrial avanzada en lo militar.
 
@@ -67,10 +67,9 @@ Imperio militar expansionista que basa su legitimidad en la fuerza, la jerarquí
 3.3 **Comercio exterior**  
 - Exportan armas, protección, barcos de combate y fuerza militar.  
 - Importan materias especializadas, conocimiento técnico y bienes de lujo.  
-- Usan el comercio como herramienta de dominio político y dependencia financiera.
 
 3.4 **Prácticas oscuras o marginales**  
-- Esclavitud masiva de Akro y otros pueblos sometidos.  
+- Esclavitud masiva de Akro.  
 - Espionaje, sabotaje y guerras encubiertas a través de Fuerzas Especiales.  
 - Confiscación sistemática de conocimiento ajeno “útil para la guerra”.
 
@@ -90,10 +89,9 @@ Imperio militar expansionista que basa su legitimidad en la fuerza, la jerarquí
 - Trono de Orka: espacio ritual de desafíos y legitimación del poder.  
 - Templos del Sol en plazas principales, asociados a entrenamiento y juramentos militares.
 
-4.4 **Rituales funcionales (selección)**  
+4.4 **Rituales funcionales
 - Rito de Desafío Sucesorio: combate o prueba pública que confirma al heredero.  
 - Marca del Servicio: escarificación o tatuaje al entrar en la adultez militar.  
-- Sacrificios previos a campañas importantes para obtener la bendición del Sol.
 
 ---
 
@@ -101,7 +99,7 @@ Imperio militar expansionista que basa su legitimidad en la fuerza, la jerarquí
 
 5.1 **Actitud hacia el conocimiento**  
 - El conocimiento vale en la medida en que sirve a la guerra, el control o la gloria del imperio.  
-- Hay desconfianza hacia el saber contemplativo o abstracto.
+- Hay desconfianza hacia el saber contemplativo o abstracto, la lectura y el conocimiento teorico no estan bien vistos o estas estigmatizados.
 
 5.2 **Sistemas educativos**  
 - Academias militares para oficiales y príncipes.  
@@ -153,7 +151,7 @@ Imperio militar expansionista que basa su legitimidad en la fuerza, la jerarquí
 
 7.4 **Espacios simbólicos**  
 - Plazas de ejecución y desafío.  
-- Foros donde se leen edictos y se exhiben trofeos de guerra.  
+- Foros donde se exhiben trofeos de guerra.  
 - Templos del Sol y estatuas de héroes militares.
 
 ---
@@ -188,7 +186,6 @@ Imperio militar expansionista que basa su legitimidad en la fuerza, la jerarquí
 9.2 **Alianzas, enemistades y dependencias**  
 - Dominan Teeli a través de economía y pactos.  
 - Enemigos históricos: Akro (genocidio y esclavitud).  
-- Necesitan rutas marinas seguras y acceso a materias especiales ajenas.
 
 9.3 **Modo de expansión**  
 - Principalmente militar, reforzada por control monetario y alianzas forzadas.
@@ -206,16 +203,3 @@ Imperio militar expansionista que basa su legitimidad en la fuerza, la jerarquí
 - Destrucción vs integración de territorios conquistados.  
 - Uso del conocimiento externo: arma útil o amenaza a la doctrina.  
 - Sucesión del trono y pugnas entre linajes.
-
----
-
-## 11. Ganchos narrativos
-
-11.1 **Secretos estructurales**  
-- Saqueos de Liito guardan artefactos que ni los Orka entienden.  
-- Posible manipulación del mito del castigo divino para justificar su hegemonía.
-
-11.2 **Tipos de personajes ejemplares**  
-- **Alta clase**: príncipe o general atrapado entre tradición brutal y reformas estratégicas.  
-- **Clase media**: oficial de academia que empieza a cuestionar la narrativa oficial.  
-- **Marginal**: espía o soldado raso con simpatía secreta por los pueblos sometidos.

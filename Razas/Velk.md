@@ -1,17 +1,17 @@
-# Velkorae
-
 ## 1. Identidad general
 
 1.1 **Resumen en una frase**  
-Secta femenina transversal que manipula la historia y el poder de Heim desde la sombra para acceder a los Creadores.
+Secta transversal que manipula la historia y el poder de Heim desde la sombra para acceder a los Creadores.
 
 1.2 **Origen e influencias**  
+- La Rosa Negra de Noxus y las Brujas de los elfos oscuros adoradoras de khaine.
+- Los Cytharai son los dioses del Mirai, el Inframundo Élfico.
+- Los "Amigos Oscuros" de La rueda del tiempo.
 - Nace como red esotérica y política dentro de estructuras académicas y religiosas.  
-- Se expande discretamente a través de Mieru y otras capitales de conocimiento.
+- Se expande discretamente a través de las capitales de Heim.
 
 1.3 **Relación con el Colapso**  
 - No está claro si lo previeron, lo provocaron o solo se aprovecharon de él.  
-- Ven el Colapso como “signo” que confirma que la realidad puede ser reescrita.
 
 1.4 **Carácter colectivo**  
 - Pacientes, calculadoras, obsesionadas con patrones y símbolos.  
@@ -27,7 +27,7 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 
 2.2 **Órganos de poder**  
 - Círculo Interior que conoce la agenda completa.  
-- Círculos medios que ejecutan operaciones en Mieru, Teeli, etc.  
+- Círculos medios que ejecutan operaciones.
 - Iniciadas de bajo nivel integradas en gremios, templos y cortes.
 
 2.3 **Sucesión y movilidad**  
@@ -60,8 +60,7 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 ## 4. Religión, cosmovisión y rituales clave
 
 4.1 **Marco espiritual**  
-- Adoran a los **Creadores**, figuras ausentes que habrían configurado Heim.  
-- Creen que el mundo es un tejido de símbolos que puede decodificarse y reprogramarse.
+- Adoran a los **Creadores**, figuras ausentes que habrían configurado Heim.
 
 4.2 **Instituciones religiosas**  
 - No hay templos públicos; su culto se oculta bajo academias, conventos, escuelas.
@@ -69,10 +68,6 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 4.3 **Lugares sagrados**  
 - Academia de Saberes Femeninos en Mieru.  
 - Archivos ocultos y salas sin ventanas donde se guardan textos y sellos.
-
-4.4 **Rituales funcionales (selección)**  
-- Ritos de iniciación basados en lectura y reinterpretación de mitos.  
-- Ceremonias del Eco, donde se entonan cantos para resonar con los Creadores.
 
 ---
 
@@ -103,7 +98,6 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 - Especializadas en técnicas de cifrado, ocultación y lenguaje simbólico.
 
 6.2 **Campos en los que destacan**  
-- Interpretación de portales, Soon y materias especiales.  
 - Control de redes de mensajería e información.
 
 6.3 **Relación con la magia / lo sobrenatural**  
@@ -123,11 +117,6 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 
 7.3 **Estructura urbana**  
 - Operan en nodos: academias, templos, hospitales, casas de acogida.
-
-7.4 **Espacios simbólicos**  
-- Salas circulares para cantos y ecos.  
-- Pasillos que obligan a caminar en espiral o en patrones rituales.
-
 ---
 
 ## 8. Rasgos físicos, estética y símbolos
@@ -138,10 +127,6 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 8.2 **Vestimenta**  
 - En público: ropa acorde a la cultura local.  
 - En rituales: lino sin costuras, capas sencillas, sellos invisibles desde lejos.
-
-8.3 **Símbolos e identidad visual**  
-- Sellos de memoria, marcas casi imperceptibles en joyas y costuras.  
-- Uso recurrente de motivos circulares, espirales y tríadas.
 
 ---
 
@@ -157,28 +142,3 @@ Secta femenina transversal que manipula la historia y el poder de Heim desde la 
 
 9.3 **Modo de expansión**  
 - Expansión totalmente encubierta, basada en cooptar instituciones locales.
-
----
-
-## 10. Facciones internas y tensiones
-
-10.1 **Bloques o facciones**  
-- Ortodoxas: fieles a una agenda a muy largo plazo.  
-- Pragmatistas: dispuestas a sacrificar dogma por oportunidades concretas.
-
-10.2 **Conflictos internos clave**  
-- Cuánto intervenir abiertamente en la política de Heim.  
-- Si los Creadores deben ser invocados, despertados o mantenidos ausentes.
-
----
-
-## 11. Ganchos narrativos
-
-11.1 **Secretos estructurales**  
-- Pueden ser las únicas que conozcan la versión menos distorsionada del Colapso.  
-- Podrían estar editando la memoria colectiva de varias culturas a la vez.
-
-11.2 **Tipos de personajes ejemplares**  
-- **Círculo medio**: maestra de academia que usa el currículo como arma.  
-- **Recluta**: joven brillante que descubre que su “beca” implica entrar en la secta.  
-- **Desertora**: exmiembro perseguida que sabe demasiado.

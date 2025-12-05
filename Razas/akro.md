@@ -1,12 +1,12 @@
-# Akro
-
 ## 1. Identidad general
 
-1.1 **Resumen en una frase**  
+1.1 **Resumen en una frase**
 Pueblo profético casi destruido, obligado a sobrevivir en la clandestinidad, la esclavitud y la memoria susurrada.
 
-1.2 **Origen e influencias**  
-- Nacidos de una tradición contemplativa y visionaria (paralelo Lunari / herejías frente al culto dominante).  
+1.2 **Origen e influencias**
+- Su origen es Orka, pero poco a poco se fueron distanciando.
+- Los Orka a lo fisico y los Akro a lo espiritual.
+- Siguen una tradición contemplativa y visionaria (paralelo Lunari / herejías frente al culto dominante).  
 - Su prestigio inicial provenía de la sabiduría y la clarividencia.
 
 1.3 **Relación con el Colapso**  
@@ -23,7 +23,7 @@ Pueblo profético casi destruido, obligado a sobrevivir en la clandestinidad, la
 ## 2. Estructura política y social
 
 2.1 **Forma de gobierno**  
-- No tienen Estado formal; se organizan en redes clandestinas.  
+- Ya no tienen Estado formal; se organizan en redes clandestinas.  
 - Núcleo espiritual y político: la **Sacerdotisa**.
 
 2.2 **Órganos de poder**  
@@ -32,8 +32,7 @@ Pueblo profético casi destruido, obligado a sobrevivir en la clandestinidad, la
 - Redes de Lamento: núcleos de resistencia dispersos.
 
 2.3 **Sucesión and movilidad**  
-- La Sacerdotisa se elige por visiones y capacidad de previsión.  
-- Puede ser reemplazada si se percibe que ha perdido conexión espiritual.  
+- La Sacerdotisa se elige por visiones y capacidad de previsión.
 - Movilidad interna basada en respeto, edad y experiencia, no en linaje.
 
 2.4 **Clases / castas / estamentos**  
@@ -123,7 +122,7 @@ Pueblo profético casi destruido, obligado a sobrevivir en la clandestinidad, la
 - No controlan territorios visibles; viven dispersos en dominios ajenos o zonas remotas.
 
 7.2 **Materiales y estilo arquitectónico**  
-- Refugios excavados en roca o camuflados en estructuras ya existentes.  
+- Refugios camuflados en estructuras ya existentes.  
 - Estilo funcional y casi invisible.
 
 7.3 **Estructura urbana**  
@@ -137,15 +136,17 @@ Pueblo profético casi destruido, obligado a sobrevivir en la clandestinidad, la
 
 ## 8. Rasgos físicos, estética y símbolos
 
+Debido a la influencia de los Teeli y la enfogamia. Los Akro actualmente tienen más rasgos fisicos Teeli que los propios Teeli, cuyo gen se ha ido diluyendo (y fortaleciendo con la mezcla).
+
 8.1 **Rasgos físicos típicos**  
-- Piel muy clara (alabastro a marfil).  
+- Piel clara o muy clara.  
 - Cabello negro (a menudo teñido para unificar aspecto), castaño o rubio oscuro.  
 - Ojos claros (azules, verdes, grises, ámbar).  
 - Estatura alta y complexión esbelta; rasgos delicados.
 
 8.2 **Vestimenta**  
 - Esclavizados: ropa básica negra o marrón con escudos de casas Orka.  
-- Libres: siempre en negro, con prendas cómodas y discretas.  
+- Libres: siempre en negro, con prendas cómodas, discretas y androginas.
 
 8.3 **Símbolos e identidad visual**  
 - El negro como color identitario.  
@@ -157,7 +158,7 @@ Pueblo profético casi destruido, obligado a sobrevivir en la clandestinidad, la
 
 9.1 **Imagen que proyectan**  
 - Propia: víctimas resilientes que cargan con un saber maldito.  
-- Externa: herejes peligrosos y ladrones, según la propaganda Orka y Solari.
+- Externa: herejes peligrosos y ladrones, según la propaganda Orka.
 
 9.2 **Alianzas, enemistades y dependencias**  
 - Enemigos: Orka (por genocidio y esclavitud).  
@@ -173,20 +174,3 @@ Pueblo profético casi destruido, obligado a sobrevivir en la clandestinidad, la
 10.1 **Bloques o facciones**  
 - Aislacionistas: quieren desaparecer del mapa y evitar todo protagonismo.  
 - Activistas: creen que deben intervenir y revelar verdades, aunque sea peligroso.
-
-10.2 **Conflictos internos clave**  
-- Cuánto revelar del conocimiento profético.  
-- Qué precio están dispuestos a pagar por justicia o venganza.
-
----
-
-## 11. Ganchos narrativos
-
-11.1 **Secretos estructurales**  
-- Detalles concretos de la profecía original del Colapso.  
-- Posible visión futura que repite patrones de silencio y persecución.
-
-11.2 **Tipos de personajes ejemplares**  
-- **Alta autoridad**: Sacerdotisa dividida entre advertir al mundo o proteger a los suyos.  
-- **Clase media**: espía o ladrón que usa sus habilidades para sostener refugios.  
-- **Marginal**: esclavo Akro que empieza a recordar rituales prohibidos de su infancia.

@@ -1,13 +1,11 @@
-# Henso
-
 ## 1. Identidad general
 
 1.1 **Resumen en una frase**  
-Teocracia aislada, maestra de la navegación y de un recurso único, que sacrifica apertura por pureza y control espiritual.
+Teocracia aislada con un recurso único, que sacrifica apertura por pureza y control espiritual.
 
 1.2 **Origen e influencias**  
 - Referente meta: Japón en transición Edo–apertura, interrumpida por el Colapso.  
-- Justo cuando iban a “modernizarse”, el Colapso y la coronación del Rey-Dios consolidan un cierre interno.  
+- Justo cuando iban a “modernizarse”, el Colapso y la coronación del Rey-Dios consolidan y refuerzan un cierre interno.  
 
 1.3 **Relación con el Colapso**  
 - Sufrieron poco daño directo y permanecieron relativamente intactos.  
@@ -31,13 +29,13 @@ Teocracia aislada, maestra de la navegación y de un recurso único, que sacrifi
 - Tres castas funcionales: Navegantes, Custodios y Silenciosos.  
 
 2.3 **Sucesión y movilidad**  
-- Sucesión del Rey-Dios marcada por señales divinas o líneas predeterminadas.  
-- Teóricamente vitalicia, pero puede ser desafiada si se interpreta que ha perdido el favor divino.  
+ 
+- Teóricamente vitalicia.
 - Movilidad social limitada pero no inexistente; depende de devoción y servicio.
 
 2.4 **Clases / castas / estamentos**  
 - Rey-Dios.  
-- Sacerdotes y Custodios del henso (el material).  
+- Sacerdotes y Custodios.
 - Navegantes y constructores navales.  
 - Silenciosos (casta más baja, orientada a servicio y contemplación).
 
@@ -59,7 +57,7 @@ Teocracia aislada, maestra de la navegación y de un recurso único, que sacrifi
 - Comercio cuidadosamente filtrado para evitar “contaminación cultural”.
 
 3.4 **Prácticas oscuras o marginales**  
-- Red de comercio secreta con rutas deliberadamente ocultas.  
+- Red de comercio secreta con rutas deliberadamente ocultas con conexión con Mieru.
 - Posible uso de información privilegiada de mareas y corrientes para manipular a otros.
 
 ---

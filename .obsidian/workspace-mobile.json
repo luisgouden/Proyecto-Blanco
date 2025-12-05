@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmo - mundo blanco.md",
+                "file": "Razas/velkorae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmo - mundo blanco"
+              "title": "velkorae"
             }
           }
         ]
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Cosmo - mundo blanco.md",
+            "file": "Razas/velkorae.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,6 +125,12 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "Razas/Orka.md",
+    "Razas/Henso.md",
+    "Razas/velkorae.md",
+    "Razas/Mieru.md",
+    "Razas/Teeli.md",
+    "Razas/Akro.md",
     "Cosmo.md",
     "Eras.md",
     "_Makin Of/gpt/heim_gpt_3 1.md",
@@ -145,11 +151,6 @@
     "_Contexto/_Personajes/Maara.md",
     "_Contexto/_Personajes/Ladrones.md",
     "_Contexto/_Personajes/Ginn.md",
-    "_Contexto/_Personajes/Fichas/Zeliie.md",
-    "_Contexto/_Personajes/Fichas/Suri.md",
-    "_Contexto/_Personajes/Fichas/Sheed.md",
-    "_Contexto/_Personajes/Fichas/Norn.md",
-    "_Contexto/_Personajes/Fichas/Lorn.md",
     "Makin Of/Mapa_HEIM.jpg",
     "Makin Of/Mapa_planetas.jpg",
     "Makin Of/Arboles.canvas",

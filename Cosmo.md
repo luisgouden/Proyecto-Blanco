@@ -1,4 +1,10 @@
-### Matrioshkas de realidad
+## Temas recurrentes en Heim
+- **Indiferencia cósmica**: los niveles superiores (Aor, Tae, Deu) no son malvados ni benévolos; simplemente siguen existiendo, y sus errores arrastran mundos enteros.
+- **Poder ≠ comprensión**: los entidades tienen poder casi ilimitado sobre su escala, pero están tan atrapados en el sistema como los humanos. Sus errores son simplemente más grandes y sus consecuencias tambien.
+- **Accidente como motor**: El sistema planetario de Heim mismo es una matrioshka innecesaria dentro de la realidad del Deu (que creo por motivos egoistas); el mundo blanco es otro accidente aún más inestable creado por los entidades.
+- **Identidad frágil**: el mundo blanco empuja todo hacia la "materia base". Ser alguien es, literalmente, resistir un sistema que te quiere reducir a recurso.
+
+## Matrioshkas de realidad
 
 * **Nivel 0 – Aor**
   El océano absoluto de no-ser/ser.
@@ -16,7 +22,7 @@
   Dentro de estos universos, las entidades mayores tallan subestructuras: sistemas estelares, planos, mundos, mundos blancos, etc.
 
 ---
-### Aor – Caos en éxtasis
+## Aor – Caos en éxtasis
 
 **Nombre(s) y títulos**
 Aor. Caos en éxtasis. El todo y la nada.
@@ -53,7 +59,7 @@ Es la **definición de Existencia**: el hecho bruto de que “haya algo” en ve
 
 ---
 
-### Tae – La perfección ausente
+## Tae – La perfección ausente
 
 **Nombre(s) y títulos**
 Tae, la perfección ausente.
@@ -96,7 +102,7 @@ Ninguno. Tae no quiere nada.
 
 ---
 
-### Deu – El primer Error
+## Deu – El primer Error
 
 **Nombre(s) y títulos**
 Deu, el primer Error.
@@ -158,7 +164,7 @@ Pero:
 
 ---
 
-### Thy – El hambre insaciable
+## Thy – El hambre insaciable
 
 **Nombre(s) y títulos**
 Thy, el hambre insaciable.
@@ -201,7 +207,7 @@ Devorar ruido hasta que el sistema vuelva a un estado aceptable para Aor (pero e
 
 ---
 
-### Entidades mayores – Los Creadores
+## Entidades mayores – Los Creadores
 
 **Nombre(s) y títulos**
 Entidades mayores, “Los Creadores”.
@@ -246,7 +252,7 @@ Entidades mayores, “Los Creadores”.
 
 **Relación con el culto**
 
-* Los **Volk / Velkorae** buscan rastros de estos Creadores y, a partir de migas sueltas, levantan teologías deformadas.
+* Los **Volk / Velk** buscan rastros de estos Creadores y, a partir de migas sueltas, levantan teologías deformadas.
 * A escala humana, las entidades mayores **parecen dioses**, pero:
   * no son omniscientes,
   * no son moralmente superiores,
@@ -259,7 +265,7 @@ Entidades mayores, “Los Creadores”.
 
 ---
 
-### Entidades menores – Fragmentos brillantes
+## Entidades menores – Fragmentos brillantes
 
 **Nombre(s) y títulos**
 Entidades menores, fragmentos brillantes.
@@ -306,7 +312,7 @@ Entidades menores, fragmentos brillantes.
 
 ---
 
-### Soon – Parásitos de todas las líneas
+## Soon – Parásitos de todas las líneas
 
 **Nombre(s) y títulos**
 Soon.
@@ -355,9 +361,9 @@ Soon.
   * pero puede cambiar la historia de una persona, una ciudad o incluso ser clave en eventos como el Colapso.
 
 ---
-# Mundo blanco y materia blanca
+## Mundo blanco y materia blanca
 
-## 1. Mundo blanco
+### 1. Mundo blanco
 
 ### 1.1. Naturaleza
 
@@ -386,29 +392,29 @@ El nivel 1.5 no está pensado para los humanos y los seres inferiores.
   * todo tiende a disolverse en materia base.
 
 ---
-## 2. Materia blanca
+### 2. Materia blanca
 
-### 2.1. Mineria
+#### 2.1. Mineria
 
 - Tras ensayo-error (y muchas perdidas humanas) los humanos aprenden a entrar y permanecer en el mundo blanco
 - Tras un tiempo, aprenden a extraer la materia blanca y llevarla a Heim.
 
-### 2.2. Naturaleza de la materia blanca
+#### 2.2. Naturaleza de la materia blanca
 
 * Materia madre de las creaciones de las Entidades, análoga a células madre en biología.
 - Por eso la materia blanca es:
   * el equivalente a petróleo + plutonio,
   * extremadamente valiosa y peligrosa.
-### 2.3 Usos
+#### 2.3 Usos
 - La materia blanca con control y buena direccion es capaz de transformarse en cualquier material inanimado.
 - Una vez transformado, la materia se transforma en ese materia y deja de considerarse "materia blanca"
-### 2.3. Materia educada
+#### 2.4 Materia educada
 
 *  Es un tipo de materia que nunca se estabiliza: siempre regresa a su forma base tras usarla; 
 * La forma memorizada original actúa como “posición de reposo”:
   * como un muelle, la materia siempre intenta volver ahí.
   * cualquier configuración es un estado estirado al que quiere dejar de pertenecer.
-#### 2.3.1 Materia blanca con una o dos formas memorizadas:
+#### 2.4.1 Materia blanca con una o dos formas memorizadas:
   * anillo ↔ espada,
   * pared ↔ puerta,
   * estructura plegable, etc.
@@ -421,12 +427,12 @@ El nivel 1.5 no está pensado para los humanos y los seres inferiores.
   * cuanto más radical la transformación, más difícil es que la pieza dure.
 
 ---
-## 3. Portales
+### 3. Portales
 Los portales son conexiones entre Heim y el mundo blanco.
 Son aleatorios aunque tienen una relacion directa con la destruccion provocada por el Colapso.
 * Nadie sabe reproducirlos, se fantasea con “portales de bolsillo”, pero no existen versiones estables.
 ---
-## 4. Poder económico
+### 4. Poder económico
 
 * Controlar minas/portales = controlar fuente infinita de dinero y tecnologia.
 * **Teeli**:
@@ -438,12 +444,14 @@ Son aleatorios aunque tienen una relacion directa con la destruccion provocada p
 * **Henso**:
   * monopolio teocrático de ciertos portales.
 ---
+---
+---
 Sellos
 * Los habitantes vivos de Heim fueron materia blanca en origen.
 * Las Entidades escribieron sobre ellos para forzar que se estabilizaran en formas humanas.
 * Esos patrones de escritura avanzada son los **sellos**.
 * La teoría de sellos está casi perdida:
-  * el cuerpo de Riin/Zeliie y ciertos rituales Velkorae son de los pocos lugares donde pervive.
+  * el cuerpo de Riin/Zeliie y ciertos rituales Velk son de los pocos lugares donde pervive.
 * Efectos:
   * preservan forma e identidad en el mundo blanco,
   * pero “pagan” con el intelecto: disartria, dislexia, lagunas de memoria.
