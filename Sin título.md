@@ -1,0 +1,15 @@
+Contratos y anexos con estilo machine-only:
+- cada contrato solo puede definir un identificador corto.
+- deben usar un único término para cada concepto clave definido en `api`.
+- deben usar siempre el mismo término para el mismo concepto.
+- deben usar referencias internas solo en formato `§N` o `§N.M`.
+- deben indicar explícitamente cuando una regla dependa de otra sección (`según §2`, `§4`)
+- deben preferir verbos o expresiones únicas que recojan toda la obligación o restricción (`solo puede usar`, `no debe asumir`, `debe tener acceso`) en lugar de combinaciones de verbos débiles con refuerzos redundantes.
+- debe declarar en una línea dónde está definido físicamente cuando un contrato use un identificador corto.
+- deben declarar identificadores cortos, pertenencia de anexos y nombres de archivo dentro del texto normativo.
+- cuando un contrato defina un identificador corto (`api`, `w`, `h`), los demás contratos deben referirse a ese contrato por su identificador y no por el nombre de archivo.
+- no deben usar cabeceras externas tipo YAML para definir `schema`, `proyecto`, `annex` u otra metadata.
+- no deben añadir adverbios o locuciones que no cambien la obligación o restricción definida por el verbo normativo (`como mínimo`, `de forma`, `ya`, `claramente`, `posible` cuando no acota casos).
+- no deben introducir sinónimos para conceptos ya definidos en `api`.
+- no deben usar expresiones vagas como `ver arriba`, `como se dijo antes` o `más adelante`.
+- pueden usar términos técnicos o condensados si se definen en `api` o en el propio contrato y permiten eliminar perífrasis sin cambiar la semántica efectiva de la regla.

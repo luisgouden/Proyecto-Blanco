@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "e512aec5fd17917b",
+    "type": "split",
+    "children": [
+      {
+        "id": "30785a40acf39078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "403cd9c622d2409c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5489eddeb2f472d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "16f720676ca13057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a92fa0c62ee71d32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "122108fa43e9f262",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "60acd84a45ba5991",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "022a324f57cb3d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "03e644ee08299d46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d9b5cf7570421b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_IA/_Prompts/1 - Escribe capitulo/Sin título 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título 3"
+            }
+          },
+          {
+            "id": "be57a5a76c482841",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false
+    }
+  },
+  "active": "403cd9c622d2409c",
+  "lastOpenFiles": [
+    "_Contexto/Sin título.md",
+    "_Contexto/Situación.md",
+    "Worldbuiling.md",
+    "Razas.md",
+    "Paso 1.md",
+    "Expansion razas.md",
+    "Intentos/Primer intento.md",
+    "Intentos/Segundo intento.md",
+    "Intentos/__.md",
+    "Intentos/Sin título.md",
+    "Intentos/Sin título 1.md",
+    "Intentos/_.md",
+    "Intentos",
+    "Primer intento 2.md",
+    "Primer intento.md",
+    "Segundo intento.md",
+    "Paso 1 c.md",
+    "Sin título 3.md",
+    "Paso 1 b.md",
+    "_Contexto/Sin título 1.md",
+    "Makin Of/Nombres.md",
+    "Makin Of/Personajes.md",
+    "Makin Of/Religiones.md",
+    "Makin Of/SpinOff.md",
+    "Makin Of/Estructura.md",
+    "_Historia/3_extendido.md",
+    "Makin Of/Atlantis.md",
+    "Makin Of/Mapa_Suuri.jpg",
+    "-/photo_5943048734441060952_y.jpg",
+    "-/IMG_2297.jpg",
+    "-/Captura de pantalla 2024-08-17 102637.png",
+    "Makin Of/Arboles.canvas",
+    "Makin Of/Mapa_planetas.jpg",
+    "Makin Of/Mapa_HEIM.jpg",
+    "Mapa_HEIM.jpg",
+    "Mapa_Planetas.jpg",
+    "Proyecto-Blanco/Mapa_HEIM.jpg",
+    "Proyecto-Blanco.zip",
+    "Proyecto-Blanco/Mapa_Suuri.jpg",
+    "Proyecto-Blanco/magia.txt",
+    "Proyecto-Blanco",
+    "_Guía del Forjador",
+    "Makin Of/StoryWeaver",
+    "_Situación.pdf",
+    "-",
+    "_Contexto/_Personajes/Fichas",
+    "Makin Of/WorldBot",
+    "Arboles.canvas",
+    "Sin título.canvas",
+    "Untitled.canvas"
+  ]
+}

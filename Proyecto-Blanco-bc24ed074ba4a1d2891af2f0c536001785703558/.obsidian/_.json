@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "e512aec5fd17917b",
+    "type": "split",
+    "children": [
+      {
+        "id": "500cd8ae06b7c3c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df4ab66b461a136c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Contexto/_Personajes/Fichas/Suri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Suri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5489eddeb2f472d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "16f720676ca13057",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a92fa0c62ee71d32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "122108fa43e9f262",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "60acd84a45ba5991",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "022a324f57cb3d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "03e644ee08299d46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d9b5cf7570421b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_IA/_Prompts/1 - Escribe capitulo/Sin título 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título 3"
+            }
+          },
+          {
+            "id": "be57a5a76c482841",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false
+    }
+  },
+  "active": "df4ab66b461a136c",
+  "lastOpenFiles": [
+    "_Contexto/_Personajes/Fichas/Ginn.md",
+    "_Contexto/_Personajes/Fichas/Suri.md",
+    "_Contexto/_Personajes/Fichas/Sheed.md",
+    "_Contexto/_Personajes/Suri.md",
+    "_Contexto/_Personajes/Sin título.md",
+    "_Contexto/_Personajes/Fichas/Zeliie.md",
+    "_Escribicion/0.md",
+    "_Contexto/_Personajes/Zeliie.md",
+    "_Contexto/_Personajes/Ginn.md",
+    "_Contexto/_Personajes/Fichas",
+    "_Contexto/_Situación.md",
+    "_Contexto/_Personajes/Sheed.md",
+    "_Contexto/1 - Suri/Capitulo 1 - Suri.md",
+    "_Contexto/2 - Ginn/Capitulo 8.md",
+    "_Contexto/_Personajes/Riin.md",
+    "_Contexto/_Personajes/Maara.md",
+    "_Contexto/_Personajes/Ladrones.md",
+    "_Contexto/_Personajes/Secta.md",
+    "_Contexto/1 - Suri/Capitulo 6 - Sheed.md",
+    "_Contexto/1 - Suri/Capitulo 2 - Shed.md",
+    "_Contexto/2 - Ginn/Capitulo 25.md",
+    "_Contexto/2 - Ginn/Capitulo 19.md",
+    "_Contexto/1 - Suri/Capitulo 12 - Sheed.md",
+    "_Contexto/1 - Suri/Capitulo 16 - Shed.md",
+    "_Contexto/Secta.md",
+    "_Contexto/1 - Suri/Untitled.md",
+    "_Historia/4_ampliando.md",
+    "Makin Of/WorldBot",
+    "Makin Of/Arboles.canvas",
+    "Makin Of/Mapa_HEIM.jpg",
+    "Makin Of/Mapa_Suuri.jpg",
+    "Makin Of/Mapa_planetas.jpg",
+    "_IA/_Prompts/0",
+    "Makin Of",
+    "_IA/_Prompts/Potter",
+    "Arboles.canvas",
+    "Sin título.canvas",
+    "Mapa_Suuri.jpg",
+    "Mapa_planetas.jpg",
+    "Mapa_HEIM.jpg",
+    "Mapa_HEIM.ai",
+    "Mapa_HEIL.ai",
+    "Mapa_Akro.ai",
+    "Mapa_embajada.ai",
+    "Mapa_Henso.ai",
+    "MAPA2.jpg",
+    "Mapa-Suuri.jpg",
+    "PLANETAS.jpg",
+    "MAPA.jpg",
+    "Untitled.canvas"
+  ]
+}
