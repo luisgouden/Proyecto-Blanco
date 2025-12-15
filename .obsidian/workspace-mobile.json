@@ -11,10 +11,14 @@
             "id": "2c1a8aba32d63166",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "gpt_4 1 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "gpt_4 1 1"
             }
           }
         ]
@@ -121,6 +125,11 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "gpt_3.md",
+    "Sin título.md",
+    "Sin título 1.md",
+    "Sin título 2.md",
+    "Sin título 3.md",
     "Razas/Orka.md",
     "Razas/Henso.md",
     "Razas/velkorae.md",
@@ -137,16 +146,11 @@
     "cosmo_.md",
     "Core.md",
     "Lore.md",
-    "Sin título.md",
     "Razas.md",
     "Gnostic/Lore_DarkFantasy_Gnostico_.md",
     "_Contexto/Velkorae.md",
     "_Contexto/Situación.md",
     "_Contexto/Sin título.md",
-    "_Contexto/_Personajes/Riin.md",
-    "_Contexto/_Personajes/Maara.md",
-    "_Contexto/_Personajes/Ladrones.md",
-    "_Contexto/_Personajes/Ginn.md",
     "Makin Of/Mapa_HEIM.jpg",
     "Makin Of/Mapa_planetas.jpg",
     "Makin Of/Arboles.canvas",

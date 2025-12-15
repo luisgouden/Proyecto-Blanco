@@ -268,49 +268,122 @@ Entidades mayores, “Los Creadores”.
 ## Entidades menores – Fragmentos brillantes
 
 **Nombre(s) y títulos**
-Entidades menores, fragmentos brillantes.
+Entidades menores. Fragmentos brillantes.
 
-**Origen**
+## Origen
 
-* Son **errores a pequeña escala**:
+* Son **errores a pequeña escala**: micro-colisiones entre perturbaciones menores de **Aor** y un **ancla viva** (persona, animal, planta… y, raramente, un *sistema vivo* muy acoplado: colonia/micelio/biotopo).
+* La reacción es análoga a la que creó a **Deu**, pero **en miniatura, sin estabilidad y con ruido** (incompletas, sesgadas, “mal calibradas”).
+* No son “magia”: son **migas de un fallo ontológico** en un universo ya dominado por Deu y los Creadores.
 
-  * micro-colisiones entre perturbaciones menores de Aor
-  * y seres vivos concretos (personas, animales, plantas),
-  * en un universo ya dominado por Deu y los Creadores.
-* La reacción es análoga a la que creó a Deu, pero **en miniatura y sin estabilidad**.
+## Regla de coherencia (los límites universales)
 
-**Qué pueden / qué no pueden hacer**
+Si no se cumplen, deja de ser “menor” o rompe el tono de Heim.
 
-* Lo que pueden hacer depende del ser base:
+1. **Ancho de banda biológico**: su output no supera lo que el anfitrión puede **percibir/procesar** (visiones fragmentadas, telepatía ruidosa).
+2. **Sin creación limpia**: no crean “de la nada”; **reordenan/sesgan/deforman/transferencian** materia, memoria, identidad o probabilidad.
+3. **Coste siempre presente (deuda ontológica)**: cada uso paga (fatiga, erosión del yo, daño del ancla, tirón al mundo blanco, atraer ecos/depredadores/Velk/Soon).
+4. **Precisión limitada**: potentes pero **no finas** (literalidad, ambigüedad, sesgo emocional, falta de control o conocimiento).
 
-  * si era una persona: puede desarrollar una percepción o capacidad anómala,
-  * si era un animal o planta: puede adquirir conciencia, voluntad parcial, efectos sobre el entorno.
-* Sus capacidades **son potentes pero defectuosas**:
+**Regla de oro**: *si una entidad menor soluciona el mundo, ya no es menor*.
 
-  * nunca dan control total,
-  * siempre tienen un coste o un sesgo.
+## Qué pueden / qué no pueden hacer
 
-**Función narrativa**
+* Depende del **ser base/ancla**:
 
-* Son la forma en que la **trama y el lector intuyen que “hay algo más”** detrás de la realidad, pero:
+  * **Persona**: percepción anómala, sesgos de causalidad pequeña, fracturas de identidad.
+  * **Animal/planta**: conciencia parcial + efectos locales ligados a instinto/ciclo/territorio.
+  * **Territoriales (raras)**: el “ancla” es un **ecosistema**; “obedecen” a pactos/reglas del lugar, no a individuos.
+* Sus capacidades son **potentes pero defectuosas**:
+
+  * nunca dan control total ni repetibilidad industrial,
+  * siempre hay coste, sesgo, y fallos narrativos previsibles.
+
+## Familias de anomalía (menú de poderes compatible con Heim)
+
+Elige **una** como dominio principal (máximo dos si una es secundaria y con más coste).
+
+A) **Percepción**: futuros posibles, capas del mundo blanco, sellos/portales, pensamientos como ruido.
+B) **Identidad**: forma/rasgos/sexo, suplantación parcial, amnesia selectiva.
+C) **Causalidad pequeña**: suerte/mala suerte, coincidencias, micro-accidentes.
+D) **Materia local**: pudrir/cristalizar/soldar/reorganizar material cercano (sin “mundo blanco”).
+E) **Vínculo/Topología**: conexiones inestables entre cosas “casi conectadas”.
+
+## Ficha formal (para diseñarlas siempre igual)
+
+1. **Ancla**: ¿a qué está pegada? (persona/animal/planta/lugar/objeto/ecosistema)
+2. **Verbo (1)**: ¿qué hace en una frase? (ver / sesgar / copiar / pudrir / plegar…)
+3. **Dominio**: A–E
+4. **Alcance**: radio / línea de visión / contacto / “mismo techo”
+5. **Frecuencia**: constante / trances / 1 vez día / gatillo emocional
+6. **Precisión**: alta-media-baja (+ por qué falla)
+7. **Coste**: qué paga SIEMPRE + qué paga si fuerza
+8. **Fallo típico**: cómo sale mal narrativamente
+9. **Señal**: rastro físico/sensorial (ojos, olor, glitch, escarcha…)
+10. **Contramedida**: sello, distancia, privación sensorial, ritual, aislamiento del ancla…
+
+## Presupuesto de poder (para que no escale)
+
+Cuatro sliders (0–3). Una menor rara vez suma > **7**:
+
+* **Potencia**: cuánto cambia el mundo
+* **Control**: cuán a voluntad es
+* **Alcance**: cuán lejos llega
+* **Coste**: cuánto te destroza
+  Regla Heim: si subes Potencia, baja Control o sube Coste.
+
+## Plantillas por tipo de ancla (para animales/árboles/territoriales)
+
+### Si es un animal (móvil)
+
+* **Radio corto**, **control bajo** (instinto), **coste biológico**, **comunicación limitada**.
+  Campos extra:
+
+11. Instinto-gatillo (hambre/miedo/territorio/celo/proteger cría)
+12. Canal (mirada/olor/mordisco/aullido/saliva/plumas)
+13. Domesticabilidad: ¿qué pasa si intentan controlarlo? (rebote/huye/se “apaga”/vuelve peor)
+
+### Si es un árbol (estático)
+
+* **Alcance fijo**, **frecuencia lenta**, vector por **ingesta/contacto/permanencia**, coste de **identidad**.
+  Campos extra:
+
+11. Ciclo (estación/luna/sequía/incendio/años de fruto)
+12. Vector (fruto/polen/sombra/raíz/savia/hongos)
+13. Territorio (zonas: bajo copa/anillo raíces/agua subterránea)
+
+### Si es territorial (ecosistema)
+
+* “Obediencia” por **pacto**, reconocimiento por **marca/juramento/sello simple**, límites por **radio y medio** (agua, cuevas, etc.), rebote al intentar sacarlo del lugar.
+
+## Función narrativa
+
+* Son cómo la trama (y el lector) intuyen que **“hay algo más”**:
 
   * a escala humana,
-  * sin revelar el mecanismo completo.
-* Son **migas de pan** de un sistema roto.
+  * sin revelar el mecanismo completo,
+  * mostrando que el sistema está **roto** y que poder ≠ comprensión.
+* Son **migas de pan**: poder como problema, no como solución.
 
-**Ganchos (ejemplos)**
+## Ganchos (ejemplos)
 
-* Un árbol cuyos frutos te hacen ver **otras versiones posibles de ti mismo**, pero nunca sabes si son alternativas, mentiras o recuerdos falsos.
-* Una persona que entra en trance y **ve posibilidades de futuro**, nunca un futuro fijo; se obsesiona intentando interpretar visiones contradictorias.
-* Una persona que puede **alterar su sexo y forma corporal**, pero cada cambio erosiona partes de su memoria o de su identidad.
-* Un animal con intelecto humano **encerrado en un cuerpo que no puede articular lenguaje**, condenado a la incomunicación.
+* Árbol cuyos frutos muestran **otros tú**, pero sustituyen recuerdos reales por plausibles (Identidad).
+* Persona que entra en trance y ve **posibles futuros**, nunca certezas (Percepción).
+* Persona que altera su forma, pero cada cambio **erosiona el yo** (Identidad).
+* Animal con intelecto humano atrapado sin lenguaje: entiende, pero no puede explicarlo (Ancho de banda/Comunicación).
+* **Serpientes acuáticas guardianas**: entidad menor territorial; protegen a “habitantes marcados” y reclasifican a intrusos si se rompe el pacto (Territorial + Causalidad/Percepción local).
 
-**Escala de intervención**
+## Escala de intervención
 
-* Pequeña o muy pequeña.
-* Son importantes para personajes y tramas concretas, pero no arreglan ni rompen el sistema global.
+* **Pequeña o muy pequeña**: crucial para personajes/zonas, incapaz de arreglar el Colapso o industrializarse sin romperse.
+
+## Contención de escala (anti-problemas típicos)
+
+* **Reproducción**: si hay crías/semillas, no todas heredan; herencia **diluida y distinta** (más débil y rara).
+* **Mercantilización**: si alguien intenta explotarlo, añade **inestabilidad**, **rebote**, **coste acumulativo** o dependencia de la **voluntad del ancla**.
 
 ---
+
 
 ## Soon – Parásitos de todas las líneas
 
@@ -443,6 +516,18 @@ Son aleatorios aunque tienen una relacion directa con la destruccion provocada p
   * tienen más poder político que control directo de materia.
 * **Henso**:
   * monopolio teocrático de ciertos portales.
+  
+### 5. Notas
+
+- Es un **material físico**, no “magia”: responde a **información + conocimiento + técnica**, no a fe ni talento místico.
+- Regla dura: **no se convierte en energía** (no sirve como combustible, no da electricidad). Solo **materia inanimada**.
+- Para transformarla necesitas **comprensión real** del objeto (partes, tolerancias, por qué funciona). No permite saltarte el conocimiento: solo acorta/manipula manufactura si ya sabes.
+- La conversión **no es 1:1**: varía por **complejidad** y **expertise** (puede ser muy eficiente con cosas simples y expertos, o un desastre si no se entiende).
+- Usos típicos: **infraestructura**, **fortificación**, **piezas críticas**, **armas/equipo de élite**, **precisión** (cerraduras, sellos, instrumentos). Poco sentido en bienes baratos o producción masiva.
+- “Materia educada”: subcaso preparado para “recordar” 1–2 formas estables (carísima y de diseño extremo), útil para dispositivos limitados (no para “comunicación tipo telégrafo” a gran escala).
+
+
+
 ---
 ---
 ---
