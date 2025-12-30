@@ -10,11 +10,11 @@ En el palacio de Suuri, en una dimensión imaginaria con diferentes razas, cultu
 
 ## Personajes:
 ### principal:
-![[_Contexto/_Personajes/Ginn#- Ginn]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Ginn#- Ginn]]
 ### secundarios:
-![[_Contexto/_Personajes/Zeliie#- Shire]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Zeliie#- Shire]]
 ### terciario:
-![[_Contexto/_Personajes/Ginn#- Siervo]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Ginn#- Siervo]]
 
 ## Contexto:
 

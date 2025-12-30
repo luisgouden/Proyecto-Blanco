@@ -8,15 +8,23 @@
 
 * **Nivel 0 – Aor**
   El océano absoluto de no-ser/ser.
+  Ni Entidades ni humanos pueden ni deben intuir y mucho menos conocer / entender este nivel. 
+  No aparece en el libro, es solo un marco definitivo y causante y consecuencia de lo que ocurre.
 
 * **Nivel 1 – Perturbaciones mayores de Aor**
   Aquí aparecen **Tae** y, como error improbable, **Deu**.
   Son patrones estables dentro del ruido, como vórtices en un mar.
+  Conocido solo por entidades mayores, las entidades menores pueden vislumbrarlo, soñarlo pero siempre fraccionado, corrupto o deforme.
+  No directamente aparece en el libro, es un lugar ontologico que los humanos pueden comprender.
+
 * **Nivel 1.5 – Umbral de creación**
   Zona limítrofe, un **espacio-taller** donde se esculpen universos y estructuras, diseñado para probar y amortiguar cambios en la realidad:
 	* Partes de este nivel se condensan luego en cosas como el **mundo blanco**.
 	* pero mal aislado → filtraciones de tiempo, espacio e identidad hacia Heim.
 	* Las entidades mayores que **pasan mucho tiempo en el nivel 1.5** dejan residuos de voluntad y percepción que cristalizan en seres: los **Soon**.
+
+  Este lugar no se creo para ser habitado. Es un umbral, una puerta entre el nivel 1 y el nivel 3. Ni entidades ni humanos deberian estar y mucho menos pertener aqui.
+
 * **Nivel 2 – Universos de Deu**
   Continuos completos creados por Deu (uno de ellos es el universo donde existe Heim).
   Dentro de estos universos, las entidades mayores tallan subestructuras: sistemas estelares, planos, mundos, mundos blancos, etc.

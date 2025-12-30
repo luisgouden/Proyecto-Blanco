@@ -10,9 +10,9 @@ El mundo blanco, en una dimensión imaginaria con diferentes razas, culturas, ev
 
 ## Personajes:
 ### principal:
-![[_Contexto/_Personajes/Ginn#- Ginn]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Ginn#- Ginn]]
 ### terciario
-![[_Contexto/_Personajes/Ginn#- Zeliie]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Ginn#- Zeliie]]
 ## Contexto:
 -   Antes de este capítulo: 
 -   El conflicto principal del capítulo es: La "Resurrección" de GInn.

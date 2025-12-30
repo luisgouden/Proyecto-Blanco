@@ -22,9 +22,12 @@
 ### 3) Estado tecnológico general
 
 - **Base ~1750**: mundo preindustrial con foco naval. Lo más “avanzado” se nota en **barcos, navegación, puertos y logística marítima**.
-- Lo raro o inexistente: **ferrocarril**, **industria pesada masiva**, **electricidad utilitaria** y telecom tipo telégrafo.
-- **El Colapso** no solo destruye: rompe **la transmisión del saber** (academias, bibliotecas, currículos, manuales), así que el progreso va **a trompicones** y se re-inventa mucho.
+- Lo casi unico / magia o inexistente: **ferrocarril**, **industria pesada masiva**, **electricidad utilitaria** y telecom tipo telégrafo.
+- **El Colapso** no solo destruye y mata personas, rompe **la transmisión del saber** (academias, bibliotecas, currículos, manuales), así que el progreso va **a trompicones** y se re-inventa mucho.
 - Tras el Colapso, la I+D se reorienta casi obsesivamente a la **materia blanca**, dejando atrás mejoras “de calidad de vida”.
+
+
+---
 
 ### 4) Comunicación
 

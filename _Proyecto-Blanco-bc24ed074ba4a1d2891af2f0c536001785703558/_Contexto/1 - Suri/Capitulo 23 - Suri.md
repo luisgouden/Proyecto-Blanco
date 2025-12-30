@@ -11,7 +11,7 @@ Palacio en la ciudad de Suuri, en una dimensión imaginaria con diferentes razas
 
 ## personajes:
 ### principal:
-![[_Contexto/_Personajes/Suri#- Suri]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Suri#- Suri]]
 
 ### secundarios:
 

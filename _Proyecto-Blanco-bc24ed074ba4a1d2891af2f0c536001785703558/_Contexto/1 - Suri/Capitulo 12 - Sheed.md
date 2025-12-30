@@ -11,10 +11,10 @@ La ciudad de Suuri y sus suburbios, en una dimensión imaginaria con diferentes 
 
 ## Personajes:
 ### principal:
-![[_Contexto/_Personajes/Ginn#- Shed]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Ginn#- Shed]]
 
 ### Secundario:
-![[_Contexto/_Personajes/Zeliie#- Shire]]
+![[_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Zeliie#- Shire]]
 
 ## Contexto:
 -   Antes de este capítulo: Suri le ha dado la orden a Sheed de que tiene que encontrar a un mercenario o ladrón para que entre en el palacio sin que lo implique directamente. Asi que tiene que ser discreta.

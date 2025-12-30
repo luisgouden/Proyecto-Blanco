@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "80537c60a31de0ba",
+        "id": "671a8acc4b59a1b5",
         "type": "tabs",
         "children": [
           {
-            "id": "89b7888d926b7dc0",
+            "id": "41497d41b76ef26d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cosmo.md",
+                "file": "Lore 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmo"
+              "title": "Lore 3"
+            }
+          },
+          {
+            "id": "e7d77b41734c940f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Velk 4 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velk 4 1"
+            }
+          },
+          {
+            "id": "ce90f5a38550bc2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Razas/Henso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Henso"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,48 +167,48 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "89b7888d926b7dc0",
+  "active": "e7d77b41734c940f",
   "lastOpenFiles": [
-    "Sin título 3.md",
-    "Sin título 2.md",
-    "Sin título 1.md",
-    "Sin título.md",
-    "Lore.md",
-    "www 1.md",
-    "www.md",
+    "Velk 4.md",
+    "Velk 4 1.md",
+    "Velk 3.md",
+    "Gnosticismo 1.md",
     "Cosmo.md",
-    "gpt_4 1 1.md",
-    "gpt_4 1.md",
-    "gpt_4.md",
-    "gpt_2.md",
-    "gpt_3.md",
-    "gpt_1.md",
+    "Gnosticismo.md",
+    "Razas/Henso.md",
+    "Lore 3.md",
+    "Razas/Orka.md",
+    "Lore 3 1.md",
+    "Velk 2.md",
+    "Velk 1.md",
+    "Lore 2.md",
+    "Lore.md",
+    "Analisis 3.md",
+    "Velk 2 1.md",
+    "Velk 1 1.md",
+    "Analisis 4.md",
+    "Eras.md",
+    "Sin título.md",
+    "Analisis 2.md",
+    "Analisis 1.md",
+    "Razas/Velk.md",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/1 - Suri/Capitulo 1 - Suri.md",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/Worldbuiling.md",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/Razas.md",
+    "gpt",
     "_Makin Of/Mapas/Mapa_HEIM.jpg",
     "_Makin Of/Mapas/Mapa_Suuri.jpg",
     "_Makin Of/Mapas/Mapa_planetas.jpg",
-    "Eras.md",
-    "Razas/Teeli.md",
-    "Razas/Henso.md",
-    "Razas/Orka.md",
-    "Razas/Akro.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Zeliie.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Suri.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Sheed.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Norn.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Lorn.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Korn.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Ginn.md",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/7 - Riin",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/6 -  Zeliie",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/5- Secta",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/4 - Lunari",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/3 - Maara",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/2 - Ginn",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/1 - Suri",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/Makin Of/Arboles.canvas",
-    "Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/magia.txt",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/7 - Riin",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/6 -  Zeliie",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/5- Secta",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/4 - Lunari",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/3 - Maara",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/2 - Ginn",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/1 - Suri",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/Makin Of/Arboles.canvas",
     "_Makin Of/Capitulos.jpg",
     "_Makin Of/Arboles.canvas",
     "Makin Of/Capitulos.jpg",
