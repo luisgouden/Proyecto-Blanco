@@ -11,14 +11,17 @@
             "id": "2c1a8aba32d63166",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Cosmo.md",
-                "mode": "source",
-                "source": false
+                "file": "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/Makin Of/Arboles.canvas",
+                "viewState": {
+                  "x": -1595.3053435114502,
+                  "y": -642.1870229007636,
+                  "zoom": -2.7622920049642796
+                }
               },
-              "icon": "lucide-file",
-              "title": "Cosmo"
+              "icon": "lucide-layout-dashboard",
+              "title": "Arboles"
             }
           }
         ]
@@ -125,14 +128,21 @@
   },
   "active": "2c1a8aba32d63166",
   "lastOpenFiles": [
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/Makin Of/Evolucion.md",
+    "_Makin Of/Mapas/Mapa_planetas.jpg",
+    "_Scripto 2/heim_contexto.md",
+    "Cosmo.md",
+    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/Makin Of/Arbol genealogico.md",
+    "Gnosticismo.md",
+    "Velk 2.md",
+    "_Makin Of/Mapas/planet_5549km_4islands_mercator_distances.png",
+    "_Makin Of/Atlantis.md",
     "Gnosticismo 1.md",
     "Lore 3 1.md",
-    "Gnosticismo.md",
     "Velk 4 1.md",
     "Velk 4.md",
     "Velk 3.md",
     "Velk 2 1.md",
-    "Velk 2.md",
     "Velk 1.md",
     "Sin título.md",
     "Analisis 1.md",
@@ -146,11 +156,6 @@
     "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas/Norn.md",
     "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/6 -  Zeliie/Capitulo 13.md",
     "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/6 -  Zeliie/Capitulo 5.md",
-    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/6 -  Zeliie/Capitulo 0.md",
-    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/3 - Maara/Capitulo 22.md",
-    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/3 - Maara/Capitulo 18.md",
-    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/3 - Maara/Capitulo 4.md",
-    "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/3 - Maara/Capitulo 11.md",
     "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/_Personajes/Fichas",
     "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/6 -  Zeliie",
     "_Proyecto-Blanco-bc24ed074ba4a1d2891af2f0c536001785703558/_Contexto/3 - Maara",
@@ -171,7 +176,6 @@
     "Mapa_Suuri.jpg",
     "Mapa-Suuri.jpg",
     "MAPA2.jpg",
-    "MAPA.jpg",
-    "PLANETAS.jpg"
+    "MAPA.jpg"
   ]
 }

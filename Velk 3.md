@@ -1,10 +1,6 @@
-
-Esto es lo que tengo por ahora, Aun no se que nombre ponerle ni que estructura puede tener.
-
 ## Sociedad Secreta
 
 En las sombras de estas civilizaciones opera una **secta transversal**. Esta sociedad secreta ha extendido sus tentáculos por todo Heim, infiltrándose en cortes, academias y templos, con un objetivo oculto y ambicioso: **acceder a los Creadores** – las entidades cósmicas que dieron forma al mundo. A continuación, se detallan sus características, origen y métodos.
-
 **Resumen en una frase:** Son una secta oculta que manipula la historia y los poderes de Heim desde las sombras, buscando desencadenar acontecimientos que les permitan **contactar y ascender hacia las entidades superiores** que habitan más allá del mundo conocido.
 
 ### 6.1 Origen y Evolución
@@ -12,7 +8,7 @@ En las sombras de estas civilizaciones opera una **secta transversal**. Esta soc
 - **Nacimiento esotérico:** Sus orígenes se remontan a **algunos años antes del Colapso** (aunque algunos miembros claman linaje aún más antiguo). Inicialmente surgieron como una **sociedad metafisica** dentro de ciertos círculos académicos Teeli y cultos esotericos Orka. Un pequeño grupo de eruditos, sacerdotes desafectos y nobles ambiciosos compartían un rasgo: la convicción de que existía una **realidad más alta** tras el velo de este mundo. Intercambiaron textos prohibidos, fragmentos de profecías y ruinas antiguas, tejiendo así la base de una teología oculta común.
 
 - **Influencia del Colapso:** Cuando ocurrió el Colapso, muchos integrantes iniciales murieron, pero los sobrevivientes vieron confirmadas sus creencias: aquello no fue un desastre natural cualquiera, sino una **fisura entre realidades**. La secta se reorganizó tras el cataclismo, transformándose de círculo intelectual a **red conspirativa activa**. Aprovecharon el caos poscolapso para robar saberes de las ruinas de Liito, falsificar relatos sobre lo ocurrido y colocar discretamente aliados en posiciones de poder en Orka y Teeli (por ejemplo, algunos consejeros de reyes Teeli tras el Pacto, y ciertos sacerdotes menores del Sol en Orka, eran ya encubiertos).
-    
+
 - **Expansión en las capitales:** En las décadas siguientes, los extendieron su influencia a las tres grandes capitales (la nueva capital provisional Teeli, la corte imperial Orka, y eventualmente incluso la aislada capital Henso mediante espías convertidos). Lo hicieron manteniendo un **perfil bajo**: nunca actúan abiertamente como una organización. En su lugar, conforman un **“orden dentro del desorden”**
 
 ### 6.2 Creencias y Objetivos
@@ -22,19 +18,13 @@ En las sombras de estas civilizaciones opera una **secta transversal**. Esta soc
 - Despues de años de estudio han conocido la figura de Deu, pero no como creador de realidades, sino como un entidad superior mas.
 - Thy tambien aparece aparece a veces como figura de destruccion o como purificadora, dependiendo el contexto.
 
-
 - **Objetivo final:** Alcanzar un camino y comunicacion estable con los Creadores. Creen que logrando esto obtendrán:
-    
     - **Poder inmortal:** unirse a la escala de los Creadores y no temer la disolución que acecha a los mortales.
-        
     - **Conocimiento total:** comprender el diseño del cosmos, dominando así tanto Heim como el mundo blanco.
-        
     - **Dominio sobre el destino:** si logran influir a alguna entidad mayor, podrían rehacer partes de la realidad a su conveniencia, corrigiendo el “error” de su propia existencia finita.
-        
 - **Actitud hacia las entidades cósmicas:** A diferencia de los pueblos comunes que las ignoran o malinterpretan, ellos **veneran y temen** a la vez a estas entidades. No las ven como moralmente buenas o malas, sino como fuerzas a aplacar o conquistar. Por ejemplo, en su panteón oculto:
-    
     -  El mundo blanco: Es visto como un paraíso inalcanzable, una meta filosófica de pureza que jamás tocarán pero cuyo reflejo buscan.
-    - Las **Entidades mayores** (Creadores menores como _Kel_ la estrella, etc.) son consideradas santos o emisarios: intentan recopilar todos los mitos y teofanías relacionadas con ellos. Han construido cultos fachada dedicados a estas entidades en distintos lugares para recopilar fieles y conocimiento (por ejemplo, un culto solar hereje dentro de Orka que secreta y verdaderamente venera a _Kel_ en lugar del abstracto dios Sol). En algunos círculos radicales, incluso se discute sacrificar poblaciones enteras llegado el momento para saciar a Thy y protegerse ellos, lo que demuestra su amoralidad extrema.
+    - Las **Entidades mayores** (que ellos llaman Los Creadores) son consideradas santos o emisarios: intentan recopilar todos los mitos y teofanías relacionadas con ellos. Han construido cultos fachada dedicados a estas entidades en distintos lugares para recopilar fieles y conocimiento (por ejemplo, un culto solar hereje dentro de Orka que secreta y verdaderamente venera a _Kel_ en lugar del abstracto dios Sol). En algunos círculos radicales, incluso se discute sacrificar poblaciones enteras llegado el momento para saciar a Thy y protegerse ellos, lo que demuestra su amoralidad extrema.
         
 - **Justificación moral interna:** Puertas adentro, se ven a sí mismos como los **únicos lúcidos** en un mundo de ciegos. Creen que la humanidad (y demás razas) es débil y no merece conocer las verdades ontológicas, porque caerían en la locura o la anarquía. Así, se adjudican el derecho de manipular, mentir y sacrificar a otros “por un bien mayor”: ese bien sería salvar a Heim del próximo gran cataclismo _solo para ellos_. En resumidas cuentas, su moral es utilitarista y elitista llevada al extremo: **ellos** son los elegidos, los demás son piezas en el tablero cósmico.
     
@@ -44,12 +34,9 @@ En las sombras de estas civilizaciones opera una **secta transversal**. Esta soc
 - **Células y círculos:**se organizan en **células discretas** repartidas por ciudades clave. Cada célula suele presentarse como algo inofensivo:
     
     - En Orka, puede ser un **culto de misterio nocturno** donde nobles juegan a una suerte de francmasonería militar.
-        
     - En Teeli, una **sociedad filosófica privada** que debate textos prohibidos tras puertas cerradas.
-        
     - En Mieru, quizá un **club de comerciantes** que intercambian secretos a cambio de favores.  
         Estas células tienen autonomía para sus operaciones locales pero responden a una jerarquía superior.
-        
 - En la cúspide de la secta existe un consejo central. Sus identidades son secretas incluso dentro de la secta; se comunican con las células mediante emisarios o mensajes cifrados. Este consejo traza las grandes directrices: por ejemplo, puede ordenar fomentar una guerra entre Orka y Teeli si eso crea caos propicio para buscar portales, o puede decidir asesinar a cierto inventor que esté cerca de descubrir demasiado sobre la materia blanca sin su control.
     
 - **Infiltración y manipulación:** Su método principal es **infiltrar** instituciones existentes en lugar ofrentar su propia estructura visible. Han colocado agentes o sobornado a personajes cercanos al poder:
@@ -72,8 +59,6 @@ En las sombras de estas civilizaciones opera una **secta transversal**. Esta soc
 
 ### 6.4 Actividades Notables y Rumores
 
-- **Cultos fachada:** Han fundado o cooptado varios cultos visibles para encubrir sus operaciones. Por ejemplo, en Orka existe el **Culto del Eclipse**, oficialmente perseguido por adorar una versión “corrupta” del dios Sol (lo representan negro, eclipsado). Detrás de este culto herético están ellos, y a través de él reclutan a fanáticos dispuestos a todo, al tiempo que hacen creer al Imperio que se trata solo de disidencia religiosa interna. Otro ejemplo es una **Orden de Astrólogos** en Teeli que públicamente publica horóscopos inocentes, pero cuyos líderes realmente trabajan para predecir conjunciones cósmicas útiles a la secta.
-    
 - **Manipulación histórica:** Se sospecha que varios eventos clave de los últimos 100 años tuvieron influencia por ellos:
     
     - _El Pacto matrimonial_ entre Orka y Teeli, según rumores, fue orquestado por sus agentes en ambos bandos para forzar la adopción del Krag (lo que centralizó la economía, facilitando a la secta control financiero). Asimismo, el desarme relativo tras el Pacto les tiempo para crecer sin ser notados en medio de la paz.
@@ -117,32 +102,3 @@ Quiero ampliar y formalizar más esta parte:
     - En Orka, funcionan como sociedades de juramento clandestinas dentro del ejército o el clero, donde altos oficiales juran pactos secretos intercambiando favores de poder.
         
     - En Henso, su penetración es mínima pero existente: algunos navegantes que salieron al mundo regresaron convertidos en dobles agentes, difundiendo dudas sobre el Rey-Dios entre sus círculos discretamente.
-
-- **Cultos fachada:**
-
-Voy a darte algunas referencias historicas y literarias de las que quiero inspirarme para crear toda la red de la secta:
-
-Referencias historias:
-
-- En el siglo XVIII. Este estudio describe cómo en la Europa del XVIII surgieron nuevas formas de reunión social (tertulias, salones, cafés) que se adaptaron a cada país.
-
-- las geishas eran artistas que entretenían con música, danza y conversación refinada, proporcionando ocio elegante sin ser prostitución.
-
-- Clubes secretos del siglo XVIII: por ejemplo, los _Hellfire Clubs_ británicos donde aristócratas hacían rituales hedonistas ocultos tras la fachada de una sociedad privada. También la Masonería, que en sus inicios funcionó como red de contactos políticos en entornos sociales discretos. Estas referencias históricas respaldan la idea de una secta manipulando gobiernos mediante reuniones sociales encubiertas.
-
-referencia literaria: Sociedades o ideas como  (Todos del comere de brandon sanderson):
-- Los Sangre Espectral
-- Los Hijos de Honor
-- Los Rompedores del Cielo
-- El Diagrama
-- La Decimoséptima Esquirla
-
-A escala menor:
-
-- Vislumbradores
-- Ire
-- Insomnes
-
-Quiero que me ayudes a crear (por ejemplo):
--  3 o 4 cultos fachada (pueden estar en activo o ya disueltos).
-  - 1 o 2 sociedades secretas mas mundanas.

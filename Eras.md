@@ -1,6 +1,5 @@
 ## Era 0  – Creacion
 
-
 ## Era 1 – Pre-Colapso (Atlantis)
 
 - Isla laboratorio donde se estudia el mar y las criaturas ligadas al mundo blanco.

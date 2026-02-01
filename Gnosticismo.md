@@ -1,6 +1,5 @@
-
 ### 2. EVENTO FUNDACIONAL — LA DESAPARICIÓN DEL SOL
-- **Hecho**: El Sol, una entidad mayor, fue devorado por Thy.
+- **Hecho**: El Sol, un ser divino ha sido devorado por Thy, otra entidad cosmica, dejado solo su cadaver.
 - **Consecuencia**: El mundo entró en un crepusculo perpetuo.
 - **Cronología**: Han pasado 113 años desde ese evento.
 ### 3. TRANSFORMACIÓN DEL MUNDO FÍSICO
@@ -14,9 +13,9 @@
 - **Cristales solares**: Fragmentos del Sol caído.
 - **Usos**:
   - Fuente de iluminación.
-  - repele la nuebla de Thymion.
+  - repele la nuebla de Thy.
   - Base de mecánicas de videojuego (claridad, corrupción, poderes especiales).
-- **Anti-luz**: Cristales infectados por Thymion que corrompen.
+- **Anti-luz**: Cristales infectados por Thy que corrompen.
 - **Zonas grises**: No toda luz es sanadora.
 ### 5. LA ORDEN
 - **Rol**: Religión-milicia encargada de mantener la luz y explorar zonas oscuras.
@@ -27,50 +26,48 @@
   - vigila el perimetro de los nuclos urbanos.
 ### 7. LUGARES CLAVE (MAPA)
 
-#### 📍 Bastión de la Orden — Cráter de Ilyôn
+#### Bastión de la Orden — Cráter de Ilyôn
 --Punto de impacto del Sol.  Capital del mundo. Fortaleza religiosa.
-#### 📍 Zona Corrupta
+#### Zona Corrupta
 - Región de niebla negra. Mutaciones permanentes.
 ### 9. REFERENCIAS ESTÉTICAS Y CONCEPTUALES
 - **Estética**:  decadente, ruinas, arquitectura congelada en el tiempo.
-## 🧩 ORDEN NÓMADA 
+## ORDEN NÓMADA 
 
-- **Nombre común**: La Orden
-- **Fundación**: Año 12 d.e.S.
-#### 🧩 JERARQUÍA PRINCIPAL
-- **Vigías**: patrulleros y guardianes del perímetro. Llevan pértigas rituales con cristales montados como faros. 
-- **Custodios: protegen rutas y escoltan fragmentos. Portan cristales en máscaras, yelmos o incrustaciones de armadura.
-- **Luminados**: oráculos en trance perpetuo, fusionados parcialmente con luz cristalina incrustada en su carne.
-- **Decuriones**: estrategas y altos cargos. Nunca tocan la luz directamente; gobiernan desde cámaras reforzadas.
-- **El Portador Blanco**: líder máximo. Siempre enmascarado, su rostro es desconocido. Se dice que es ciego, pero ve a través de la luz misma.
-#### 🛡️ APARIENCIA GENERAL
+- **Nombre Provisional**: La Orden
+#### JERARQUÍA PRINCIPAL
+- **Vigías** (Nombre Provisional): patrulleros y guardianes del perímetro. Llevan pértigas rituales con cristales montados como faros. 
+- **Custodios(Nombre Provisional): protegen rutas y escoltan fragmentos. Portan cristales en máscaras, yelmos o incrustaciones de armadura.
+- **Luminados**(Nombre Provisional): oráculos en trance perpetuo, fusionados parcialmente con luz cristalina incrustada en su carne.
+- **Decuriones**(Nombre Provisional):estrategas y altos cargos. Nunca tocan la luz directamente; gobiernan desde cámaras reforzadas.
+#### APARIENCIA GENERAL
 - Todos visten un híbrido de túnicas/capas funcionales, reforzadas con placas de armadura oxidada.
 - Las telas originales eran coloridas, pero con el paso del tiempo, la falta de tintes y la oscuridad las ha desteñido. Predominan los tonos negros, grises y cenicientos.
 - Solo los Custodios y superiores usan máscaras. Los más altos rangos no muestran nunca su rostro.
-### 🎯 **Naturaleza general**
+### **Naturaleza general**
 - No son una élite mágica ni una secta.
 - Son **sobrevivientes nómadas**, portadores de luz en un mundo en ruinas.
 - Caminan por necesidad, no por gloria.
 - Se mueven a través de un entorno hostil, corrupto y sin sol, cargando consigo restos de lo que fueron.
-### 👤 **Rostro y máscara**
-- **Siempre cubiertos**. El rostro no se muestra nunca fuera Venari.
+### **Rostro y máscara**
+- **Siempre cubiertos**. El rostro no se muestra nunca fuera del refugio.
 - Usan **máscaras o yelmos funcionales**, muchas veces con grietas, óxido o desgaste.
-- En la máscara se incrusta una **gema de luz** en la frente o en los ojos. Que no simboliza poder sino **resistencia y juicio**.
+- En la máscara se pueden incrustar **gemas de luz** en la frente o en los ojos. Que no simboliza poder sino **resistencia y juicio**.
 - Las gemas pueden estar apagadas, agrietadas o parpadeando según el estado del portador.
-### 💠 **Gema de luz**
+### **Gema de luz**
 - Integrada **directamente en la máscara**, no en bastones ni varas.
 - Es un **objeto técnico y espiritual al mismo tiempo**: fuente de luz, brújula, sensor, escudo.
 - No siempre brilla; reacciona al entorno y se puede deteriorar.
-### 🧥 **Vestimenta**
+### Vestimenta**
 - **Ropa funcional, no ceremonial, pero representativa**.
 - Mezcla de **tela vieja, cuero endurecido, armadura parcial y restos ensamblados**.
 - Las prendas fueron originalmente de colores diversos (granates, verdes, azules, marrones), pero la suciedad, el desgaste y la oscuridad han **deslavado todo hacia una gama sucia y apagada**.
 - Las capas, ponchos, cinturones múltiples y protecciones están **remendados, superpuestos y atados con lo que tengan a mano**.
-### 🪖 **Armadura**
+### **Armadura**
 - No es decorativa ni heroica, es funcional.
 - **Placas oxidadas o incompletas**, muchas veces de distintas procedencias.
-- Protege lo mínimo para sobrevivir en zonas infectadas por la estela Thymion.
-### 🌌 **Estética visual general**
+- Protege lo mínimo para sobrevivir en zonas infectadas por la estela Thy.
+### **Estética visual general**
 - Figuras desgastadas, marchitas, pero dignas.
 - No emanan oscuridad: **sobreviven la oscuridad**.
 - Su luz no purifica, **ilumina el camino que nadie más quiere recorrer**.
