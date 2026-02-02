@@ -85,7 +85,7 @@ Despues de casi 1 año sin tocar la historia no he podido aguantar las ganas. Ll
 - Tambien cree un mundo bastante interesante.
 - Cuando más o menos lo tenia consolidado me di cuenta que esta historia la podia incluir perfectamente en el sistema planetario que ya tenia y que ademas complementaba perfectamente con el. Gracias a eso ya tenemos todos los dioses, quienes son las razas grandes en las que inspirarme y que pasará con "el mundo blanco" cuando termine de crearse.
 
-
+## 15 H
 
 ## Trama
 - Ocean's Eleven

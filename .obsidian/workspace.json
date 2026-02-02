@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_gpt/gpt_6.md",
+                "file": "_Makin Of/Evolucion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gpt_6"
+              "title": "Evolucion"
+            }
+          },
+          {
+            "id": "5210428fca5a0c6f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_Makin Of/Mapas/Mapa_planetas.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Mapa_planetas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,41 +151,40 @@
       "markdown-importer:Abrir el importador de Markdown": false
     }
   },
-  "active": "41497d41b76ef26d",
+  "active": "5210428fca5a0c6f",
   "lastOpenFiles": [
-    "Secta.md",
-    "Secta 1.md",
-    "Velk 1.md",
-    "Velk 1 1.md",
-    "_gpt/gpt_6.md",
-    "Lore.md",
+    "_Makin Of/Mapas/planet_5549km_4islands_mercator_distances.png",
+    "_Makin Of/Nombres.md",
+    "_Makin Of/Evolucion.md",
+    "_Makin Of/Cronologia.md",
+    "_Makin Of/Capitulos 2.md",
+    "_Makin Of/Capitulos.jpg",
+    "_Makin Of/Capitulos.md",
+    "_Makin Of/SpinOff.md",
+    "_Makin Of/Atlantis.md",
+    "_Makin Of/Arboles.canvas",
+    "Personajes/Ginn.md",
+    "__ANA_Narrador.md",
+    "Cosmo.md",
     "Eras.md",
     "Gnosticismo.md",
+    "Lore.md",
+    "Velk 4.md",
+    "Velk 4 1.md",
+    "Velk 3.md",
+    "Velk 1 1.md",
+    "Velk 1.md",
+    "Secta.md",
+    "Secta 1.md",
+    "_gpt/gpt_6.md",
     "_Makin Of/Capitulo 4 - Maara.pdf",
     "_Makin Of/Capitulo 2 - Shed.pdf",
     "_Makin Of/Capitulo 1 - Suri.pdf",
-    "Velk 4.md",
     "Sin título.md",
-    "Velk 3.md",
-    "Velk 4 1.md",
     "Razas/Akro.md",
     "Razas/Velk.md",
-    "Cosmo.md",
     "Personajes/_personajes.md",
-    "_gpt/gpt_5.md",
-    "_gpt/gpt_4.md",
-    "_gpt/gpt_3.md",
-    "_gpt/gpt_2.md",
-    "_gpt/gpt_1.md",
-    "_Makin Of/Mapas/planet_5549km_4islands_mercator_distances.png",
     "_Makin Of/Mapas/Mapa_planetas.jpg",
-    "_Makin Of/Arboles.canvas",
-    "_Makin Of/Atlantis.md",
-    "_Makin Of/Capitulos.jpg",
-    "_Makin Of/Capitulos 2.md",
-    "_Makin Of/Capitulos.md",
-    "_Makin Of/SpinOff.md",
-    "_Makin Of/Nombres.md",
     "_gpt",
     "_Makin Of/Mapas/Mapa_HEIM.jpg",
     "_Makin Of/Mapas/Mapa_Suuri.jpg",
