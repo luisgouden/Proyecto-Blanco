@@ -11,8 +11,8 @@ Sólo crea descripciones _diferenciadas por POV_ cuando **quieras mentir/ocultar
 3. **Control fino del sesgo**: con _lentes_ por personaje manejas tono, sensoriedad, idiolecto y sesgos sin reescribir el mundo.
 4. **Compatibilidad con Auditor**: menos riesgo de contradicciones; pasa scorecard con facilidad.
 5. **Escalabilidad**: una novela río crece; los duplicados explotan. Las lentes escalan limpio.
-#### Cómo implementarlo (en tus anexos actuales)
-##### 1) En `scripto_contexto.md`: mantener **neutro**
+## Cómo implementarlo (en tus anexos actuales)
+## 1) En `scripto_contexto.md`: mantener **neutro**
 Añade o refuerza una sección de **lugares neutrales** (sin opiniones ni juicios de personaje).
 `#### §8 Lugares (neutros) - **Dársena Vieja**: muelles de madera oscura, olor a sal y brea; farolas de aceite parpadeante; tablazón húmeda. - **Torre de Humo**: piedra basáltica, ventilas altas; emisión constante de penachos; acceso con sello de la Orden. - **Mercado de Escamas**: lonas tensas, mesas con pescado plateado; cuchillos de hoja corta; pregones a media voz.`
 > Neutro = “qué hay”. Nada de “imponente”, “siniestro”, etc. Esos calificativos los aportará la **lente** del POV.
@@ -20,15 +20,17 @@ Añade o refuerza una sección de **lugares neutrales** (sin opiniones ni juicio
 Pega este bloque bajo cada personaje (ajústalo con tus valores):
 `##### Lente_POV sensorium: { vista: 7, olfato: 8, oído: 5, tacto: 6, gusto: 1 }   ### pesos 0–10 idiolecto:   registro: "estándar_cuidado"### p.ej., culto, popular, jerga_portuaria   jergas: ["portuario"]   figuras_base: ["frío","sal","humo"]  ### metáforas preferentes sesgos:   valores: { autoridad: 3, comunidad: 7, libertad: 6, orden: 4 }   ### 0–10   sesgos_cognitivos: ["desconfianza_autoridad","catastrofismo_suave"] conocimiento_bloqueado: ["rituales_internos_de_la_Orden"]  ### no puede narrar detalles que no conoce ceguera_selectiva: ["beneficios_sociales_de_la_Orden"] ### tiende a no ver “eso”`
 > Esto le dice a Scripto **cómo** ver y **cómo hablar** sin reescribir la realidad.
-##### 3) (Opcional, sólo si quieres **narrador no fiable**)
+## 3) (Opcional, sólo si quieres **narrador no fiable**)
 Cuando _intencionadamente_ quieras versiones incompatibles de un mismo hecho, usa **overrides** mínimos por personaje:
 `##### Relato_subjetivo (usar con moderación) - escena: "Torre de Humo / Sala de válvulas"   Lira: "juego de sombras, penachos como letanías; ve ritual donde hay mantenimiento"   Mael: "válvulas con cierre irregular; ve protocolo de seguridad, no rito"`
 > Guarda estos _overrides_ en la misma ficha del personaje o en `scripto_biblia.md` si crece. **No** sustituyen el §8 neutro; son _capas_.
-#### Ejemplo práctico (misma escena, dos POVs)
+## Ejemplo práctico (misma escena, dos POVs)
 **Neutro (`scripto_contexto.md`)**
 > Dársena Vieja: muelles de madera oscura con tablazón húmeda; olor a sal y brea; farolas de aceite parpadeante.
+
 **Salida Scripto con POV Lira (sensorium olfato 8, figuras “frío/sal/humo”)**
 > La dársena exhalaba **sal** vieja y **brea** reciente; las farolas **titilaban** como si el **frío** les mordiera la llama. La madera **rezumaba**, y el muelle parecía recordar cada paso con un crujido.
+
 **Salida Scripto con POV Mael (registro práctico, foco en seguridad/orden)**
 > La dársena estaba **resbaladiza**; tablazón húmeda junto a los amarres. Dos farolas tenían **mecha corta** —anota cambio de aceite—. El olor a brea indicaba **reparación reciente** de cascos, no fuga.
 Mismo lugar, **distinta experiencia** gracias a la lente.
@@ -45,7 +47,9 @@ En estos casos, usa el bloque **Relato_subjetivo** (delta), no un duplicado comp
 #### ¿Quieres que lo aplique ya a tus anexos?
 Puedo incorporar **Lente_POV** a las fichas de Lira, Varl, Mael y Madre Carbón, y añadir **§8 Lugares (neutros)** a `scripto_contexto.md`, dejando un ejemplo de **Relato_subjetivo** listo para usar.
 ## Tú dijiste:
-Tengo dos casos especificos: Ginn se disfraza de Shaed y quiero enganchar al lector diciendo en todo momento que el personaje es Shaed. Ginn y Shaed son muy parecidas físicamente pero mentalmente son casi opuestas, ademas Shaed, tiene algunas muletillas muy caracteristicas. Por otro lado tenemos a Rin que sufre de estres pos traumático y depresion. A causa de un accidente causado por ella, hubo un gran accidente y todos sus conocidos murieron, especialmente su mejor amiga Zeliie. Arrepentida y dolida, Rin se cambia el nombre a Zeliie.
+Tengo dos casos especificos: 
+Ginn se disfraza de Shaed y quiero enganchar al lector diciendo en todo momento que el personaje es Shaed. Ginn y Shaed son muy parecidas físicamente pero mentalmente son casi opuestas, ademas Shaed, tiene algunas muletillas muy caracteristicas. 
+Por otro lado tenemos a Rin que sufre de estres pos traumático y depresion. A causa de un accidente causado por ella, hubo un gran accidente y todos sus conocidos murieron, especialmente su mejor amiga Zeliie. Arrepentida y dolida, Rin se cambia el nombre a Zeliie.
 ## Asistente
 ¡Buenísimo caso! Para cubrir **disfraz/engaño** (Ginn→Shaed) y **identidad traumática/alias** (Rin→Zeliie) **sin fricción y machine-first**, te dejo:
 1. **Qué estrategia seguir** (muy breve).
