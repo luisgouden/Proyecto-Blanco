@@ -3,12 +3,12 @@
 #### 1) Identidad general
 - **Resumen en una frase**: Poder-parásito social que convierte *placer → deuda → registro → realidad* y gobierna administrando lo visible.
 - **Nombre interno (real)**: **Concordia del Prisma**.
-- **Nombre público preferente**: **Liga del Alba Serena** (paraguas respetable: filantropía, civismo, cultura).
+- **Nombre público preferente**: **Alba Serena**
 - **Lema operativo**: “Toda verdad tiene ángulo.”
 - **Regla de supervivencia**: nunca fundan templos; fundan **hábitos sociales**, **archivos**, **permisos** y **deuda**.
 - **Relación con el Colapso**: lo interpretan como **Apertura** (sobreexposición del mundo); su “misión” es monopolizar la exposición “segura” y cobrarla.
 
-#### 2) Eje estético-doctrinal (tono oscuro)
+#### 2) Eje estético-doctrinal
 - **Nombre interno del eje**: **Resplandor Cruel**.
 - **Fórmula operativa**: belleza como anzuelo + herida como firma + archivo como realidad.
 - **Tres axiomas**:
@@ -38,14 +38,12 @@
   - **Sala Oscura**: círculo interior; custodia protocolos; reconoce por pruebas/artefactos, no por nombres.
   - **Casa del Resplandor**: ingeniería social hedonista (salones, baños, música, etiqueta) como red de control.
   - **Cartografía del Deslumbramiento**: expediciones, rutas, pérdidas convenientes y peajes del mundo blanco.
-
 #### 5) Rangos (universales)
-- **Mechas**: aspirantes; acceso por tapaderas; disciplina de discreción.
-- **Fotómetros**: miden señal/ruido; vigilan archivos, rutas, rumores; detectan “condiciones”.
-- **Porta-vidrios**: custodian identidades, coartadas, listas de favores; administran tapaderas.
-- **Luminantes**: operadores simbólicos; ritos y operaciones de alto impacto perceptivo.
-- **Ópticos**: decanos; dirigen células y presupuesto; deciden enfoque, difusión, deslumbramiento o sombra técnica.
-- **Primera Lámpara** (rol, no persona): autoridad estética/doctrinal de la Casa del Resplandor; carisma y crueldad ritual.
+- **Vigías**: acceso y primera línea; disciplina de discreción; miden señal/ruido; vigilan archivos, rutas y rumores; detectan “condiciones”. (Aquí cae la antigua etapa de aspirante.)
+- **Custodios**: custodian identidades, coartadas y listas de favores; administran tapaderas; garantizan continuidad de la deuda registrable.
+- **Luminados**: operadores simbólicos; ritos y operaciones de alto impacto perceptivo; pueden actuar en salón (captación) o “de choque” (deslumbramiento/pánico).
+- **Decuriones**: jefes de célula; dirigen presupuesto y personal; deciden enfoque, difusión, deslumbramiento o sombra técnica; coordinan con cantones y órganos transversales.
+- **Primer Luminado** (rol, no persona): autoridad estética/doctrinal de la Casa del Resplandor; carisma y crueldad ritual.
 
 #### 6) Caminos de la Iluminación (facciones doctrinales; unidad protocolaria)
 - **Camino del Foco (Instrumentalistas)**  
@@ -57,7 +55,7 @@
 - **Camino del Haz (Ejecutores / Directa)**  
   Tesis: la luz se impone; dudar es ruido; hay que quemar lo impuro para que aparezca la forma.  
   Método: deslumbramiento, pánicos, purgas, guerras pequeñas, sacrificio reputacional.  
-  Bastiones: La Incandescencia, Luminantes de choque.  
+  Bastiones: La Incandescencia, **Luminados** de choque.  
   Debilidad: visibles y costosos; generan mártires; se vuelven predecibles.
 
 - **Camino del Prisma (Relativistas doctrinales)**  
@@ -83,7 +81,7 @@
 #### 8) Ritos y liturgia sin templos
 - **Regla**: todo ritual debe parecer hábito social, servicio, ceremonia cívica o cultura.
 - **Prueba del Vidrio** (entrada común): mismo hecho en tres encuadres; el candidato acepta que los tres son “verdaderos” para alguien (unidad por método, no por dogma).
-- **Bautismo de Exposición** (ascenso a Luminante): el candidato quema una versión pública de sí mismo (alianza, reputación, romance) como prueba de obediencia.
+- **Bautismo de Exposición** (ascenso a **Luminado**): el candidato quema una versión pública de sí mismo (alianza, reputación, romance) como prueba de obediencia.
 - **Liturgia de archivo**: inventarios, sellos, copias, cotejos; la devoción es burocrática.
 - **Liturgia de placer** (Casa del Resplandor): salones, baños, música y etiqueta como red de deuda y captación.
 
@@ -103,7 +101,7 @@
 - **Dependencia del ocio (Prisma)**: si el Jardín se vuelve sospechoso, la captación se vuelve cara y violenta.
 
 #### 11) Tapaderas y cultos satélite (piezas reutilizables)
-1) **Liga del Alba Serena**: filantropía educativa; recluta para Foco.
+1) **Alba Serena**: filantropía educativa; recluta para Foco.
 2) **Cofradía del Faro Cívico**: seguros, rutas, licencias; sirve a Incidencia y Prisma.
 3) **Jardín del Resplandor**: artes, etiqueta, baños/tea; captación del Prisma.
 4) **Contables del Juramento**: mérito y honor; cantera del Haz.
@@ -111,10 +109,21 @@
 6) **Hermandad de la Bruma Templada**: mensajería, lutos, acompañamiento; canal de Bruma.
 7) **Colegio de Restauradores**: preservación cultural; puerta trasera del Oficio del Prisma.
 8) **Orden de la Vidriera**: festivales de luz, vitrales, procesiones; normaliza símbolos.
-9) **Círculo de la Linterna**: tertulias/salones; selección de talentos para Lente y Espectro.
-10) **Hijos de la Luz Cruel**: pantalla escandalosa; absorbe atención y culpa cuando hace falta.
+9) **Círculo de la Luz**: tertulias/salones; selección de talentos para Lente y Espectro.
+10) **Hijos del : pantalla escandalosa; absorbe atención y culpa cuando hace falta.
 
-#### 12) Patrones de campaña (“casos cerrados”)
+#### 12) Casos cerrados
+
+Caso A: “Reforma luminosa” (Foco)  
+Una reforma curricular “moderniza” Teeli; semanas después arde un archivo “accidentalmente”, sobreviviendo solo una caja con la nueva versión. La población siente progreso; la historia cambia sin resistencia.
+
+Caso B: “La noche del mediodía” (Haz)  
+Un escándalo moral se fabrica para deslumbrar; mientras todos miran, se firma un pacto militar-económico. Al día siguiente hay culpables perfectos y un relato único: orden restaurado.
+
+Caso C: “El mapa que falta” (Blanco + Prisma)  
+Una expedición al mundo blanco se declara perdida; aparece un mapa incompleto que hace a todos competir por la pieza ausente. La Concordia cobra peajes a cada bando por “pistas” distintas, todas plausibles.
+
+#### 13) Patrones de campaña (“casos cerrados”)
 - **Reforma luminosa (Foco)**: reforma curricular “moderniza”; arde un archivo; sobrevive solo la nueva versión.
 - **La noche del mediodía (Haz)**: escándalo moral fabricado; mientras todos miran, se firma un pacto; culpables perfectos.
 - **El mapa que falta (Blanco + Prisma)**: expedición “perdida”; aparece mapa incompleto; todos compiten; la Concordia vende “pistas” plausibles y cobra peajes.
